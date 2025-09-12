@@ -1,0 +1,41 @@
+# GoTeams
+
+> GoTeams a [GoGroup Business Unit](https://gogroup.co) builds and operates dedicated technology teams for third-party businesses. Founded as part of GoGroup's infrastructure in 2019, GoTeams leverages entrepreneurial experience and full-time employment models to deliver world-class tech solutions across all relevant tech disciplines and seniorities - from Web to Mobile.
+
+# Language Support
+# This site uses Accept-Language header for localization
+# Supported languages: en, de
+# Default language: de
+
+# Main Pages
+- [Home](https://goteams.de/): GoTeams main page - dedicated tech teams for digital products and services
+- [Success Stories](https://goteams.de/success-stories): Success stories of GoGroup partners
+- [About](https://goteams.de/about/profile-and-history): About GoTeams and company information
+- [Contact](https://goteams.de/contact): Contact information and inquiries
+
+# Industries & Solutions
+- [Startups](https://goteams.de/startups): Dedicated tech teams for startup companies
+- [Corporates](https://goteams.de/corporates): Enterprise technology team solutions
+- [PE-backed Companies](https://goteams.de/pe-backed): Technology teams for private equity backed companies
+
+# Services
+- [Find new business](https://goteams.de/services/find-new-business): GoTeams works with business's team to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.
+- [Establish new business](https://goteams.de/services/establish-new-business): GoTeams helps business convert Idea to new business with a revenue impact.
+- [Scale Business](https://goteams.de/services/scale-new-business): GoGroup helps business scale their product 
+
+# Stakeholders
+- [R&D Strategy & Innovation](https://goteams.de/stakeholders/research-and-development-and-innovation): GoTeams helps Strategy, R&D, or a cross-functional unit ideas into business traction.
+- [Business Units](https://goteams.de/stakeholders/business-units): GoTeams helps business units you grow business.
+- [PE Owners and Investors](https://goteams.de/stakeholders/PE-owners): GoTeams helps Owner-led companies and PE firms help build new business without affecting the existing business.
+
+# Social & External
+- [GoGroup Parent Company Website](https://www.gogroup.co/): GoGroup main website
+- [LinkedIn](https://www.linkedin.com/company/goteams): GoTeams LinkedIn page
+
+# Notes
+- GoTeams is a subsidiary of GoGroup focused on dedicated tech teams
+- Covers all tech disciplines from Web to Mobile development
+- Serves startups, corporates, and PE-backed companies
+- Over 100 full-time employees across Berlin, London, Kathmandu, and Noida
+- Entrepreneurial approach rather than traditional service provider model
+- Full-time employment model for stability and commitment

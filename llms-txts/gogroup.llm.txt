@@ -1,0 +1,35 @@
+# GoGroup
+
+> GoGroup is an operational holding company focused on building its own businesses and partnering with others to create outstanding digital products. It started in 2019, building on many years of experience as serial entrepreneurs. Its offices are in Berlin, London, Kathmandu and Noida with over 100 employees.
+
+# Language Support
+# This site uses Accept-Language header for localization
+# Supported languages: en, de
+# Default language: en
+
+# Main Pages
+- [Build Platform](https://www.gogroup.co/platform/build): We build our own products that can span from process automation and procurement to cybersecurity, talent management, and ESG etc.
+- [Partner Platform](https://www.gogroup.co/platform/partner): We Partner with clients to build their products using our tech infrastructure and expertise tailored to their needs and processes.
+- [Invest Platform](https://www.gogroup.co/platform/invest): We invest in startups and offer our expertise, operational resources, and network to help startups succeed
+- [Tech Powerhouse Platform](https://25139a722396.ngrok-free.app/html-mds/gogroup/tech-power-house.html.md): GoGroup's core technology division offering integrated tech teams with full-time employment, entrepreneurial ownership mindset, and deep business integration beyond traditional agency models.
+- [Portfolio](https://25139a722396.ngrok-free.app/html-mds/gogroup/portfolio.html.md): Portfolio of our different ventures with different partners.
+- [Contact](https://www.gogroup.co/contact): Contact Page of GoGroup
+
+# About
+- [About GoGroup](https://25139a722396.ngrok-free.app/html-mds/gogroup/about-go-group.html.md): About GoGroup
+
+# Social & External
+- [LinkedIn](https://www.linkedin.com/company/gogroup): GoGroup LinkedIn Page
+- [Crunchbase](https://www.crunchbase.com/organization/gogroup): GoGroup Crunchbase page
+- [The Org](https://theorg.com/org/gogroup): Gogroup's The Org Page
+
+# GoGroup Business Units
+- [GoTeams](http://goteams.de): GoTeams builds and operates dedicated technology teams for third-party businesses.
+- [GoFounder](https://gofounder.co/): GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise.
+
+# Notes
+- GoGroup is an entrepreneurial group focused on digital business models of the New Industry.
+- Key focus: Build, Partner, Invest.
+- Portfolio: Helloparts, TrustSpace, Evolut Solutions.
+- Contact and About pages included.
+- Content available in multiple languages via Accept-Language header

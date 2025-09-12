@@ -1,0 +1,18 @@
+# GoFounder
+
+> GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. Your co-founder to get things going.
+
+# Main Pages
+- [Home](https://gofounder.co/): GoFounder main page - your co-founder to get things going
+- [Kickoff](https://gofounder.co/kickoff): Initial startup kickoff phase and planning
+- [Get Started](https://gofounder.co/get-started): Getting started with your startup journey
+- [Get Momentum](https://gofounder.co/get-momentum): Building momentum and traction for your startup
+- [Get Scale](https://gofounder.co/get-scale): Scaling your startup operations and growth
+- [Long Term Teams](https://gofounder.co/long-term-teams): Building and managing long-term startup teams
+
+# Notes
+- GoFounder.co is a startup support platform
+- Focus on helping entrepreneurs transform ideas into successful startups
+- Provides proven methodologies, resources, and hands-on expertise
+- Structured approach covering startup journey stages: Kickoff → Get Started → Get Momentum → Get Scale → Long Term Teams
+- Covers complete founder journey from initial planning to scaling and team building

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GEO</title>
+    <style>
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+          sans-serif;
+        padding: 16px;
+      }
+      section {
+        padding-bottom: 24px;
+      }
+      .blockquote {
+        background-color: #9cf6f6;
+        padding: 8px;
+        border-left: 4px solid #007acc;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>GEO schema and LLM related topics</h1>
+    <section>
+      <h2>Schema.org Schemas</h2>
+      <p>
+        Schema.org is a collaborative, community-driven effort to create a
+        standardized vocabulary for structured data. It defines a wide range of
+        types (e.g., Person, Product, Article, Event) and properties (e.g.,
+        name, description, price, startDate) that can be used to describe
+        entities and their relationships. The primary benefit of using JSON-LD
+        schema is its ability to enable rich results in search engine results
+        pages (SERPs). This can include features like star ratings, recipe
+        snippets, event details, and more, which can significantly improve
+        visibility and click-through rates.<br />
+        This is not only helpful for SEO but also enhances a website's ranking
+        in LLMs like ChatGPT, Claude, Gemini, Google Answers etc.
+      </p>
+      <p>Below are schemas that should be included in the GoGroup sites:</p>
+      <ul>
+        <li><a href="schemas/gogroup/index.json">gogroup.co Schema</a></li>
+        <li><a href="schemas/goteams/index.json">goteams.de Schema</a></li>
+      </ul>
+      <p class="blockquote">
+        These schemas are initial drafts, please provide feedback and
+        suggestions for improvement.
+      </p>
+    </section>
+
+    <section>
+      <h2>llms.txt</h2>
+      <p>
+        llms.txt markdown file to websites to provide LLM-friendly content. This
+        file offers brief background information, guidance, and links to
+        detailed markdown files.
+        <br />llms.txt markdown is human and LLM readable, but is also in a
+        precise format allowing fixed processing methods (i.e. classical
+        programming techniques such as parsers and regex). <br />Basically this
+        file should contain the essential information and context needed for
+        LLMs to understand and generate relevant responses. <br /><br />Read
+        more about it at <a href="https://llmstxt.org/">llmstxt.org</a>
+      </p>
+
+      <p>Below are the llms.txt of GoGroup sites</p>
+      <ul>
+        <li><a href="llms-txts/gogroup.llm.txt">gogroup.co llm.txt</a></li>
+        <li><a href="llms-txts/goteams.llm.txt">goteams.de llm.txt</a></li>
+        <li><a href="llms-txts/gofounder.llm.txt">gofounder.co llm.txt</a></li>
+      </ul>
+
+      <p class="blockquote">
+        These llms.txt are essential for providing LLMs with the context and
+        information they need to generate accurate and relevant responses. The
+        content is just the content from the actual gogroup sites the only
+        difference being that the content is brief.
+      </p>
+    </section>
+
+    <section>
+      <h2>Pages in Html.md format</h2>
+      <p>
+        These .md files are basically LLM-friendly version of the route
+        mentioned. These are used because the actual html page might have ads, dynamic content etc.
+        These md pages contain data that should be read by LLMs and should be concise and to the point.
+        <br/>These pages should be served in the same route as the original page the difference being they will have .html.md at the end
+        <br/> <b>e.g.:</b> <a href="https://www.gogroup.co/about/about-go-group.html.md">https://www.gogroup.co/about/about-go-group.html.md</a> page should have https://www.gogroup.co/about/about-go-group.html.md page
+      </p>
+
+      <h3>gogroup.co pages</h3>
+      <ul>
+        <li><a href="html-mds/gogroup/about-go-group.html.md">About Go Group</a></li>
+        <li><a href="html-mds/gogroup/portfolio.html.md">Portfolio</a></li>
+        <li><a href="html-mds/gogroup/tech-power-house.html.md">Tech Power House</a></li>
+      </ul>
+
+      <p class="blockquote">
+        These .md files can be read in <a href="https://markdownlivepreview.com/">Markdown Live Preview</a> to view the md files and llm.txt with proper formatting.
+      </p>
+      <p class="blockquote">These .md files are linked in llms.txt</p>
+    </section>
+  </body>
+</html>
