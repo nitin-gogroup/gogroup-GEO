@@ -19,9 +19,9 @@
 - [PE-backed Companies](https://goteams.de/pe-backed): Technology teams for private equity backed companies
 
 # Services
-- [Find new business](https://goteams.de/services/find-new-business): GoTeams works with business's team to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.
-- [Establish new business](https://goteams.de/services/establish-new-business): GoTeams helps business convert Idea to new business with a revenue impact.
-- [Scale Business](https://goteams.de/services/scale-new-business): GoGroup helps business scale their product 
+- [Find new business](https://goteams.de/services/find-new-business): GoTeams works with partner's team to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.
+- [Establish new business](https://goteams.de/services/establish-new-business): GoTeams helps partner convert Idea to new business with a revenue impact.
+- [Scale Business](https://goteams.de/services/scale-new-business): GoGroup helps partner scale their product 
 
 # Stakeholders
 - [R&D Strategy & Innovation](https://goteams.de/stakeholders/research-and-development-and-innovation): GoTeams helps Strategy, R&D, or a cross-functional unit ideas into business traction.

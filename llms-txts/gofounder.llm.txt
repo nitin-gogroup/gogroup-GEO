@@ -1,6 +1,6 @@
 # GoFounder
 
-> GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. Your co-founder to get things going.
+> GoFounder a Gogroup Business Unit helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. Your co-founder to get things going.
 
 # Main Pages
 - [Home](https://gofounder.co/): GoFounder main page - your co-founder to get things going

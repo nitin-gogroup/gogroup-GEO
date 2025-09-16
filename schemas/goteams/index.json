@@ -2,10 +2,9 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "GoTeams",
-  "legalName": "GoGroup GmbH",
   "url": "https://goteams.de",
   "logo": "https://goteams.de/images/logo-green.png",
-  "description": "GoTeams builds and operates dedicated technology teams for third-party businesses. A subsidiary of GoGroup that leverages entrepreneurial experience and full-time employment models to deliver world-class tech solutions across all relevant tech disciplines and seniorities.",
+  "description": "GoTeams helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution.",
   "foundingDate": "2019",
   "numberOfEmployees": "100+",
   "slogan": "Dedicated Tech Teams for Digital Excellence",
@@ -13,21 +12,10 @@
     "Information Technology",
     "Software Development",
     "Technology Services",
-    "Digital Products"
+    "Digital Products",
+    "Product Management"
   ],
-  "specialties": [
-    "Dedicated Tech Teams",
-    "Web Development",
-    "Mobile Development",
-    "Backend Development",
-    "DevOps",
-    "Quality Assurance",
-    "Full-Stack Development",
-    "Technology Consulting",
-    "Disrupt with AI"
-  ],
-  "keywords": "dedicated tech teams, software development, web development, mobile development, startup tech teams, corporate technology solutions",
-  "organizationType": "Privately Held",
+  "keywords": "dedicated tech teams, software development, web development, mobile development, backend development, devops, quality assurance, full-stack development, technology consulting, disrupt with AI, product management, project management, startup tech teams, corporate technology solutions",
   "parentOrganization": {
     "@type": "Organization",
     "name": "GoGroup GmbH",
@@ -43,14 +31,27 @@
     {
       "@type": "PostalAddress",
       "addressLocality": "Noida",
-      "addressRegion": "Delhi",
+      "addressRegion": "Delhi/NCR",
       "addressCountry": "India",
       "name": "Noida Office"
+    },
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "London",
+      "addressCountry": "United Kingdom",
+      "name": "London Office"
+    },
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "Kathmandu",
+      "addressCountry": "Nepal",
+      "name": "Kathmandu Office"
     }
   ],
   "contactPoint": {
     "@type": "ContactPoint",
     "url": "https://goteams.de/contact",
+    "email": "mailto:hello@gogroup.co",
     "contactType": "Customer Service",
     "availableLanguage": ["German", "English"]
   },
@@ -61,7 +62,7 @@
       {
         "@type": "Offer",
         "name": "Find new business",
-        "description": "Partner with client to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.",
+        "description": "Help Partner scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.",
         "url": "https://goteams.de/services/find-new-business",
         "category": "Business Development"
       },
@@ -144,13 +145,7 @@
     "API Development"
   ],
   "areaServed": ["Germany", "Europe", "Asia"],
-  "employee": {
-    "@type": "QuantitativeValue",
-    "value": "100+",
-    "description": "Full-time employed technology professionals"
-  },
   "employmentType": "FULL_TIME",
-  "workRemote": true,
   "inLanguage": ["de", "en"],
   "businessFunction": "Technology Development",
   "additionalProperty": [
@@ -167,7 +162,7 @@
     {
       "@type": "PropertyValue",
       "name": "Team Integration",
-      "value": "Deep integration into client businesses with full project ownership"
+      "value": "Deep integration into partner's businesses with full project ownership"
     }
   ]
 }

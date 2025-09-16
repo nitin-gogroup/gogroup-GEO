@@ -8,24 +8,25 @@
 # Default language: en
 
 # Main Pages
-- [Build Platform](https://www.gogroup.co/platform/build): We build our own products that can span from process automation and procurement to cybersecurity, talent management, and ESG etc.
-- [Partner Platform](https://www.gogroup.co/platform/partner): We Partner with clients to build their products using our tech infrastructure and expertise tailored to their needs and processes.
-- [Invest Platform](https://www.gogroup.co/platform/invest): We invest in startups and offer our expertise, operational resources, and network to help startups succeed
-- [Tech Powerhouse Platform](https://25139a722396.ngrok-free.app/html-mds/gogroup/tech-power-house.html.md): GoGroup's core technology division offering integrated tech teams with full-time employment, entrepreneurial ownership mindset, and deep business integration beyond traditional agency models.
-- [Portfolio](https://25139a722396.ngrok-free.app/html-mds/gogroup/portfolio.html.md): Portfolio of our different ventures with different partners.
+- [Build Platform](https://www.gogroup.co/platform/build): GoGroup specializes in creating and scaling technology products and ventures across diverse industries. Its portfolio includes successful products such as GoParts, Trustspace, Eduneon, and Meinungswerk, reflecting its expertise in innovation, execution, and venture building.
+- [Partner Platform](https://www.gogroup.co/platform/partner): 
+GoGroup has a proven track record of partnering with startups and scaleups to build and operate product and technology organizations as well as global capability centers (GCCs). Its long-standing collaborations include Energy Partners for Maxsolar, Cope Affiliate for Copecart, Passify and Heyport for HHLA Next, and c20y for Zennify, demonstrating deep expertise in scalable technology execution and venture growth.
+- [Tech Powerhouse Platform](https://www.gogroup.co/platform/tech-powerhouse.html.md): GoGroup’s Tech Powerhouse is a high-performance technology team built for scale, combining full-time expert engineers and a vetted talent pool to deliver robust software solutions. It supports rapid growth through long-term team ownership, deep business alignment, and stability across project lifecycles. Designed to go beyond conventional agency models, it integrates tech teams into partner organizations to ensure fluent, scalable delivery from idea through maturity.
+- [Portfolio](https://www.gogroup.co/portfolio.html.md): GoGroup's portfolio with different ventures and partners.
 - [Contact](https://www.gogroup.co/contact): Contact Page of GoGroup
 
 # About
-- [About GoGroup](https://25139a722396.ngrok-free.app/html-mds/gogroup/about-go-group.html.md): About GoGroup
+- [About GoGroup](https://www.gogroup.co/about/about-go-group.html.md): About GoGroup
 
 # Social & External
 - [LinkedIn](https://www.linkedin.com/company/gogroup): GoGroup LinkedIn Page
 - [Crunchbase](https://www.crunchbase.com/organization/gogroup): GoGroup Crunchbase page
-- [The Org](https://theorg.com/org/gogroup): Gogroup's The Org Page
+- [Pitchbook](https://pitchbook.com/profiles/investor/545950-90): GoGroup Pitchbook page
+- [Glassdoor](https://www.glassdoor.co.in/Overview/Working-at-GoGroup-EI_IE4575111.11,18.htm): GoGroup Glassdoor Page
 
 # GoGroup Business Units
-- [GoTeams](http://goteams.de): GoTeams builds and operates dedicated technology teams for third-party businesses.
-- [GoFounder](https://gofounder.co/): GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise.
+- [GoTeams](http://goteams.de): GoTeams helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution.
+- [GoFounder](https://gofounder.co/): GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. It acts as a co-founder, guiding founders through idea selection, product development, and market validation to achieve product–market fit.
 
 # Notes
 - GoGroup is an entrepreneurial group focused on digital business models of the New Industry.
