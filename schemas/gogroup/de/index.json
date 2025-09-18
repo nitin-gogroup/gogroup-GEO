@@ -1,0 +1,295 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "GoGroup",
+  "legalName": "GoGroup GmbH",
+  "url": "https://www.gogroup.co",
+  "logo": "https://www.gogroup.co/images/logo-red.png",
+  "description": "GoGroup ist eine operative Holdinggesellschaft, die sich auf den Aufbau eigener Unternehmen und die Zusammenarbeit mit anderen Partnern konzentriert, um herausragende digitale Produkte zu entwickeln. Das Unternehmen wurde 2019 gegründet und baut auf langjähriger Erfahrung als Serienunternehmer auf.",
+  "foundingDate": "2019",
+  "founders": [
+    {
+      "@type": "Person",
+      "name": "Sascha Weiler",
+      "email": "mailto:sascha.weiler@gogroup.co",
+      "jobTitle": "Gründungspartner",
+      "image": "https://www.gogroup.co/api/media/file/Sascha%20neu.jpeg",
+      "sameAs": [
+        "https://de.linkedin.com/in/saschaweiler1",
+        "https://www.crunchbase.com/person/sascha-weiler"
+      ]
+    },
+    {
+      "@type": "Person",
+      "name": "Nico Weiler",
+      "email": "mailto:nico.weiler@gogroup.co",
+      "jobTitle": "Gründungspartner",
+      "image": "https://www.gogroup.co/api/media/file/Nico%20neu.jpeg",
+      "sameAs": [
+        "https://de.linkedin.com/in/nicoweiler",
+        "https://www.crunchbase.com/person/nico-weiler"
+      ]
+    },
+    {
+      "@type": "Person",
+      "name": "Shishir Goel",
+      "email": "mailto:shishir.goel@gogroup.co",
+      "jobTitle": "Gründungspartner",
+      "image": "https://www.gogroup.co/api/media/file/shishirgoel.jpg",
+      "sameAs": ["https://www.crunchbase.com/person/shishir-goel"]
+    }
+  ],
+  "numberOfEmployees": "100+",
+  "industry": [
+    "Technologie",
+    "Informationen und Internet",
+    "Risikokapital",
+    "Digitale Produkte"
+  ],
+  "keywords": "operative Holdinggesellschaft, digitale Produkte, Risikokapital, Startup-Studio, Technologie-Powerhouse, Softwareentwicklung, Tech-Teams",
+  "address": [
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "Berlin",
+      "addressCountry": "Deutschland",
+      "name": "Büro Berlin"
+    },
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "Noida",
+      "addressRegion": "Delhi/NCR",
+      "addressCountry": "Indien",
+      "name": "Büro Noida"
+    },
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "London",
+      "addressCountry": "Vereinigtes Königreich",
+      "name": "Büro London"
+    },
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "Kathmandu",
+      "addressCountry": "Nepal",
+      "name": "Büro Kathmandu"
+    }
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "url": "https://www.gogroup.co/contact",
+    "email": "mailto:hello@gogroup.co",
+    "contactType": "Vertriebskontakt",
+    "availableLanguage": ["Deutsch", "Englisch"]
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/gogroup",
+    "https://pitchbook.com/profiles/investor/545950-90",
+    "https://www.crunchbase.com/organization/gogroup",
+    "https://www.glassdoor.co.in/Overview/Working-at-GoGroup-EI_IE4575111.11,18.htm"
+  ],
+  "subOrganization": [
+    {
+      "@type": "Organization",
+      "name": "GoTeams",
+      "url": "https://goteams.de",
+      "description": "GoTeams unterstützt Unternehmen beim Aufbau und der Skalierung neuer Geschäftsfelder. Es deckt Chancen auf, die sich aus Marktveränderungen, neuen Technologien und Kundenbedürfnissen ergeben. Seine Teams setzen Ideen schnell in MVP, Markteinführung und erste Kunden um und skalieren dann Produkte, Kanäle und Teams mit Geschwindigkeit und Disziplin. GoTeams nutzt AI, um intelligente Produkte, autonome Dienste und Effizienzsteigerungen in allen Betriebsbereichen zu ermöglichen. GoTeams wurde 2019 gegründet und baut und betreibt dedizierte Technologieteams in den Bereichen Web, Mobile und AI für eine erstklassige Umsetzung."
+    },
+    {
+      "@type": "Organization",
+      "name": "GoFounder",
+      "url": "https://gofounder.co",
+      "description": "GoFounder hilft Unternehmern, Ideen in erfolgreiche Startups mit bewährten Methoden, Ressourcen und praktischer Expertise zu transformieren. Es fungiert als Mitgründer und begleitet Gründer bei der Ideenfindung, Produktentwicklung und Marktvalidierung, um die Produkt-Markt-Passung zu erreichen."
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "GoGroup-Dienstleistungen",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Bauplattform",
+        "description": "GoGroup ist auf die Entwicklung und Skalierung von Technologieprodukten und -unternehmen in verschiedenen Branchen spezialisiert. Zu seinem Portfolio gehören erfolgreiche Produkte wie GoParts, Trustspace, Eduneon und Meinungswerk, die seine Kompetenz in den Bereichen Innovation, Umsetzung und Unternehmensaufbau widerspiegeln.",
+        "url": "https://www.gogroup.co/platform/build"
+      },
+      {
+        "@type": "Offer",
+        "name": "Partnerplattform",
+        "description": "GoGroup hat eine nachgewiesene Erfolgsbilanz in der Zusammenarbeit mit Startups und Scaleups, um Produkt- und Technologieorganisationen sowie globale Kompetenzzentren (GCCs) aufzubauen und zu betreiben. Zu den langjährigen Kooperationen gehören Energy Partners für Maxsolar, Cope Affiliate für Copecart, Passify und Heyport für HHLA Next sowie c20y für Zennify, was tiefgehende Expertise in der skalierbaren Technologieumsetzung und im Unternehmenswachstum demonstriert.",
+        "url": "https://www.gogroup.co/platform/partner"
+      },
+      {
+        "@type": "Offer",
+        "name": "Technologie-Powerhouse",
+        "description": "Das Tech Powerhouse von GoGroup ist ein leistungsstarkes Technologieteam, das auf Skalierbarkeit ausgelegt ist und aus festangestellten Fachingenieuren und einem geprüften Talentpool besteht, um robuste Softwarelösungen zu liefern. Es unterstützt schnelles Wachstum durch langfristige Teamverantwortung, intensive Geschäftsausrichtung und Stabilität über den gesamten Projektlebenszyklus hinweg. Es geht über herkömmliche Agenturmodelle hinaus und integriert Technologieteams in Partnerorganisationen, um eine reibungslose, skalierbare Umsetzung von der Idee bis zur Marktreife zu gewährleisten.",
+        "url": "https://www.gogroup.co/platform/tech-powerhouse"
+      }
+    ]
+  },
+  "serviceOutput": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "Helloparts",
+      "applicationCategory": "AI, Cloud, Automobil",
+      "offers": "Verbindet Lieferanten von Autoteilen, Werkstätten und Versicherungen.",
+      "description": "Die intelligente Einkaufsplattform für Teileprofis",
+      "sameAs": ["https://www.gogroup.co/portfolio/helloparts"],
+      "url": "https://www.helloparts.com/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "TrustSpace",
+      "applicationCategory": "AI, Cloud, Cybersecurity",
+      "offers": "Schützt KMUs vor Cyberangriffen.",
+      "description": "TrustSpace ist ein Automatisierungstool für Compliance, dem Kunden und Partner aus über 10 Ländern vertrauen. Die Lösung ermöglicht Unternehmen jeder Größe, ihre Systeme, Prozesse und Vermögenswerte vor Cyberbedrohungen zu schützen. Dies hilft ihnen, Industriestandards einzuhalten und wichtige Zertifizierungen zu erhalten, ohne langwierige Prüfungen und Beratungsleistungen durchlaufen zu müssen.",
+      "sameAs": ["https://www.gogroup.co/portfolio/trustspace"],
+      "url": "https://trustspace.io/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Eduneon",
+      "applicationCategory": "AI, Cloud, Verwaltungstechnologie",
+      "offers": "Software zur Unterstützung von öffentlichen Verwaltungen und dem digitalen Infrastrukturmanagement im Bildungsbereich",
+      "description": "Eduneon bietet Software, die insbesondere öffentlichen Verwaltungen im Bildungsbereich (Schulen, Schulträger, Kommunen) hilft, digitale und infrastrukturelle Ressourcen effizienter zu planen, zu beschaffen und zu verwalten.",
+      "sameAs": ["https://www.gogroup.co/portfolio/eduneon"],
+      "url": "https://www.eduneon.de/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Heyport",
+      "applicationCategory": "AI, Cloud, Logistik",
+      "offers": "Optimiert Prozesse bei der Schiffsabfertigung.",
+      "description": "heyport ist ein Hamburger Technologieunternehmen, das sich auf die Koordination von Hafenanläufen spezialisiert hat. Entwickelt von HHLA Next, der Innovationseinheit der Hamburger Hafen und Logistik AG (HHLA), zielt heyport darauf ab, die Kommunikation und Koordination zwischen maritimen Akteuren zu verbessern.",
+      "sameAs": ["https://www.gogroup.co/portfolio/heyport"],
+      "url": "https://www.heyport.io/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Passify",
+      "applicationCategory": "Cloud, Logistik",
+      "offers": "Automatisiert die Abwicklung des Lieferverkehrs in Häfen.",
+      "description": "Passify vereinfacht und sichert die Lkw-Abwicklung, indem Zugang, Koordination und Kommunikation zwischen allen Logistikbeteiligten digitalisiert werden.",
+      "sameAs": ["https://www.gogroup.co/portfolio/passify"],
+      "url": "https://www.passifyapp.de/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "applicationCategory": "AI, Cloud, Logistik",
+      "offers": "Digitalisiert die Zugkoordination in der intermodalen Logistik.",
+      "description": "RailSync ist die einfachste und effizienteste Lösung zur Koordination von Schienengüterverkehr an intermodalen Terminals. Die Plattform optimiert Slot-Management-Prozesse, spart Zeit und Ressourcen und verbessert die Genauigkeit und Zuverlässigkeit der Logistikabläufe.",
+      "sameAs": ["https://www.gogroup.co/portfolio/railsync"],
+      "url": "https://www.railsync.app/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "applicationCategory": "AI, Cloud, Twilio",
+      "offers": "Stärkt Menschen durch digitale Ingenieurskunst.",
+      "description": "Terazo, übernommen von Zennify - ehemals c20y - ist eine API-first Digital Engineering Beratung, die Unternehmen dabei unterstützt, durch AI, Data Engineering und Cloud-Services zu modernisieren und zu wachsen. Das Unternehmen spezialisiert sich darauf, Schlüsselsysteme mit Tools und Daten intelligenter zu machen und Lösungen zu bieten, die den Übergang zu digitalen Prozessen ohne vollständige Systemumstellung ermöglichen.",
+      "sameAs": ["https://www.gogroup.co/portfolio/terazo"],
+      "url": "https://www.zennify.com/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Intalento",
+      "applicationCategory": "AI, Cloud",
+      "offers": "Vereinfacht die Rekrutierung internationaler Fachkräfte für KMUs.",
+      "description": "Intalento von Haufe unterstützt KMUs dabei, internationale Fachkräfte aus Drittstaaten schnell und effizient einzustellen. Die Plattform begleitet Unternehmen und Talente insbesondere Schritt für Schritt durch den Visaprozess. Durch kontinuierliche Status-Updates schafft sie Transparenz für beide Parteien und hilft, die notwendigen Dokumente zusammenzustellen und zu prüfen.",
+      "sameAs": ["https://www.gogroup.co/portfolio/intalento"],
+      "url": "https://intalento.com/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "applicationCategory": "AI, Logistik, Cloud",
+      "offers": "Lagerlösungen",
+      "description": "Warehousing1 bietet einen Fulfillment-Service aus einer Hand für schnell wachsende E-Commerce-Unternehmen und etablierte Firmen, indem Logistikdienstleistungen vom Kommissionieren, Verpacken, Lagern bis zur Übergabe an Versanddienstleister gebündelt werden. Heute nutzen mehr als 500 Kunden aus allen Branchen das Netzwerk von über 1.000 Standorten in Deutschland, Europa und den USA für flexible und skalierbare Lösungen im Bereich E-Commerce-Fulfillment und Lagerlogistik.",
+      "sameAs": ["https://www.gogroup.co/portfolio/warehousing1"],
+      "url": "https://warehousing1.com/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "GoPuls",
+      "applicationCategory": "Cloud, Gesundheitswesen, Quick Commerce",
+      "offers": "Liefert Apothekenprodukte auf Abruf.",
+      "description": "First A - jetzt bekannt als GoPuls - ist Deutschlands erster Sofort-Lieferdienst für Medikamente. Heute liefert das Unternehmen, das 2022 von Shop Apotheke übernommen wurde, täglich rund 20.000 pharmazeutische und Pflegeprodukte direkt zum Kunden nach Hause - von 8 bis 22 Uhr. Im Zentrum des Services steht ein deutschlandweites Netzwerk angeschlossener Apotheken, die als standortbasierte Lieferanten agieren.",
+      "sameAs": ["https://www.gogroup.co/portfolio/first-a"],
+      "url": "https://www.gopuls.de/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Energy Partners",
+      "applicationCategory": "Nachhaltigkeit, Cloud",
+      "offers": "Lieferung maßgeschneiderter Energielösungen für Unternehmen, Handel und Industrie.",
+      "description": "Energy Partners wurde 2024 von MaxSolar gegründet, um schnellen Zugang zu skalierbaren Energielösungen zu bieten und bezahlbaren Strom sowie saubere Energie für Industrie- und Gewerbekunden verfügbar zu machen. Das Unternehmen erreicht dies mit CO2-neutralen Energiesystemen und innovativen digitalen Lösungen.",
+      "sameAs": ["https://www.gogroup.co/portfolio/energy-partners"],
+      "url": "https://www.energypartners.de/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "PowerUs",
+      "applicationCategory": "Cloud, Human Resources",
+      "offers": "Hilft Technikern, Jobs zu finden",
+      "description": "PowerUs konzentriert sich auf die Vermittlung von Elektrikern, Mechatronikern und SHK-Technikern an qualifizierte Unternehmen.",
+      "sameAs": ["https://www.gogroup.co/portfolio/powerus"],
+      "url": "https://powerus.de/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "MedBelle",
+      "applicationCategory": "Cloud, Gesundheitswesen",
+      "offers": "Persönliche Gesundheitsversorgung",
+      "description": "Medbelle bietet einfachere, intelligentere und persönlichere Gesundheitsversorgung für alle im Vereinigten Königreich. Medbelle-Patienten haben nur einen Ansprechpartner, ihren persönlichen Patient Care Adviser, der sie durch den gesamten Behandlungsweg begleitet, Unterstützung bietet, Spezialisten vernetzt und die Informationen liefert, die Patienten für informierte Entscheidungen über ihre Behandlungsmöglichkeiten benötigen. Kliniker erhalten administrative Unterstützung und effiziente Technologie und sind mit anderen Spezialisten vernetzt.",
+      "sameAs": ["https://www.gogroup.co/portfolio/medbelle"],
+      "url": "https://www.medbelle.com/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Evernest",
+      "applicationCategory": "Cloud, PropTech",
+      "offers": "Immobilienverkauf, -kauf und -vermietung",
+      "description": "Evernest ist eine digitale Immobilienplattform, die einen nahtlosen und effizienten Weg bietet, Immobilien online zu kaufen, zu verkaufen und zu vermieten.",
+      "sameAs": ["https://www.gogroup.co/portfolio/evernest"],
+      "url": "https://www.evernest.co/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "LoanLink",
+      "applicationCategory": "Cloud, PropTech",
+      "offers": "Digitale Plattform für Immobilien- und Baufinanzierung.",
+      "description": "LoanLink ist eine digitale Plattform, die Kreditnehmer mit Kreditgebern für Privat- und Geschäftskredite verbindet.",
+      "sameAs": ["https://www.gogroup.co/portfolio/loanlink"],
+      "url": "https://www.loanlink.de/"
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Caroobi",
+      "applicationCategory": "Cloud, Automobil",
+      "offers": "Vereinfacht Autoreparatur- und Wartungsdienste.",
+      "description": "Caroobi war eine Online-Plattform, die Autobesitzer mit professionellen Mechanikern für bequeme und erschwingliche Autoreparaturen und Wartungsdienste verbindet.",
+      "sameAs": [
+        "https://www.crunchbase.com/organization/caroobi",
+        "https://www.gogroup.co/portfolio/caroobi"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Homebell",
+      "applicationCategory": "Services, Cloud",
+      "offers": "Digitalisiert die Bereitstellung von Handwerksdienstleistungen.",
+      "description": "Homebell war eine digitale Plattform, die Hausbesitzer mit lokalen Dienstleistern für Renovierungs- und Wartungsprojekte verbindet.",
+      "sameAs": [
+        "https://www.linkedin.com/company/homebell/",
+        "https://www.gogroup.co/portfolio/homebell"
+      ]
+    }
+  ],
+  "knowsAbout": [
+    "Technische Produktentwicklung",
+    "Investitionen",
+    "Risikokapital",
+    "Startup-Studio",
+    "Venture Builder",
+    "Venture Studio",
+    "Tech Powerhouse",
+    "Digitale Geschäftsmodelle"
+  ],
+  "areaServed": ["Deutschland", "Vereinigtes Königreich", "Europa"]
+}

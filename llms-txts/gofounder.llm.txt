@@ -1,8 +1,16 @@
 # GoFounder
 
-> GoFounder a Gogroup Business Unit helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. Your co-founder to get things going.
+## English
 
-# Main Pages
+> GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. It acts as a co-founder, guiding founders through idea selection, product development, and market validation to achieve product–market fit.
+
+### Language Support
+This site uses Accept-Language header and query parameters for localization
+- Supported languages: en, de
+- Default language: en
+- Query parameter format: ?lang=en or ?lang=de
+
+### Main Pages
 - [Home](https://gofounder.co/): GoFounder main page - your co-founder to get things going
 - [Kickoff](https://gofounder.co/kickoff): Initial startup kickoff phase and planning
 - [Get Started](https://gofounder.co/get-started): Getting started with your startup journey
@@ -10,9 +18,34 @@
 - [Get Scale](https://gofounder.co/get-scale): Scaling your startup operations and growth
 - [Long Term Teams](https://gofounder.co/long-term-teams): Building and managing long-term startup teams
 
-# Notes
+### Notes
 - GoFounder.co is a startup support platform
 - Focus on helping entrepreneurs transform ideas into successful startups
 - Provides proven methodologies, resources, and hands-on expertise
 - Structured approach covering startup journey stages: Kickoff → Get Started → Get Momentum → Get Scale → Long Term Teams
 - Covers complete founder journey from initial planning to scaling and team building
+
+## German
+
+> GoFounder hilft Unternehmern dabei, Ideen in erfolgreiche Startups zu verwandeln mit bewährten Methoden, Ressourcen und praktischer Expertise. Es fungiert als Co-Founder und führt Gründer durch Ideenauswahl, Produktentwicklung und Marktvalidierung, um Product-Market-Fit zu erreichen.
+
+### Sprachunterstützung
+Diese Website verwendet Accept-Language-Header und Query-Parameter für die Lokalisierung
+- Unterstützte Sprachen: en, de
+- Standardsprache: en
+- Query-Parameter-Format: ?lang=en oder ?lang=de
+
+### Hauptseiten
+- [Startseite](https://gofounder.co/?lang=de): GoFounder Hauptseite - Ihr Co-Founder, um Dinge in Gang zu bringen
+- [Kickoff](https://gofounder.co/kickoff?lang=de): Initiale Startup-Kickoff-Phase und Planung
+- [Loslegen](https://gofounder.co/get-started?lang=de): Der Start in Ihre Startup-Reise
+- [Schwung aufbauen](https://gofounder.co/get-momentum?lang=de): Momentum und Traktion für Ihr Startup aufbauen
+- [Skalieren](https://gofounder.co/get-scale?lang=de): Skalierung Ihrer Startup-Operationen und Wachstum
+- [Langfristige Teams](https://gofounder.co/long-term-teams?lang=de): Aufbau und Management langfristiger Startup-Teams
+
+### Notizen
+- GoFounder.co ist eine Startup-Support-Plattform
+- Fokus auf die Unterstützung von Unternehmern bei der Transformation von Ideen in erfolgreiche Startups
+- Bietet bewährte Methoden, Ressourcen und praktische Expertise
+- Strukturierter Ansatz über Startup-Reise-Stufen: Kickoff → Loslegen → Schwung aufbauen → Skalieren → Langfristige Teams
+- Deckt die komplette Gründerreise von der ersten Planung bis zur Skalierung und Teambildung ab

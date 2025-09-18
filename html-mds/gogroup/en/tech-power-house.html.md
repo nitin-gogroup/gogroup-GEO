@@ -19,10 +19,10 @@ GoGroup's Tech Powerhouse is the company's core technology division that provide
 
 ### Ownership-Based Approach
 - Goes beyond conventional agency service provider models
-- Tech teams are deeply integrated into client businesses
+- Tech teams are deeply integrated into partner's businesses
 - Full ownership and accountability for project success
 - Creates robust, scalable technology solutions
-- Aligns closely with client strategic goals
+- Aligns closely with partner's strategic goals
 - Delivers superior outcomes compared to traditional outsourcing
 
 ## Service Model
@@ -36,5 +36,5 @@ For more information about GoGroup's Tech Powerhouse capabilities and services, 
 **Document Information:**
 - Source: https://www.gogroup.co/platform/tech-powerhouse
 - Company: GoGroup GmbH
-- Last Updated: 2025
+- Last Updated: 18 September, 2025
 - Copyright: ©2025 GoGroup GmbH. All rights reserved.

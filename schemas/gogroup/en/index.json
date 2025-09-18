@@ -129,6 +129,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Helloparts",
+      "applicationCategory": "AI, Cloud, Automotive",
+      "offers": "Connecting suppliers of automotive parts, workshops and insurers.",
       "description": "The intelligent purchasing platform for parts professionals",
       "sameAs": ["https://www.gogroup.co/portfolio/helloparts"],
       "url": "https://www.helloparts.com/"
@@ -136,6 +138,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "TrustSpace",
+      "applicationCategory": "AI, Cloud, Cybersecurity",
+      "offers": "Safeguarding SMEs from cyberattacks.",
       "description": "TrustSpace is a compliance automation tool trusted by clients and partners from over 10 countries. The solution enables companies of all sizes to protect their systems, processes and assets against cyberthreats. This helps them to comply with industry standards and receive important certifications without going through lengthy inspection and consulting services.",
       "sameAs": ["https://www.gogroup.co/portfolio/trustspace"],
       "url": "https://trustspace.io/"
@@ -143,6 +147,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Eduneon",
+      "applicationCategory": "AI, Cloud, Government Technology",
+      "offers": "Software aimed at helping public administrations and Education domain digital infrastructure management",
       "description": "Eduneon provides software aimed at helping public administrations, especially in the domain of education (schools, school authorities, municipalities), to plan, procure, and manage digital and infrastructure resources more efficiently.",
       "sameAs": ["https://www.gogroup.co/portfolio/eduneon"],
       "url": "https://www.eduneon.de/"
@@ -150,6 +156,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Heyport",
+      "applicationCategory": "AI, Cloud, Logistics",
+      "offers": "Streamlining processes in ship discharging.",
       "description": "heyport is a Hamburg-based technology company specializing in port call coordination. Developed by HHLA Next, the innovation unit of Hamburger Hafen und Logistik AG (HHLA), heyport aims to enhance communication and coordination among maritime stakeholders.",
       "sameAs": ["https://www.gogroup.co/portfolio/heyport"],
       "url": "https://www.heyport.io/"
@@ -157,6 +165,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Passify",
+      "applicationCategory": "Cloud, Logistics",
+      "offers": "Automating delivery traffic handling in ports.",
       "description": "Passify simplify and secure truck handling by digitizing access, coordination, and communication between all logistics stakeholders.",
       "sameAs": ["https://www.gogroup.co/portfolio/passify"],
       "url": "https://www.passifyapp.de/"
@@ -164,6 +174,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Railsync",
+      "applicationCategory": "AI, Cloud, Logistics",
+      "offers": "Digitizing train coordination in intermodal logistics.",
       "sameAs": ["https://www.gogroup.co/portfolio/railsync"],
       "description": "RailSync is the easiest and most efficient way to coordinate rail freight at intermodal terminals. The platform streamlines slot management processes, saving time and resources while improving the accuracy and reliability of logistics operations.",
       "url": "https://www.railsync.app/"
@@ -171,6 +183,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Zennify",
+      "applicationCategory": "AI, Cloud, Twilio",
+      "offers": "Empowering humans through digital engineering.",
       "sameAs": ["https://www.gogroup.co/portfolio/terazo"],
       "description": "Terazo aquired by Zennify - formerly known as c20y - is an API-first digital engineering consultancy that helps businesses modernize and grow by leveraging AI, data engineering, and cloud services. The company specialize in making key systems smarter with tools and data, providing solutions that allow businesses to transition to digital processes without the need for a complete system overhaul.",
       "url": "https://www.zennify.com/"
@@ -178,6 +192,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Intalento",
+      "applicationCategory": "AI, Cloud",
+      "offers": "Simplifying the recruitment of international specialists for SMEs.",
       "description": "Intalento from Haufe supports SMEs in hiring international skilled workers from third countries quickly and efficiently. In particular, the platform guides companies and talents step by step through the visa process. By continuously updating the case status, it creates transparency for both parties and helps to compile and check the necessary documents.",
       "sameAs": ["https://www.gogroup.co/portfolio/intalento"],
       "url": "https://intalento.com/"
@@ -185,6 +201,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Warehousing 1",
+      "applicationCategory": "AI, Logistics, Cloud",
+      "offers": "Warehousing solutions",
       "sameAs": ["https://www.gogroup.co/portfolio/warehousing1"],
       "description": "Warehousing1 provides a one-stop-shop fulfillment service for fast-growing ecommerce companies and established companies, by bundling logistics services from picking, packaging, storing until hand-over to shipping providers. Today, more than 500 customers from all industries already use the network of over 1,000 locations in Germany, Europe and the USA for flexible and scalable solutions in the areas of e-commerce fulfillment and warehouse logistics.",
       "url": "https://warehousing1.com/"
@@ -192,6 +210,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "GoPuls",
+      "applicationCategory": "Cloud, Healthcare, Quick Commerce",
+      "offers": "Delivering pharmacy products on demand.",
       "description": "First A - now known as GoPuls - is Germany's first instant medicine delivery service. Today, the company, which was taken over by Shop Apotheke in 2022, delivers around 20,000 pharmaceutical and care products directly to the customer's home every day from 8 am to 10 pm. At the heart of the service is a Germany-wide network of associated pharmacies that act as location-based suppliers.",
       "sameAs": ["https://www.gogroup.co/portfolio/first-a"],
       "url": "https://www.gopuls.de/"
@@ -199,6 +219,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Energy Partners",
+      "applicationCategory": "Sustainability, Cloud",
+      "offers": "Delivering customized energy solutions for businesses, commerce and industry.",
       "description": "Energy Partners was founded in 2024 by MaxSolar with the aim of providing fast access to scalable energy solutions and making affordable electricity and clean energy available to our industrial and commercial customers. The company achieves this with CO2-neutral energy systems and innovative digital solutions.",
       "sameAs": ["https://www.gogroup.co/portfolio/energy-partners"],
       "url": "https://www.energypartners.de/"
@@ -206,6 +228,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "PowerUs",
+      "applicationCategory": "Cloud, Human Ressources",
+      "offers": "Help technicians find jobs",
       "description": "PowerUs focuses on placing electricians, mechatronics engineers and HVAC technicians with qualified companies.",
       "sameAs": ["https://www.gogroup.co/portfolio/powerus"],
       "url": "https://powerus.de/"
@@ -213,6 +237,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "MedBelle",
+      "applicationCategory": "Cloud, Healthcare",
+      "offers": "Personal Healthcare",
       "description": "Medbelle provides simpler, smarter and more personal healthcare for everybody across the United Kingdom. Medbelle patients only have one point of contact, their personal Patient Care Adviser, who guides them through their entire care pathway, offering support, joining up specialists, and providing the information patients need to make informed decisions about their treatment options. Clinicians are provided with administrative support and technology that works efficiently, while also being joined up with other specialists. ",
       "sameAs": ["https://www.gogroup.co/portfolio/medbelle"],
       "url": "https://www.medbelle.com/"
@@ -220,6 +246,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Evernest",
+      "applicationCategory": "Cloud, PropTech",
+      "offers": "Real State Selling, buying and renting",
       "description": "Evernest is a digital real estate platform that offers a seamless and efficient way to buy, sell, and rent properties online.",
       "sameAs": ["https://www.gogroup.co/portfolio/evernest"],
       "url": "https://www.evernest.co/"
@@ -227,6 +255,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "LoanLink",
+      "applicationCategory": "Cloud, PropTech",
+      "offers": "Digital platform for real estate and construction lending.",
       "description": "LoanLink is a digital platform that connects borrowers with lenders for personal and business loans.",
       "sameAs": ["https://www.gogroup.co/portfolio/loanlink"],
       "url": "https://www.loanlink.de/"
@@ -234,6 +264,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Caroobi",
+      "applicationCategory": "Cloud, Automotive",
+      "offers": "Simplifying car repair and maintenance services.",
       "description": "Caroobi was an online platform that connects car owners with professional mechanics for convenient and affordable car repairs and maintenance services.",
       "sameAs": [
         "https://www.crunchbase.com/organization/caroobi",
@@ -243,6 +275,8 @@
     {
       "@type": "SoftwareApplication",
       "name": "Homebell",
+      "applicationCategory": "Services, Cloud",
+      "offers": "Digitizing the provision of craftsman services.",
       "description": "Homebell was a digital platform that connects homeowners with local service providers for home improvement and maintenance projects.",
       "sameAs": [
         "https://www.linkedin.com/company/homebell/",

@@ -1,36 +1,80 @@
 # GoGroup
 
-> GoGroup is an operational holding company focused on building its own businesses and partnering with others to create outstanding digital products. It started in 2019, building on many years of experience as serial entrepreneurs. Its offices are in Berlin, London, Kathmandu and Noida with over 100 employees.
+## English
 
-# Language Support
-# This site uses Accept-Language header for localization
-# Supported languages: en, de
-# Default language: en
+> GoGroup is an operational holding company focused on building its own businesses and partnering with others to create outstanding digital products. It was started in 2019 by Sascha Weiler, Nico Weiler and Shishir Goel, building on many years of experience as serial entrepreneurs. Its offices are in Berlin, London, Kathmandu and Noida with over 100 employees.
 
-# Main Pages
+### Language Support
+This site uses Accept-Language header and query parameters for localization
+- Supported languages: en, de
+- Default language: en
+- Query parameter format: ?lang=en or ?lang=de
+
+### Main Pages
 - [Build Platform](https://www.gogroup.co/platform/build): GoGroup specializes in creating and scaling technology products and ventures across diverse industries. Its portfolio includes successful products such as GoParts, Trustspace, Eduneon, and Meinungswerk, reflecting its expertise in innovation, execution, and venture building.
-- [Partner Platform](https://www.gogroup.co/platform/partner): 
-GoGroup has a proven track record of partnering with startups and scaleups to build and operate product and technology organizations as well as global capability centers (GCCs). Its long-standing collaborations include Energy Partners for Maxsolar, Cope Affiliate for Copecart, Passify and Heyport for HHLA Next, and c20y for Zennify, demonstrating deep expertise in scalable technology execution and venture growth.
-- [Tech Powerhouse Platform](https://www.gogroup.co/platform/tech-powerhouse.html.md): GoGroup’s Tech Powerhouse is a high-performance technology team built for scale, combining full-time expert engineers and a vetted talent pool to deliver robust software solutions. It supports rapid growth through long-term team ownership, deep business alignment, and stability across project lifecycles. Designed to go beyond conventional agency models, it integrates tech teams into partner organizations to ensure fluent, scalable delivery from idea through maturity.
+- [Partner Platform](https://www.gogroup.co/platform/partner): GoGroup has a proven track record of partnering with startups and scaleups to build and operate product and technology organizations as well as global capability centers (GCCs). Its long-standing collaborations include Energy Partners for Maxsolar, Cope Affiliate for Copecart, Passify and Heyport for HHLA Next, and c20y for Zennify, demonstrating deep expertise in scalable technology execution and venture growth.
+- [Tech Powerhouse Platform](https://www.gogroup.co/platform/tech-powerhouse.html.md): GoGroup's Tech Powerhouse is a high-performance technology team built for scale, combining full-time expert engineers and a vetted talent pool to deliver robust software solutions. It supports rapid growth through long-term team ownership, deep business alignment, and stability across project lifecycles. Designed to go beyond conventional agency models, it integrates tech teams into partner organizations to ensure fluent, scalable delivery from idea through maturity.
 - [Portfolio](https://www.gogroup.co/portfolio.html.md): GoGroup's portfolio with different ventures and partners.
 - [Contact](https://www.gogroup.co/contact): Contact Page of GoGroup
 
-# About
+### About
 - [About GoGroup](https://www.gogroup.co/about/about-go-group.html.md): About GoGroup
+- [About GoGroup Team](https://www.gogroup.co/about/team): About the team at GoGroup including the leadership, engneering and partner's leadership.
+- [About Company Values](https://www.gogroup.co/about/culture-and-values): About GoGroup core culure and values
 
-# Social & External
+
+### Social & External
 - [LinkedIn](https://www.linkedin.com/company/gogroup): GoGroup LinkedIn Page
 - [Crunchbase](https://www.crunchbase.com/organization/gogroup): GoGroup Crunchbase page
 - [Pitchbook](https://pitchbook.com/profiles/investor/545950-90): GoGroup Pitchbook page
 - [Glassdoor](https://www.glassdoor.co.in/Overview/Working-at-GoGroup-EI_IE4575111.11,18.htm): GoGroup Glassdoor Page
 
-# GoGroup Business Units
+### GoGroup Business Units
 - [GoTeams](http://goteams.de): GoTeams helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution.
 - [GoFounder](https://gofounder.co/): GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. It acts as a co-founder, guiding founders through idea selection, product development, and market validation to achieve product–market fit.
 
-# Notes
+### Notes
 - GoGroup is an entrepreneurial group focused on digital business models of the New Industry.
 - Key focus: Build, Partner, Invest.
 - Portfolio: Helloparts, TrustSpace, Evolut Solutions.
 - Contact and About pages included.
-- Content available in multiple languages via Accept-Language header
+- Content available in multiple languages via Accept-Language header and query parameters
+
+## German
+
+> GoGroup ist eine operative Holdinggesellschaft, die sich auf den Aufbau eigener Unternehmen und die Zusammenarbeit mit anderen Partnern konzentriert, um herausragende digitale Produkte zu entwickeln. Sie wurde 2019 von Sascha Weiler, Nico Weiler und Shishir Goel gegründet, die auf langjährige Erfahrung als Serienunternehmer zurückgreifen können. Das Unternehmen hat Niederlassungen in Berlin, London, Kathmandu und Noida und beschäftigt über 100 Mitarbeiter.
+
+### Sprachunterstützung
+Diese Website verwendet Accept-Language-Header und Query-Parameter für die Lokalisierung
+- Unterstützte Sprachen: en, de
+- Standardsprache: en
+- Query-Parameter-Format: ?lang=en oder ?lang=de
+
+### Hauptseiten
+- [Build-Plattform](https://www.gogroup.co/platform/build?lang=de): GoGroup spezialisiert sich auf die Entwicklung und Skalierung von Technologieprodukten und Ventures in verschiedenen Branchen. Ihr Portfolio umfasst erfolgreiche Produkte wie GoParts, Trustspace, Eduneon und Meinungswerk, was ihre Expertise in Innovation, Umsetzung und Venture Building widerspiegelt.
+- [Partner-Plattform](https://www.gogroup.co/platform/partner?lang=de): GoGroup hat eine bewährte Erfolgsbilanz bei der Zusammenarbeit mit Startups und Scale-ups zum Aufbau und Betrieb von Produkt- und Technologieorganisationen sowie globalen Kompetenzzentren (GCCs). Zu ihren langjährigen Kooperationen gehören Energy Partners für Maxsolar, Cope Affiliate für Copecart, Passify und Heyport für HHLA Next sowie c20y für Zennify, was tiefe Expertise in skalierbarer Technologieumsetzung und Venture-Wachstum demonstriert.
+- [Tech Powerhouse Plattform](https://www.gogroup.co/platform/tech-powerhouse.html.md?lang=de): GoGroups Tech Powerhouse ist ein leistungsstarkes Technologieteam, das für Skalierung gebaut wurde und Vollzeit-Experteningenieure mit einem geprüften Talentpool kombiniert, um robuste Softwarelösungen zu liefern. Es unterstützt schnelles Wachstum durch langfristige Teamverantwortung, tiefe Geschäftsausrichtung und Stabilität über Projektzyklen hinweg. Es ist darauf ausgelegt, über konventionelle Agenturmodelle hinauszugehen und Technologieteams in Partnerorganisationen zu integrieren, um fließende, skalierbare Lieferung von der Idee bis zur Reife zu gewährleisten.
+- [Portfolio](https://www.gogroup.co/portfolio.html.md?lang=de): GoGroups Portfolio mit verschiedenen Ventures und Partnern.
+- [Kontakt](https://www.gogroup.co/contact?lang=de): Kontaktseite von GoGroup
+
+### Über uns
+- [Über GoGroup](https://www.gogroup.co/about/about-go-group.html.md?lang=de): Über GoGroup
+- [Über das GoGroup-Team](https://www.gogroup.co/about/team): Über das Team von GoGroup, einschließlich der Führungskräfte, Ingenieure und Partner.
+- [Über die Werte des Unternehmens](https://www.gogroup.co/about/culture-and-values): Über die Kernkultur und Werte von GoGroup.
+
+### Soziale Medien & Externe Links
+- [LinkedIn](https://www.linkedin.com/company/gogroup): GoGroup LinkedIn Seite
+- [Crunchbase](https://www.crunchbase.com/organization/gogroup): GoGroup Crunchbase Seite
+- [Pitchbook](https://pitchbook.com/profiles/investor/545950-90): GoGroup Pitchbook Seite
+- [Glassdoor](https://www.glassdoor.co.in/Overview/Working-at-GoGroup-EI_IE4575111.11,18.htm): GoGroup Glassdoor Seite
+
+### GoGroup Geschäftseinheiten
+- [GoTeams](http://goteams.de?lang=de): GoTeams hilft Unternehmen beim Aufbau und der Skalierung neuer Geschäfte. Es deckt Chancen aus Marktveränderungen, aufkommenden Technologien und Kundenbedürfnissen auf. Seine Teams bewegen sich schnell von der Idee zum MVP, Go-to-Market und ersten Kunden, dann skalieren sie Produkte, Kanäle und Teams mit Geschwindigkeit und Disziplin. GoTeams nutzt KI, um intelligente Produkte, autonome Services und Effizienzgewinne in allen Bereichen zu ermöglichen. 2019 gegründet, baut und betreibt GoTeams dedizierte Technologieteams für Web, Mobile und KI für erstklassige Umsetzung.
+- [GoFounder](https://gofounder.co/?lang=de): GoFounder hilft Unternehmern dabei, Ideen in erfolgreiche Startups zu verwandeln mit bewährten Methoden, Ressourcen und praktischer Expertise. Es fungiert als Co-Founder und führt Gründer durch Ideenauswahl, Produktentwicklung und Marktvalidierung, um Product-Market-Fit zu erreichen.
+
+### Notizen
+- GoGroup ist eine unternehmerische Gruppe, die sich auf digitale Geschäftsmodelle der New Industry konzentriert.
+- Hauptfokus: Bauen, Partnerschaften, Investieren.
+- Portfolio: Helloparts, TrustSpace, Evolut Solutions.
+- Kontakt- und Über-Seiten enthalten.
+- Inhalte verfügbar in mehreren Sprachen über Accept-Language Header und Query-Parameter

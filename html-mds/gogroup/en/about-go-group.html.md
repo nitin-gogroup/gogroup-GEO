@@ -8,7 +8,7 @@ GoGroup is an operational holding company focused on building its own businesses
 
 In 2019 SNS (Sascha, Nico and Shishir) Identified a gap in the market for scalable, venture-compatible product and tech teams. Which led to the creation of GoTeams and, ultimately, the establishment of GoGroup.
 
---
+---
 
 ## What We Do
 
@@ -38,5 +38,5 @@ We are the home for building enduring businesses. Following this guiding princip
 **Document Information:**
 - Source: https://www.gogroup.co/about/about-go-group
 - Company: GoGroup GmbH
-- Last Updated: 2025
+- Last Updated: 18 September, 2025
 - Copyright: ©2025 GoGroup GmbH. All rights reserved.

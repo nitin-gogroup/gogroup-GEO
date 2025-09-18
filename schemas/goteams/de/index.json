@@ -1,0 +1,179 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "GoTeams",
+  "url": "https://goteams.de",
+  "logo": "https://goteams.de/images/logo-green.png",
+  "description": "GoTeams unterstützt Unternehmen beim Aufbau und der Skalierung neuer Geschäftsfelder. Es deckt Chancen auf, die sich aus Marktveränderungen, neuen Technologien und Kundenbedürfnissen ergeben. Seine Teams setzen Ideen schnell in MVP, Markteinführung und erste Kunden um und skalieren dann Produkte, Kanäle und Teams mit Geschwindigkeit und Disziplin. GoTeams nutzt KI, um intelligente Produkte, autonome Dienste und Effizienzsteigerungen in allen Betriebsbereichen zu ermöglichen. GoTeams wurde 2019 gegründet und baut und betreibt dedizierte Technologieteams in den Bereichen Web, Mobile und KI für eine erstklassige Umsetzung.",
+  "foundingDate": "2019",
+  "numberOfEmployees": "100+",
+  "slogan": "Dedizierte Tech-Teams für digitale Exzellenz",
+  "industry": [
+    "Informationstechnologie",
+    "Softwareentwicklung",
+    "Technologiedienstleistungen",
+    "Digitale Produkte",
+    "Produktmanagement"
+  ],
+  "keywords": "Spezialisierte Technikteams, Softwareentwicklung, Webentwicklung, Mobile-Entwicklung, Backend-Entwicklung, DevOps, Qualitätssicherung, Full-Stack-Entwicklung, Technologieberatung, Disruption durch KI, Produktmanagement, Projektmanagement, Technikteams für Start-ups, Technologielösungen für Unternehmen",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "GoGroup GmbH",
+    "url": "https://www.gogroup.co"
+  },
+  "address": [
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "Berlin",
+      "addressCountry": "Deutschland",
+      "name": "Büro Berlin"
+    },
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "Noida",
+      "addressRegion": "Delhi/NCR",
+      "addressCountry": "Indien",
+      "name": "Büro Noida"
+    },
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "London",
+      "addressCountry": "Vereinigtes Königreich",
+      "name": "Büro London"
+    },
+    {
+      "@type": "PostalAddress",
+      "addressLocality": "Kathmandu",
+      "addressCountry": "Nepal",
+      "name": "Büro Kathmandu"
+    }
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "url": "https://goteams.de/contact",
+    "email": "mailto:hello@gogroup.co",
+    "contactType": "Kundenservice",
+    "availableLanguage": ["Deutsch", "Englisch"]
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "GoTeams Dienstleistungen",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Neue Geschäftsmöglichkeiten finden",
+        "description": "Unterstützen Sie Partner dabei, neue Geschäftsmöglichkeiten zu finden, zu filtern und zu validieren. Schnell, zielgerichtet und gestützt auf echtes Marktfeedback.",
+        "url": "https://goteams.de/services/find-new-business",
+        "category": "Geschäftsentwicklung"
+      },
+      {
+        "@type": "Offer",
+        "name": "Neues Geschäft etablieren",
+        "description": "Helfen Sie Partnern, die richtigen Strukturen, Prozesse und Teams aufzubauen, um neue Geschäftsinvestitionen erfolgreich zu starten und zu skalieren.",
+        "url": "https://goteams.de/services/establish-new-business?lang=de",
+        "category": "Geschäftsentwicklung"
+      },
+      {
+        "@type": "Offer",
+        "name": "Neues Geschäft skalieren",
+        "description": "Helfen Sie Partnern, ihr Geschäft zu skalieren, indem Sie Prozesse optimieren, die Teamfähigkeiten verbessern und Technologie nutzen.",
+        "url": "https://goteams.de/services/scale-new-business",
+        "category": "Geschäftsentwicklung"
+      },
+      {
+        "@type": "Offer",
+        "name": "AI-Disruption",
+        "description": "Nutzen Sie KI, um die Geschäftsabläufe der Partner zu transformieren, die Kundenerfahrungen zu verbessern und Innovationen voranzutreiben.",
+        "url": "https://goteams.de/services/AI-disruption",
+        "category": "Geschäftsentwicklung"
+      },
+      {
+        "@type": "Offer",
+        "name": "AI-Effizienz",
+        "description": "Steigern Sie die Betriebseffizienz und senken Sie die Kosten durch KI-gesteuerte Automatisierung und Optimierung.",
+        "url": "https://goteams.de/services/AI-efficiency",
+        "category": "Geschäftsentwicklung"
+      }
+    ]
+  },
+  "serviceArea": {
+    "@type": "ItemList",
+    "name": "Target Markets",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Forschung, Entwicklung und Innovation",
+        "description": "Dedizierte Technologie-Teams für Forschung und Entwicklung",
+        "url": "https://goteams.de/stakeholders/research-and-development-and-innovation",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Ventures"
+        }
+      },
+      {
+        "@type": "Offer",
+        "name": "Business Units",
+        "description": "Dedizierte Technologie-Teams für Geschäftsbereiche",
+        "url": "https://goteams.de/stakeholders/business-units",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business units"
+        }
+      },
+      {
+        "@type": "Offer",
+        "name": "PE-Eigentümer und Investoren",
+        "description": "Technologie-Teams für Unternehmen mit Private-Equity-Finanzierung",
+        "url": "https://goteams.de/stakeholders/PE-owners",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Private Equity Portfolio Companies"
+        }
+      }
+    ]
+  },
+  "knowsAbout": [
+    "Ideenfindung",
+    "Ideenvalidierung",
+    "Marktforschung",
+    "Marktanalyse",
+    "Schnelle Prototypenentwicklung",
+    "Roadmapping",
+    "MVP-Entwicklung",
+    "Geschäftsmodellierung",
+    "Benutzertests",
+    "KI-Integration",
+    "KI-Entwicklung",
+    "JavaScript",
+    "Python",
+    "React",
+    "Node.js",
+    "Mobile App-Entwicklung",
+    "Cloud Computing",
+    "DevOps",
+    "Agile Entwicklung",
+    "Full-Stack-Entwicklung",
+    "API-Entwicklung"
+  ],
+  "areaServed": ["Deutschland", "Europa", "Asien"],
+  "employmentType": "FULL_TIME",
+  "inLanguage": ["de", "en"],
+  "businessFunction": "Technologieentwicklung",
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Beschäftigungsmodell",
+      "value": "Vollzeitbeschäftigte, keine Freiberufler"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Ansatz",
+      "value": "Unternehmerisches Eigentumsdenken jenseits traditioneller Agenturmodelle"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Teamintegration",
+      "value": "Tiefe Integration in die Geschäftsprozesse der Partner mit vollständiger Projektverantwortung"
+    }
+  ]
+}

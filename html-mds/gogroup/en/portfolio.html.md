@@ -259,5 +259,5 @@ Each portfolio company addresses specific market needs with innovative technolog
 **Document Information:**
 - Source: https://www.gogroup.co/portfolio
 - Company: GoGroup GmbH
-- Last Updated: 2025
+- Last Updated: 18 September, 2025
 - Copyright: ©2025 GoGroup GmbH. All rights reserved.
