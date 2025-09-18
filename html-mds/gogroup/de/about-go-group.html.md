@@ -7,7 +7,7 @@ GoGroup ist eine operative Holdinggesellschaft, die sich darauf konzentriert, ei
 
 ## Führung
 
-Im Jahr 2019 erkannten SNS (Sascha, Nico und Shishir) eine Marktlücke für skalierbare, venture-kompatible Produkt- und Tech-Teams. Dies führte zur Gründung von GoTeams und letztlich zur Etablierung von GoGroup.
+GoGroup wurde von **Sascha Weiler**, **Nico Weiler** und **Shishir Goel** gegründet, um eine Herausforderung zu lösen: Unternehmen schnell aufzubauen und zu skalieren. Sie begannen 2010 mit Casacanda und bauten 2015 ihr eigenes Technologie-Powerhouse auf, wodurch sie das Modell perfektionierten. Im Jahr 2019 öffneten sie es über GoTeams für andere. Heute betreibt GoGroup mehr als 20 Unternehmen und unterstützt Start-ups, Konzerne und PE-finanzierte Firmen mit Produkt- und Technologieteams auf Venture-Niveau.
 
 ---
 
