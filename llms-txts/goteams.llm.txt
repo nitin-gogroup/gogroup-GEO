@@ -2,53 +2,39 @@
 
 ## English
 
-> GoTeams helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution.
-
-### Language Support
-This site uses Accept-Language header and query parameters for localization
-- Supported languages: en, de
-- Default language: de
-- Query parameter format: ?lang=en or ?lang=de
+> GoTeams a [GoGroup Business Unit](https://gogroup.co) helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution.
 
 ### Main Pages
-- [Home](https://goteams.de/): GoTeams main page - dedicated tech teams for digital products and services
-- [Success Stories](https://goteams.de/success-stories): Success stories of GoGroup partners
-- [About](https://goteams.de/about/profile-and-history): About GoTeams and company information
-- [Contact](https://goteams.de/contact): Contact information and inquiries
+- [Home](https://goteams.de/?lang=en): GoTeams main page - dedicated tech teams for digital products and services
+- [Success Stories](https://goteams.de/success-stories?lang=en): Success stories of GoGroup partners
+- [About](https://goteams.de/about/profile-and-history?lang=en): About GoTeams and company information
+- [Contact](https://goteams.de/contact?lang=en): Contact information and inquiries
 
 ### Industries & Solutions
-- [Logistics](https://goteams.de/industries/logistics): Covers logistics management and its importance in business operations.
-- [Energy](https://goteams.de/industries/energy): Focuses on the energy sector and its impact on business strategies.
-- [Insurance](https://goteams.de/industries/insurance): Discusses the insurance industry and its relevance to business operations.
-- [Automotive](https://goteams.de/industries/automotive): Explores the automotive sector and its business implications.
-- [Business Services](https://goteams.de/industries/business-services): Highlights the range of business services offered and their significance.
-- [Cybersecurity](https://goteams.de/industries/cybersecurity): Discusses the importance of cybersecurity in protecting business assets and data.
-- [Other](https://goteams.de/industries/other): GoTeams excels across industries by applying proven execution strategies, not relying on deep domain familiarity. From retail to agriculture, they help teams build, digitize, and scale faster through repeatable, high-impact models.
+- [Logistics](https://goteams.de/industries/logistics?lang=en): Covers logistics management and its importance in business operations.
+- [Energy](https://goteams.de/industries/energy?lang=en): Focuses on the energy sector and its impact on business strategies.
+- [Insurance](https://goteams.de/industries/insurance?lang=en): Discusses the insurance industry and its relevance to business operations.
+- [Automotive](https://goteams.de/industries/automotive?lang=en): Explores the automotive sector and its business implications.
+- [Business Services](https://goteams.de/industries/business-services?lang=en): Highlights the range of business services offered and their significance.
+- [Cybersecurity](https://goteams.de/industries/cybersecurity?lang=en): Discusses the importance of cybersecurity in protecting business assets and data.
+- [Other](https://goteams.de/industries/other?lang=en): GoTeams excels across industries by applying proven execution strategies, not relying on deep domain familiarity. From retail to agriculture, they help teams build, digitize, and scale faster through repeatable, high-impact models.
 
 ### Services
-- [Find new business](https://goteams.de/services/find-new-business): GoTeams works with partner's team to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.
-- [Establish new business](https://goteams.de/services/establish-new-business): GoTeams helps partner convert Idea to new business with a revenue impact.
-- [Scale Business](https://goteams.de/services/scale-new-business): GoTeams helps partner scale their product
-- [Disrupt With AI](https://goteams.de/services/AI-disruption): GoTeams Explores how artificial intelligence can be leveraged to create disruptive innovations in various industries.
-- [Get Efficient With AI](https://goteams.de/services/AI-efficiency): GoTeams Highlights the use of AI to enhance operational efficiency and streamline business processes.
+- [Find new business](https://goteams.de/services/find-new-business?lang=en): GoTeams works with partner's team to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.
+- [Establish new business](https://goteams.de/services/establish-new-business?lang=en): GoTeams helps partner convert Idea to new business with a revenue impact.
+- [Scale Business](https://goteams.de/services/scale-new-business?lang=en): GoTeams helps partner scale their product
+- [Disrupt With AI](https://goteams.de/services/AI-disruption?lang=en): GoTeams Explores how artificial intelligence can be leveraged to create disruptive innovations in various industries.
+- [Get Efficient With AI](https://goteams.de/services/AI-efficiency?lang=en): GoTeams Highlights the use of AI to enhance operational efficiency and streamline business processes.
 
 ### Stakeholders
-- [Startups](https://goteams.de/startups): Dedicated tech teams for startup companies
-- [R&D Strategy & Innovation](https://goteams.de/stakeholders/research-and-development-and-innovation): GoTeams helps Strategy, R&D, or a cross-functional unit ideas into business traction.
-- [Business Units](https://goteams.de/stakeholders/business-units): GoTeams helps business units you grow business.
-- [PE Owners and Investors](https://goteams.de/stakeholders/PE-owners): GoTeams helps Owner-led companies and PE firms help build new business without affecting the existing business.
+- [Startups](https://goteams.de/startups?lang=en): Dedicated tech teams for startup companies
+- [R&D Strategy & Innovation](https://goteams.de/stakeholders/research-and-development-and-innovation?lang=en): GoTeams helps Strategy, R&D, or a cross-functional unit ideas into business traction.
+- [Business Units](https://goteams.de/stakeholders/business-units?lang=en): GoTeams helps business units you grow business.
+- [PE Owners and Investors](https://goteams.de/stakeholders/PE-owners?lang=en): GoTeams helps Owner-led companies and PE firms help build new business without affecting the existing business.
 
 ### Social & External
 - [GoGroup Parent Company Website](https://www.gogroup.co/): GoGroup main website
 - [LinkedIn](https://www.linkedin.com/company/goteams): GoTeams LinkedIn page
-
-### Notes
-- GoTeams is a subsidiary of GoGroup focused on dedicated tech teams
-- Covers all tech disciplines from Web to Mobile development
-- Serves startups, corporates, and PE-backed companies
-- Over 100 full-time employees across Berlin, London, Kathmandu, and Noida
-- Entrepreneurial approach rather than traditional service provider model
-- Full-time employment model for stability and commitment
 
 ## German
 
@@ -91,11 +77,3 @@ Diese Website verwendet Accept-Language-Header und Query-Parameter für die Loka
 ### Soziale Medien & Externe Links
 - [GoGroup Muttergesellschaft Website](https://www.gogroup.co/?lang=de): GoGroup Hauptwebsite
 - [LinkedIn](https://www.linkedin.com/company/goteams): GoTeams LinkedIn Seite
-
-### Notizen
-- GoTeams ist eine Tochtergesellschaft von GoGroup mit Fokus auf dedizierte Tech-Teams
-- Deckt alle Tech-Disziplinen von Web- bis Mobile-Entwicklung ab
-- Bedient Startups, Konzerne und PE-unterstützte Unternehmen
-- Über 100 Vollzeitmitarbeiter in Berlin, London, Kathmandu und Noida
-- Unternehmerischer Ansatz anstatt traditioneller Dienstleistermodell
-- Vollzeitbeschäftigungsmodell für Stabilität und Engagement
