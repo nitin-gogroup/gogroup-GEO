@@ -15,7 +15,6 @@
       "name": "Germany"
     },
     "legalName": "GoGroup GmbH",
-    "description": "An operational holding company focused on building its own businesses and partnering with others to create outstanding digital products.",
     "numberOfEmployees": {
       "@type": "QuantitativeValue",
       "value": "100+",
