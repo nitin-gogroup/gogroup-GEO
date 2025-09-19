@@ -1,0 +1,119 @@
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "About GoGroup",
+  "url": "https://www.gogroup.co/about/about-go-group",
+  "description": "GoGroup is an operational holding company focused on building its own businesses and partnering with others to create outstanding digital products. Founded in 2019 by serial entrepreneurs from Fab.com.",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "GoGroup GmbH",
+    "@id": "https://www.gogroup.co",
+    "url": "https://www.gogroup.co",
+    "foundingDate": "2019",
+    "foundingLocation": {
+      "@type": "Place",
+      "name": "Germany"
+    },
+    "legalName": "GoGroup GmbH",
+    "description": "An operational holding company focused on building its own businesses and partnering with others to create outstanding digital products.",
+    "numberOfEmployees": {
+      "@type": "QuantitativeValue",
+      "value": "100+",
+      "description": "Over 100 professionals from 5 nations"
+    },
+    "areaServed": "Global",
+    "knowsAbout": [
+      "New Industry",
+      "Digital Business Scaling",
+      "Startup Investment",
+      "Technology Development",
+      "Entrepreneurship"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "GoGroup Services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Third-Party Partnership",
+            "description": "Teaming up with third-parties to scale their digital businesses"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Smart Money Investment",
+            "description": "Investing smart money in startups supporting theses around the New Industry"
+          }
+        }
+      ]
+    },
+    "owns": {
+      "@type": "Service",
+      "name": "Tech Powerhouse",
+      "description": "A tech powerhouse that grew a global unicorn and built for scale It supports rapid growth through long-term team ownership, deep business alignment, and stability across project lifecycles. Designed to go beyond conventional agency models, it integrates tech teams into partner organizations to ensure fluent, scalable delivery from idea through maturity"
+    },
+    "slogan": "Building outstanding digital products",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Focus Area",
+        "value": "New Industry"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Approach",
+        "value": "Early profitability focused"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Philosophy",
+        "value": "Imperturbable believe in entrepreneurs who build for the long term"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Heritage",
+        "value": "Founded by entrepreneurs from Fab.com unicorn"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Team Diversity",
+        "value": "100+ professionals from 5 nations"
+      }
+    ]
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "GoGroup GmbH",
+    "@id": "https://www.gogroup.co"
+  },
+  "mainContentOfPage": {
+    "@type": "WebPageElement",
+    "description": "Information about GoGroup's founding, mission, global presence, and three core business activities: creating own businesses, partnering with third-parties, and smart money investment."
+  },
+  "significantLink": [
+    "https://www.gogroup.co/platform/tech-powerhouse"
+  ],
+  "relatedLink": [
+    "https://www.gogroup.co/platform",
+    "https://www.gogroup.co/about/team",
+    "https://www.gogroup.co/about/culture-and-values"
+  ],
+  "keywords": [
+    "operational holding company",
+    "digital products",
+    "new industry",
+    "venture building",
+    "startup investment",
+    "serial entrepreneurs",
+    "technical product building",
+    "unicorn",
+    "early profitability",
+    "global team"
+  ],
+  "dateModified": "2025",
+  "inLanguage": "en"
+}

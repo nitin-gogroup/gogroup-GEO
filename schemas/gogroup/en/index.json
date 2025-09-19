@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": "https://gogroup.co",
   "name": "GoGroup",
   "legalName": "GoGroup GmbH",
   "url": "https://www.gogroup.co",

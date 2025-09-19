@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Tech Powerhouse",
+  "provider": {
+    "@type": "Organization",
+    "name": "GoGroup GmbH",
+    "url": "https://www.gogroup.co"
+  },
+  "url": "https://www.gogroup.co/platform/tech-powerhouse",
+  "description": "GoGroups Tech Powerhouse ist ein Hochleistungstechnologieteam, das für Skalierung gebaut wurde und aus fest angestellten Experten und einem geprüften Talentpool besteht, um robuste Softwarelösungen zu liefern. Es unterstützt schnelles Wachstum durch langfristigen Teambesitz, tiefe Geschäftsausrichtung und Stabilität über Projektlebenszyklen hinweg. Entwickelt, um über konventionelle Agenturmodelle hinauszugehen, integriert es Tech-Teams in Partnerorganisationen, um eine reibungslose, skalierbare Lieferung von der Idee bis zur Reife zu gewährleisten.",
+  "serviceType": "Technologieentwicklungsdienstleistungen",
+  "category": "Softwareentwicklung",
+  "audience": {
+    "@type": "BusinessAudience",
+    "audienceType": "Unternehmen, die Technologieentwicklungsdienstleistungen suchen"
+  },
+  "areaServed": {
+    "@type": "Place",
+    "name": "Global"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Tech Powerhouse Dienstleistungen",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Festes Technologie-Team",
+          "description": "Fest angestellte Technologie-Fachkräfte, die von GoGroup-Unternehmen beschäftigt werden und Arbeitsplatzsicherheit unabhängig vom Projekterfolg genießen"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Skalierbare Technologielösungen",
+          "description": "Robuste, skalierbare Technologielösungen, die den Anforderungen schnell wachsender Unternehmen gerecht werden"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Geschäftsintegrative Entwicklung",
+          "description": "Technologieteams, die tief in die Kundenunternehmen integriert sind, volle Verantwortung für den Projekterfolg übernehmen und sich an strategischen Zielen ausrichten"
+        }
+      }
+    ]
+  },
+  "serviceOutput": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "Skalierbare Technologielösungen"
+    }
+  ],
+  "offers": {
+    "@type": "Offer",
+    "name": "Tech Powerhouse Dienstleistung",
+    "description": "Umfassende Technologieentwicklungsdienstleistung mit fest angestellten, dedizierten Teams",
+    "seller": {
+      "@type": "Organization",
+      "name": "GoGroup GmbH"
+    }
+  },
+  "brand": {
+    "@type": "Brand",
+    "name": "GoGroup"
+  },
+  "slogan": "Reibungslose Tech-Lieferung von Anfang bis Skalierung",
+  "keywords": [
+    "Technologieentwicklung",
+    "Softwareentwicklung",
+    "dedizierte Tech-Teams",
+    "fest angestellte Tech-Teams",
+    "skalierbare Lösungen",
+    "Startup-Technologie",
+    "Unicorn-Tech-Support",
+    "unternehmerische Technologie",
+    "Geschäftsintegration"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Beschäftigungsmodell",
+      "value": "Fest angestellte Mitarbeiter mit Arbeitsplatzsicherheit"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Ansatz",
+      "value": "Eigentumsbasierte Technologieentwicklung über das konventionelle Agenturmodell hinaus"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Teammerkmal",
+      "value": "Unternehmerische Denkweise mit tiefem Geschäftsverständnis"
+    }
+  ]
+}

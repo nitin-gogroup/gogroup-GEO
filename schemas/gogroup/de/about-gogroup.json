@@ -1,0 +1,117 @@
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": "Über GoGroup",
+  "url": "https://www.gogroup.co/about/about-go-group",
+  "description": "GoGroup ist eine operative Holdinggesellschaft, die sich darauf konzentriert, eigene Unternehmen aufzubauen und mit anderen zusammenzuarbeiten, um herausragende digitale Produkte zu schaffen. Gegründet 2019 von Serienunternehmern von Fab.com.",
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "GoGroup GmbH",
+    "@id": "https://www.gogroup.co",
+    "url": "https://www.gogroup.co",
+    "foundingDate": "2019",
+    "foundingLocation": {
+      "@type": "Place",
+      "name": "Deutschland"
+    },
+    "legalName": "GoGroup GmbH",
+    "description": "Eine operative Holdinggesellschaft, die sich darauf konzentriert, eigene Unternehmen aufzubauen und mit anderen zusammenzuarbeiten, um herausragende digitale Produkte zu schaffen.",
+    "numberOfEmployees": {
+      "@type": "QuantitativeValue",
+      "value": "100+",
+      "description": "Über 100 Fachleute aus 5 Nationen"
+    },
+    "areaServed": "Global",
+    "knowsAbout": [
+      "Neue Industrie",
+      "Digitales Geschäftsskalierung",
+      "Startup-Investitionen",
+      "Technologieentwicklung",
+      "Unternehmertum"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "GoGroup Dienstleistungen",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Partnerschaft mit Dritten",
+            "description": "Zusammenarbeit mit Dritten, um deren digitale Geschäfte zu skalieren"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Smart Money Investment",
+            "description": "Investition von Smart Money in Startups, die Thesen rund um die Neue Industrie unterstützen"
+          }
+        }
+      ]
+    },
+    "owns": {
+      "@type": "Service",
+      "name": "Tech Powerhouse",
+      "description": "Ein Tech Powerhouse, das ein globales Unicorn aufgebaut und für Skalierung entwickelt hat. Es unterstützt schnelles Wachstum durch langfristigen Teambesitz, tiefe Geschäftsausrichtung und Stabilität über Projektlebenszyklen hinweg. Entwickelt, um über konventionelle Agenturmodelle hinauszugehen, integriert es Tech-Teams in Partnerorganisationen, um eine reibungslose, skalierbare Lieferung von der Idee bis zur Reife zu gewährleisten."
+    },
+    "slogan": "Herausragende digitale Produkte bauen",
+    "additionalProperty": [
+      {
+        "@type": "PropertyValue",
+        "name": "Fokusbereich",
+        "value": "Neue Industrie"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Ansatz",
+        "value": "Frühe Profitabilität im Fokus"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Philosophie",
+        "value": "Unerschütterlicher Glaube an Unternehmer, die für die Langfristigkeit bauen"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Herkunft",
+        "value": "Gegründet von Unternehmern des Fab.com Unicorns"
+      },
+      {
+        "@type": "PropertyValue",
+        "name": "Teamvielfalt",
+        "value": "100+ Fachleute aus 5 Nationen"
+      }
+    ]
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "GoGroup GmbH",
+    "@id": "https://www.gogroup.co"
+  },
+  "mainContentOfPage": {
+    "@type": "WebPageElement",
+    "description": "Informationen über die Gründung, Mission, globale Präsenz und drei Kernaktivitäten von GoGroup: Aufbau eigener Unternehmen, Partnerschaften mit Dritten und Smart Money Investment."
+  },
+  "significantLink": ["https://www.gogroup.co/platform/tech-powerhouse"],
+  "relatedLink": [
+    "https://www.gogroup.co/platform",
+    "https://www.gogroup.co/about/team",
+    "https://www.gogroup.co/about/culture-and-values"
+  ],
+  "keywords": [
+    "operative Holdinggesellschaft",
+    "digitale Produkte",
+    "neue Industrie",
+    "Venture Building",
+    "Startup-Investitionen",
+    "Serienunternehmer",
+    "technischer Produktaufbau",
+    "Unicorn",
+    "frühe Profitabilität",
+    "globales Team"
+  ],
+  "dateModified": "2025",
+  "inLanguage": "de"
+}
