@@ -1,0 +1,305 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "GoGroup Portfolio",
+  "url": "https://www.gogroup.co/portfolio",
+  "description": "GoGroup arbeitet mit spannenden Unternehmen und Gründern — baut, kooperiert, investiert, um dauerhaften Erfolg zu schaffen.",
+  "publisher": {
+    "@id": "https://gogroup.co/#organization",
+    "@type": "Organization",
+    "name": "GoGroup GmbH",
+    "url": "https://www.gogroup.co",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.gogroup.co/images/logo-red.png",
+      "width": 502,
+      "height": 417
+    }
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Startseite",
+        "item": "https://www.gogroup.co/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Portfolio",
+        "item": "https://www.gogroup.co/portfolio"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Portfolio-Projekte",
+    "itemListElement": [
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#helloparts",
+        "name": "Helloparts",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["KI", "Cloud", "Automobilindustrie"],
+        "description": "Die intelligente Einkaufsplattform für Teile-Profis. Verbindet Lieferanten von Autoteilen, Werkstätten und Versicherungen.",
+        "url": "https://www.helloparts.com/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "Automobilteile-Profis"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/helloparts"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#trustspace",
+        "name": "TrustSpace",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["KI", "Cloud", "Cybersicherheit"],
+        "description": "TrustSpace ist ein Tool zur Compliance-Automatisierung, dem Kunden und Partner aus über 10 Ländern vertrauen. Die Lösung ermöglicht es Unternehmen jeder Größe, ihre Systeme, Prozesse und Vermögenswerte gegen Cyber-Bedrohungen zu schützen.",
+        "url": "https://trustspace.io/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "KMU und Großunternehmen"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/trustspace"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#eduneon",
+        "name": "Eduneon",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["KI", "Cloud", "Regierungstechnologie"],
+        "description": "Eduneon bietet Software, die öffentlichen Verwaltungen, insbesondere im Bildungsbereich (Schulen, Schulbehörden, Gemeinden), dabei hilft, digitale und infrastrukturelle Ressourcen effizienter zu planen, zu beschaffen und zu verwalten.",
+        "url": "https://www.eduneon.de/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Government",
+          "name": "Öffentliche Verwaltungen und Bildungseinrichtungen"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/eduneon"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#heyport",
+        "name": "Heyport",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["KI", "Cloud", "Logistik"],
+        "description": "heyport ist ein in Hamburg ansässiges Technologieunternehmen, das sich auf die Koordination von Hafenanlaufstellen spezialisiert hat. Entwickelt von HHLA Next, der Innovationseinheit der Hamburger Hafen und Logistik AG (HHLA), zielt heyport darauf ab, die Kommunikation und Koordination zwischen maritimen Akteuren zu verbessern.",
+        "url": "https://www.heyport.io/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "Maritime und Hafenlogistik"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/heyport"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#passify",
+        "name": "Passify",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["Cloud", "Logistik"],
+        "description": "Passify vereinfacht und sichert die LKW-Abwicklung durch die Digitalisierung von Zugang, Koordination und Kommunikation zwischen allen Logistik-Akteuren.",
+        "url": "https://www.passifyapp.de/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "Logistik und Hafenbetrieb"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/passify"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#railsync",
+        "name": "Railsync",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["KI", "Cloud", "Logistik"],
+        "description": "RailSync ist der einfachste und effizienteste Weg, den Schienengüterverkehr an intermodalen Terminals zu koordinieren. Die Plattform rationalisiert Slot-Management-Prozesse, spart Zeit und Ressourcen und verbessert gleichzeitig die Genauigkeit und Zuverlässigkeit von Logistikoperationen.",
+        "url": "https://www.railsync.app/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "Schienen- und intermodale Logistik"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/railsync"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#zennify",
+        "name": "Zennify",
+        "applicationCategory": "DeveloperApplication",
+        "applicationSubCategory": ["KI", "Cloud", "Twilio"],
+        "description": "Terazo, übernommen von Zennify - früher bekannt als c20y - ist eine API-first Digital Engineering Beratung, die Unternehmen dabei hilft, zu modernisieren und zu wachsen, indem sie KI, Data Engineering und Cloud-Services nutzt.",
+        "url": "https://www.zennify.com/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "Unternehmen und Entwicklungsteams"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/terazo"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#intalento",
+        "name": "Intalento",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["KI", "Cloud"],
+        "description": "Intalento von Haufe unterstützt KMU dabei, internationale Fachkräfte aus Drittländern schnell und effizient einzustellen. Insbesondere führt die Plattform Unternehmen und Talente Schritt für Schritt durch den Visa-Prozess.",
+        "url": "https://intalento.com/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "KMU und Personalabteilungen"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/intalento"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#warehousing1",
+        "name": "Warehousing 1",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["KI", "Logistik", "Cloud"],
+        "description": "Warehousing1 bietet einen Full-Service-Fulfillment-Service für schnell wachsende E-Commerce-Unternehmen und etablierte Unternehmen, indem es Logistikdienstleistungen vom Kommissionieren, Verpacken, Lagern bis zur Übergabe an Versanddienstleister bündelt.",
+        "url": "https://warehousing1.com/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "E-Commerce- und Logistikunternehmen"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/warehousing1"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#gopuls",
+        "name": "GoPuls",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": [
+          "Cloud",
+          "Gesundheitswesen",
+          "Quick Commerce"
+        ],
+        "description": "First A - jetzt bekannt als GoPuls - ist Deutschlands erster Sofort-Medikamentenlieferdienst. Heute liefert das Unternehmen täglich etwa 20.000 pharmazeutische und Pflegeprodukte direkt nach Hause von 8 bis 22 Uhr.",
+        "url": "https://www.gopuls.de/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Consumer",
+          "name": "Gesundheitsverbraucher"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/first-a"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#energypartners",
+        "name": "Energy Partners",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["Nachhaltigkeit", "Cloud"],
+        "description": "Energy Partners wurde 2024 von MaxSolar gegründet mit dem Ziel, schnellen Zugang zu skalierbaren Energielösungen zu bieten und erschwinglichen Strom und saubere Energie für unsere Industrie- und Gewerbekunden verfügbar zu machen.",
+        "url": "https://www.energypartners.de/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "Industrielle und gewerbliche Energieverbraucher"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/energy-partners"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#powerus",
+        "name": "PowerUs",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["Cloud", "Personalwesen"],
+        "description": "PowerUs konzentriert sich auf die Vermittlung von Elektrikern, Mechatronikern und HLK-Technikern an qualifizierte Unternehmen.",
+        "url": "https://powerus.de/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Professional",
+          "name": "Technische Fachkräfte und Arbeitgeber"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/powerus"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#medbelle",
+        "name": "MedBelle",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["Cloud", "Gesundheitswesen"],
+        "description": "Medbelle bietet einfachere, intelligentere und persönlichere Gesundheitsversorgung für alle im Vereinigten Königreich. Medbelle-Patienten haben nur einen Ansprechpartner, ihren persönlichen Patient Care Adviser, der sie durch ihren gesamten Behandlungsweg führt.",
+        "url": "https://www.medbelle.com/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Consumer",
+          "name": "Gesundheitspatienten"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/medbelle"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#evernest",
+        "name": "Evernest",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["Cloud", "PropTech"],
+        "description": "Evernest ist eine digitale Immobilienplattform, die eine nahtlose und effiziente Möglichkeit bietet, Immobilien online zu kaufen, zu verkaufen und zu vermieten.",
+        "url": "https://www.evernest.co/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Consumer",
+          "name": "Immobilienkäufer, -verkäufer und -mieter"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/evernest"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#loanlink",
+        "name": "LoanLink",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["Cloud", "PropTech"],
+        "description": "LoanLink ist eine digitale Plattform, die Kreditnehmer mit Kreditgebern für Privat- und Geschäftskredite verbindet und sich auf Immobilien- und Baukreditvergabe spezialisiert.",
+        "url": "https://www.loanlink.de/",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Business",
+          "name": "Immobilien- und Baukreditnehmer"
+        },
+        "sameAs": ["https://www.gogroup.co/portfolio/loanlink"]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#caroobi",
+        "name": "Caroobi",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["Cloud", "Automobilindustrie"],
+        "description": "Caroobi war eine Online-Plattform, die Autobesitzer mit professionellen Mechanikern für bequeme und erschwingliche Autoreparatur- und Wartungsdienstleistungen verband.",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Consumer",
+          "name": "Autobesitzer"
+        },
+        "sameAs": [
+          "https://www.crunchbase.com/organization/caroobi",
+          "https://www.gogroup.co/portfolio/caroobi"
+        ]
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": "https://gogroup.co/portfolio/#homebell",
+        "name": "Homebell",
+        "applicationCategory": "BusinessApplication",
+        "applicationSubCategory": ["Dienstleistungen", "Cloud"],
+        "description": "Homebell war eine digitale Plattform, die Hausbesitzer mit lokalen Dienstleistern für Hausverbesserungs- und Wartungsprojekte verband.",
+        "audience": {
+          "@type": "Audience",
+          "audienceType": "Consumer",
+          "name": "Hausbesitzer"
+        },
+        "sameAs": [
+          "https://www.linkedin.com/company/homebell/",
+          "https://www.gogroup.co/portfolio/homebell"
+        ]
+      }
+    ]
+  }
+}

@@ -1,299 +1,307 @@
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "@id": "https://gogroup.co",
-  "name": "GoGroup",
-  "legalName": "GoGroup GmbH",
-  "url": "https://www.gogroup.co",
-  "logo": "https://www.gogroup.co/images/logo-red.png",
-  "description": "GoGroup is an operational holding company focused on building its own businesses and partnering with others to create outstanding digital products. It was started in 2019, building on many years of experience as serial entrepreneurs.",
-  "foundingDate": "2019",
-  "founders": [
+  "@graph": [
     {
-      "@type": "Person",
-      "name": "Sascha Weiler",
-      "email": "mailto:sascha.weiler@gogroup.co",
-      "jobTitle": "Founding Partner",
-      "image": "https://www.gogroup.co/api/media/file/Sascha%20neu.jpeg",
-      "sameAs": [
-        "https://de.linkedin.com/in/saschaweiler1",
-        "https://www.crunchbase.com/person/sascha-weiler"
+      "@type": "BreadcrumbList",
+      "@id": "https://gogroup.co/#home-breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.gogroup.co/"
+        }
       ]
     },
     {
-      "@type": "Person",
-      "name": "Nico Weiler",
-      "email": "mailto:nico.weiler@gogroup.co",
-      "jobTitle": "Founding Partner",
-      "image": "https://www.gogroup.co/api/media/file/Nico%20neu.jpeg",
-      "sameAs": [
-        "https://de.linkedin.com/in/nicoweiler",
-        "https://www.crunchbase.com/person/nico-weiler"
+      "@type": "SiteNavigationElement",
+      "@id": "https://gogroup.co/#navigation",
+      "name": "GoGroup Navigation",
+      "url": "https://www.gogroup.co",
+      "hasPart": [
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Platform",
+          "url": "https://www.gogroup.co/platform"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Build",
+          "url": "https://www.gogroup.co/platform/build"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Partner",
+          "url": "https://www.gogroup.co/platform/partner"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Tech Powerhouse",
+          "url": "https://www.gogroup.co/platform/tech-powerhouse"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "About",
+          "url": "https://www.gogroup.co/about/about-gogroup"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Portfolio",
+          "url": "https://www.gogroup.co/portfolio"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Contact",
+          "url": "https://www.gogroup.co/contact"
+        }
       ]
     },
     {
-      "@type": "Person",
-      "name": "Shishir Goel",
-      "email": "mailto:shishir.goel@gogroup.co",
-      "jobTitle": "Founding Partner",
-      "image": "https://www.gogroup.co/api/media/file/shishirgoel.jpg",
-      "sameAs": ["https://www.crunchbase.com/person/shishir-goel"]
-    }
-  ],
-  "numberOfEmployees": "100+",
-  "industry": [
-    "Technology",
-    "Information and Internet",
-    "Venture Capital",
-    "Digital Products"
-  ],
-  "keywords": "operational holding company, digital products, venture capital, startup studio, tech powerhouse, software development, tech teams",
-  "address": [
-    {
-      "@type": "PostalAddress",
-      "addressLocality": "Berlin",
-      "addressCountry": "Germany",
-      "name": "Berlin Office"
-    },
-    {
-      "@type": "PostalAddress",
-      "addressLocality": "Noida",
-      "addressRegion": "Delhi/NCR",
-      "addressCountry": "India",
-      "name": "Noida Office"
-    },
-    {
-      "@type": "PostalAddress",
-      "addressLocality": "London",
-      "addressCountry": "United Kingdom",
-      "name": "London Office"
-    },
-    {
-      "@type": "PostalAddress",
-      "addressLocality": "Kathmandu",
-      "addressCountry": "Nepal",
-      "name": "Kathmandu Office"
-    }
-  ],
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "url": "https://www.gogroup.co/contact",
-    "email": "mailto:hello@gogroup.co",
-    "contactType": "Sales Contact",
-    "availableLanguage": ["German", "English"]
-  },
-  "sameAs": [
-    "https://www.linkedin.com/company/gogroup",
-    "https://pitchbook.com/profiles/investor/545950-90",
-    "https://www.crunchbase.com/organization/gogroup",
-    "https://www.glassdoor.co.in/Overview/Working-at-GoGroup-EI_IE4575111.11,18.htm"
-  ],
-  "subOrganization": [
-    {
       "@type": "Organization",
-      "name": "GoTeams",
-      "url": "https://goteams.de",
-      "description": "GoTeams helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution."
-    },
-    {
-      "@type": "Organization",
-      "name": "GoFounder",
-      "url": "https://gofounder.co",
-      "description": "GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. It acts as a co-founder, guiding founders through idea selection, product development, and market validation to achieve product–market fit."
-    }
-  ],
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "GoGroup Services",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "name": "Build Platform",
-        "description": "GoGroup specializes in creating and scaling technology products and ventures across diverse industries. Its portfolio includes successful products such as GoParts, Trustspace, Eduneon, and Meinungswerk, reflecting its expertise in innovation, execution, and venture building.",
-        "url": "https://www.gogroup.co/platform/build"
+      "@id": "https://gogroup.co/#organization",
+      "name": "GoGroup",
+      "legalName": "GoGroup GmbH",
+      "url": "https://www.gogroup.co",
+      "logo": "https://www.gogroup.co/images/logo-red.png",
+      "description": "GoGroup is an operational holding company focused on building its own businesses and partnering with others to create outstanding digital products. It was started in 2019, building on many years of experience as serial entrepreneurs.",
+      "foundingDate": "2019",
+      "founders": [
+        {
+          "@type": "Person",
+          "name": "Sascha Weiler",
+          "email": "mailto:sascha.weiler@gogroup.co",
+          "jobTitle": "Founding Partner",
+          "image": "https://www.gogroup.co/api/media/file/Sascha%20neu.jpeg",
+          "sameAs": [
+            "https://de.linkedin.com/in/saschaweiler1",
+            "https://www.crunchbase.com/person/sascha-weiler"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Nico Weiler",
+          "email": "mailto:nico.weiler@gogroup.co",
+          "jobTitle": "Founding Partner",
+          "image": "https://www.gogroup.co/api/media/file/Nico%20neu.jpeg",
+          "sameAs": [
+            "https://de.linkedin.com/in/nicoweiler",
+            "https://www.crunchbase.com/person/nico-weiler"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Shishir Goel",
+          "email": "mailto:shishir.goel@gogroup.co",
+          "jobTitle": "Founding Partner",
+          "image": "https://www.gogroup.co/api/media/file/shishirgoel.jpg",
+          "sameAs": [
+            "https://www.crunchbase.com/person/shishir-goel",
+            "https://in.linkedin.com/in/shishirgoel"
+          ]
+        }
+      ],
+      "numberOfEmployees": 100,
+      "keywords": "operational holding company, digital products, venture capital, startup studio, tech powerhouse, software development, tech teams",
+      "address": [
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Berlin",
+          "addressCountry": "Germany",
+          "name": "Berlin Office"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Noida",
+          "addressRegion": "Delhi/NCR",
+          "addressCountry": "India",
+          "name": "Noida Office"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "London",
+          "addressCountry": "United Kingdom",
+          "name": "London Office"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Kathmandu",
+          "addressCountry": "Nepal",
+          "name": "Kathmandu Office"
+        }
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "url": "https://www.gogroup.co/contact",
+        "email": "mailto:hello@gogroup.co",
+        "contactType": "Sales Contact",
+        "availableLanguage": ["German", "English"]
       },
-      {
-        "@type": "Offer",
-        "name": "Partner Platform",
-        "description": "GoGroup has a proven track record of partnering with startups and scaleups to build and operate product and technology organizations as well as global capability centers (GCCs). Its long-standing collaborations include Energy Partners for Maxsolar, Cope Affiliate for Copecart, Passify and Heyport for HHLA Next, and c20y for Zennify, demonstrating deep expertise in scalable technology execution and venture growth.",
-        "url": "https://www.gogroup.co/platform/partner"
+      "sameAs": [
+        "https://www.linkedin.com/company/gogroup",
+        "https://pitchbook.com/profiles/investor/545950-90",
+        "https://www.crunchbase.com/organization/gogroup",
+        "https://www.glassdoor.co.in/Overview/Working-at-GoGroup-EI_IE4575111.11,18.htm"
+      ],
+      "subOrganization": [
+        {
+          "@type": "Organization",
+          "name": "GoTeams",
+          "url": "https://goteams.de",
+          "description": "GoTeams helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution."
+        },
+        {
+          "@type": "Organization",
+          "name": "GoFounder",
+          "url": "https://gofounder.co",
+          "description": "GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. It acts as a co-founder, guiding founders through idea selection, product development, and market validation to achieve product–market fit."
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "GoGroup Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Build Platform",
+            "description": "GoGroup specializes in creating and scaling technology products and ventures across diverse industries. Its portfolio includes successful products such as GoParts, Trustspace, Eduneon, and Meinungswerk, reflecting its expertise in innovation, execution, and venture building.",
+            "url": "https://www.gogroup.co/platform/build"
+          },
+          {
+            "@type": "Offer",
+            "name": "Partner Platform",
+            "description": "GoGroup has a proven track record of partnering with startups and scaleups to build and operate product and technology organizations as well as global capability centers (GCCs). Its long-standing collaborations include Energy Partners for Maxsolar, Cope Affiliate for Copecart, Passify and Heyport for HHLA Next, and c20y for Zennify, demonstrating deep expertise in scalable technology execution and venture growth.",
+            "url": "https://www.gogroup.co/platform/partner"
+          },
+          {
+            "@type": "Offer",
+            "name": "Tech Powerhouse",
+            "description": "GoGroup's Tech Powerhouse is a high-performance technology team built for scale, combining full-time expert engineers and a vetted talent pool to deliver robust software solutions. It supports rapid growth through long-term team ownership, deep business alignment, and stability across project lifecycles. Designed to go beyond conventional agency models, it integrates tech teams into partner organizations to ensure fluent, scalable delivery from idea through maturity.",
+            "url": "https://www.gogroup.co/platform/tech-powerhouse"
+          }
+        ]
       },
-      {
+      "knowsAbout": [
+        "Technical Product Building",
+        "Investing",
+        "Venture Capital",
+        "Startup Studio",
+        "Venture Builder",
+        "Venture Studio",
+        "Tech Powerhouse",
+        "Digital Business Models"
+      ],
+      "areaServed": ["Germany", "United Kingdom", "Europe"],
+      "makesOffer": {
         "@type": "Offer",
-        "name": "Tech Powerhouse",
-        "description": "GoGroup’s Tech Powerhouse is a high-performance technology team built for scale, combining full-time expert engineers and a vetted talent pool to deliver robust software solutions. It supports rapid growth through long-term team ownership, deep business alignment, and stability across project lifecycles. Designed to go beyond conventional agency models, it integrates tech teams into partner organizations to ensure fluent, scalable delivery from idea through maturity.",
-        "url": "https://www.gogroup.co/platform/tech-powerhouse"
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Software Development Services",
+          "description": "Tech team provision and software development for partner companies"
+        }
       }
-    ]
-  },
-  "serviceOutput": [
-    {
-      "@type": "SoftwareApplication",
-      "name": "Helloparts",
-      "applicationCategory": "AI, Cloud, Automotive",
-      "offers": "Connecting suppliers of automotive parts, workshops and insurers.",
-      "description": "The intelligent purchasing platform for parts professionals",
-      "sameAs": ["https://www.gogroup.co/portfolio/helloparts"],
-      "url": "https://www.helloparts.com/"
     },
     {
-      "@type": "SoftwareApplication",
-      "name": "TrustSpace",
-      "applicationCategory": "AI, Cloud, Cybersecurity",
-      "offers": "Safeguarding SMEs from cyberattacks.",
-      "description": "TrustSpace is a compliance automation tool trusted by clients and partners from over 10 countries. The solution enables companies of all sizes to protect their systems, processes and assets against cyberthreats. This helps them to comply with industry standards and receive important certifications without going through lengthy inspection and consulting services.",
-      "sameAs": ["https://www.gogroup.co/portfolio/trustspace"],
-      "url": "https://trustspace.io/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Eduneon",
-      "applicationCategory": "AI, Cloud, Government Technology",
-      "offers": "Software aimed at helping public administrations and Education domain digital infrastructure management",
-      "description": "Eduneon provides software aimed at helping public administrations, especially in the domain of education (schools, school authorities, municipalities), to plan, procure, and manage digital and infrastructure resources more efficiently.",
-      "sameAs": ["https://www.gogroup.co/portfolio/eduneon"],
-      "url": "https://www.eduneon.de/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Heyport",
-      "applicationCategory": "AI, Cloud, Logistics",
-      "offers": "Streamlining processes in ship discharging.",
-      "description": "heyport is a Hamburg-based technology company specializing in port call coordination. Developed by HHLA Next, the innovation unit of Hamburger Hafen und Logistik AG (HHLA), heyport aims to enhance communication and coordination among maritime stakeholders.",
-      "sameAs": ["https://www.gogroup.co/portfolio/heyport"],
-      "url": "https://www.heyport.io/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Passify",
-      "applicationCategory": "Cloud, Logistics",
-      "offers": "Automating delivery traffic handling in ports.",
-      "description": "Passify simplify and secure truck handling by digitizing access, coordination, and communication between all logistics stakeholders.",
-      "sameAs": ["https://www.gogroup.co/portfolio/passify"],
-      "url": "https://www.passifyapp.de/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Railsync",
-      "applicationCategory": "AI, Cloud, Logistics",
-      "offers": "Digitizing train coordination in intermodal logistics.",
-      "sameAs": ["https://www.gogroup.co/portfolio/railsync"],
-      "description": "RailSync is the easiest and most efficient way to coordinate rail freight at intermodal terminals. The platform streamlines slot management processes, saving time and resources while improving the accuracy and reliability of logistics operations.",
-      "url": "https://www.railsync.app/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Zennify",
-      "applicationCategory": "AI, Cloud, Twilio",
-      "offers": "Empowering humans through digital engineering.",
-      "sameAs": ["https://www.gogroup.co/portfolio/terazo"],
-      "description": "Terazo aquired by Zennify - formerly known as c20y - is an API-first digital engineering consultancy that helps businesses modernize and grow by leveraging AI, data engineering, and cloud services. The company specialize in making key systems smarter with tools and data, providing solutions that allow businesses to transition to digital processes without the need for a complete system overhaul.",
-      "url": "https://www.zennify.com/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Intalento",
-      "applicationCategory": "AI, Cloud",
-      "offers": "Simplifying the recruitment of international specialists for SMEs.",
-      "description": "Intalento from Haufe supports SMEs in hiring international skilled workers from third countries quickly and efficiently. In particular, the platform guides companies and talents step by step through the visa process. By continuously updating the case status, it creates transparency for both parties and helps to compile and check the necessary documents.",
-      "sameAs": ["https://www.gogroup.co/portfolio/intalento"],
-      "url": "https://intalento.com/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Warehousing 1",
-      "applicationCategory": "AI, Logistics, Cloud",
-      "offers": "Warehousing solutions",
-      "sameAs": ["https://www.gogroup.co/portfolio/warehousing1"],
-      "description": "Warehousing1 provides a one-stop-shop fulfillment service for fast-growing ecommerce companies and established companies, by bundling logistics services from picking, packaging, storing until hand-over to shipping providers. Today, more than 500 customers from all industries already use the network of over 1,000 locations in Germany, Europe and the USA for flexible and scalable solutions in the areas of e-commerce fulfillment and warehouse logistics.",
-      "url": "https://warehousing1.com/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "GoPuls",
-      "applicationCategory": "Cloud, Healthcare, Quick Commerce",
-      "offers": "Delivering pharmacy products on demand.",
-      "description": "First A - now known as GoPuls - is Germany's first instant medicine delivery service. Today, the company, which was taken over by Shop Apotheke in 2022, delivers around 20,000 pharmaceutical and care products directly to the customer's home every day from 8 am to 10 pm. At the heart of the service is a Germany-wide network of associated pharmacies that act as location-based suppliers.",
-      "sameAs": ["https://www.gogroup.co/portfolio/first-a"],
-      "url": "https://www.gopuls.de/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Energy Partners",
-      "applicationCategory": "Sustainability, Cloud",
-      "offers": "Delivering customized energy solutions for businesses, commerce and industry.",
-      "description": "Energy Partners was founded in 2024 by MaxSolar with the aim of providing fast access to scalable energy solutions and making affordable electricity and clean energy available to our industrial and commercial customers. The company achieves this with CO2-neutral energy systems and innovative digital solutions.",
-      "sameAs": ["https://www.gogroup.co/portfolio/energy-partners"],
-      "url": "https://www.energypartners.de/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "PowerUs",
-      "applicationCategory": "Cloud, Human Ressources",
-      "offers": "Help technicians find jobs",
-      "description": "PowerUs focuses on placing electricians, mechatronics engineers and HVAC technicians with qualified companies.",
-      "sameAs": ["https://www.gogroup.co/portfolio/powerus"],
-      "url": "https://powerus.de/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "MedBelle",
-      "applicationCategory": "Cloud, Healthcare",
-      "offers": "Personal Healthcare",
-      "description": "Medbelle provides simpler, smarter and more personal healthcare for everybody across the United Kingdom. Medbelle patients only have one point of contact, their personal Patient Care Adviser, who guides them through their entire care pathway, offering support, joining up specialists, and providing the information patients need to make informed decisions about their treatment options. Clinicians are provided with administrative support and technology that works efficiently, while also being joined up with other specialists. ",
-      "sameAs": ["https://www.gogroup.co/portfolio/medbelle"],
-      "url": "https://www.medbelle.com/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Evernest",
-      "applicationCategory": "Cloud, PropTech",
-      "offers": "Real State Selling, buying and renting",
-      "description": "Evernest is a digital real estate platform that offers a seamless and efficient way to buy, sell, and rent properties online.",
-      "sameAs": ["https://www.gogroup.co/portfolio/evernest"],
-      "url": "https://www.evernest.co/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "LoanLink",
-      "applicationCategory": "Cloud, PropTech",
-      "offers": "Digital platform for real estate and construction lending.",
-      "description": "LoanLink is a digital platform that connects borrowers with lenders for personal and business loans.",
-      "sameAs": ["https://www.gogroup.co/portfolio/loanlink"],
-      "url": "https://www.loanlink.de/"
-    },
-    {
-      "@type": "SoftwareApplication",
-      "name": "Caroobi",
-      "applicationCategory": "Cloud, Automotive",
-      "offers": "Simplifying car repair and maintenance services.",
-      "description": "Caroobi was an online platform that connects car owners with professional mechanics for convenient and affordable car repairs and maintenance services.",
-      "sameAs": [
-        "https://www.crunchbase.com/organization/caroobi",
-        "https://www.gogroup.co/portfolio/caroobi"
+      "@type": "ItemList",
+      "@id": "https://gogroup.co/#portfolio",
+      "name": "GoGroup Software Portfolio",
+      "description": "Software applications developed by GoGroup for partner companies",
+      "numberOfItems": 17,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": { "@id": "https://gogroup.co/portfolio/#helloparts" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": { "@id": "https://gogroup.co/portfolio/#trustspace" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": { "@id": "https://gogroup.co/portfolio/#eduneon" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": { "@id": "https://gogroup.co/portfolio/#heyport" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": { "@id": "https://gogroup.co/portfolio/#passify" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": { "@id": "https://gogroup.co/portfolio/#railsync" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": { "@id": "https://gogroup.co/portfolio/#zennify" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "item": { "@id": "https://gogroup.co/portfolio/#intalento" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "item": { "@id": "https://gogroup.co/portfolio/#warehousing1" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "item": { "@id": "https://gogroup.co/portfolio/#gopuls" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "item": { "@id": "https://gogroup.co/portfolio/#energypartners" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "item": { "@id": "https://gogroup.co/portfolio/#powerus" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "item": { "@id": "https://gogroup.co/portfolio/#medbelle" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "item": { "@id": "https://gogroup.co/portfolio/#evernest" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "item": { "@id": "https://gogroup.co/portfolio/#loanlink" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "item": { "@id": "https://gogroup.co/portfolio/#caroobi" }
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "item": { "@id": "https://gogroup.co/portfolio/#homebell" }
+        }
       ]
     },
     {
-      "@type": "SoftwareApplication",
-      "name": "Homebell",
-      "applicationCategory": "Services, Cloud",
-      "offers": "Digitizing the provision of craftsman services.",
-      "description": "Homebell was a digital platform that connects homeowners with local service providers for home improvement and maintenance projects.",
-      "sameAs": [
-        "https://www.linkedin.com/company/homebell/",
-        "https://www.gogroup.co/portfolio/homebell"
-      ]
+      "@type": "WebSite",
+      "@id": "https://gogroup.co/#website",
+      "url": "https://gogroup.co/",
+      "name": "GoGroup",
+      "description": "GoGroup's main website. The platform for the New Industry.",
+      "inLanguage": "en",
+      "publisher": { "@id": "https://gogroup.co/#organization" }
     }
-  ],
-  "knowsAbout": [
-    "Technical Product Building",
-    "Investing",
-    "Venture Capital",
-    "Startup Studio",
-    "Venture Builder",
-    "Venture Studio",
-    "Tech Powerhouse",
-    "Digital Business Models"
-  ],
-  "areaServed": ["Germany", "United Kingdom", "Europe"]
+  ]
 }
