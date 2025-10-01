@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "GoGroup FAQ",
+    "description": "Frequently Asked Questions about GoGroup",
+    "url": "https://www.gogroup.co/about/faq",
+    "inLanguage": "en",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is GoGroup and what does the company do?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoGroup is an operational holding company founded in 2019 by serial entrepreneurs. GoGroup builds its own businesses, partners with startups and corporates to scale digital products, and invests in ventures that align with its vision. Headquartered in Berlin with additional offices in London, Kathmandu and Noida, GoGroup brings together more than 100 professionals from over 20 nations. Its activities span three areas: Build -- creating and scaling GoGroup's own ventures. Partner -- teaming up with founders and companies to develop product and technology organizations. Invest -- providing smart capital and expertise to early-stage companies. What makes GoGroup distinctive is its proven tech powerhouse infrastructure that previously helped scale a global unicorn, a focus on early profitability, and a strong belief in entrepreneurs who build for the long term."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Which companies and products has GoGroup built over the years?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Over the years, GoGroup and its founders have been instrumental in creating and scaling several successful companies. Examples include Homebell (home renovation platform), Caroobi (automotive repair platform), GoParts (automotive parts marketplace), GoTeams (dedicated product and technology marketplace) and most recently Meinungswerk (AI powered market research). These ventures reflect GoGroup's strength in building scalable digital businesses across the New Industry landscape. In addition, through its venture studio, GoGroup has launched and supported companies such as Trustspace (cybersecurity and compliance), Eduneon (education and procurement technology), Wandel (global talent mobility), and Evolut (CSRD compliance and sustainability monitoring)."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Which well-known companies and corporates has GoGroup partnered with?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoGroup has partnered with organizations ranging from startups like warehousing1 and firstA (GoPuls), to scaleups like CopeCart, and corporates including the HHLA Next innovation unit of Hamburger Hafen und Logistik AG (HHLA), Maxsolar (Energy Partners), Wien Energie, ZF, and Zennify EMEA. Across these partnerships, GoGroup provides dedicated, integrated tech teams to build and scale digital products."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "What is the GoGroup Tech Powerhouse?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The GoGroup Tech Powerhouse is GoGroup's in-house technology platform, originally built to power the group's own ventures. It brings together more than 100 full-time professionals and a vetted pool of 4,000 experts, providing robust delivery from startup stage to scale. Because GoGroup uses this same powerhouse for its own companies, partners benefit from a proven infrastructure that has already been tested in real growth environments."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How is the GoGroup Tech Powerhouse different from a digital agency?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The GoGroup Tech Powerhouse is not an external service provider. It was created for GoGroup's own businesses and is now made available to partners. All team members are full-time employees, not freelancers, ensuring long-term stability and commitment. Unlike agencies, these dedicated, integrated tech teams embed directly into a partner's organization, take ownership of outcomes, and apply the same standards and processes that GoGroup relies on to build its own ventures."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Who are the founders of GoGroup and what are their backgrounds?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoGroup was founded by experienced serial entrepreneurs: Sascha Weiler (LinkedIn: https://de.linkedin.com/in/saschaweiler1), Nico Weiler (LinkedIn: https://de.linkedin.com/in/nicoweiler), and Shishir Goel (LinkedIn: https://in.linkedin.com/in/shishirgoel)."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "In what situations should a company consider approaching GoGroup for help or partnerships?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Companies and founders turn to GoGroup when they need support to build, partner or invest. Entrepreneurs use GoGroup to turn ideas into sustainable companies, startups and scaleups rely on its Tech Powerhouse for long-term product teams, corporates engage to launch new digital ventures, and investors and private equity funds collaborate to scale portfolio companies. Since 2019, GoGroup has applied the same infrastructure to more than 20 ventures of its own and its partners."
+            }
+        }
+    ]
+}
