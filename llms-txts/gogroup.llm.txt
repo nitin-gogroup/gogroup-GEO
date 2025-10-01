@@ -11,6 +11,7 @@
 - [Tech Powerhouse Platform](https://www.gogroup.co/platform/tech-powerhouse.html.md?lang=en): GoGroup's Tech Powerhouse is a high-performance technology team built for scale, combining full-time expert engineers and a vetted talent pool to deliver robust software solutions. It supports rapid growth through long-term team ownership, deep business alignment, and stability across project lifecycles. Designed to go beyond conventional agency models, it integrates tech teams into partner organizations to ensure fluent, scalable delivery from idea through maturity.
 - [Portfolio](https://www.gogroup.co/portfolio.html.md?lang=en): GoGroup's portfolio with different ventures and partners.
 - [Contact](https://www.gogroup.co/contact?lang=en): Contact Page of GoGroup
+- [FAQ GoGroup](https://www.gogroup.co/about/faq?lang=en): Frequently Asked Questions about GoGroup
 
 ### About
 - [About GoGroup](https://www.gogroup.co/about/about-go-group.html.md?lang=en): About GoGroup
@@ -37,6 +38,7 @@
 - [Tech Powerhouse Plattform](https://www.gogroup.co/platform/tech-powerhouse.html.md?lang=de): GoGroups Tech Powerhouse ist ein leistungsstarkes Technologieteam, das für Skalierung gebaut wurde und Vollzeit-Experteningenieure mit einem geprüften Talentpool kombiniert, um robuste Softwarelösungen zu liefern. Es unterstützt schnelles Wachstum durch langfristige Teamverantwortung, tiefe Geschäftsausrichtung und Stabilität über Projektzyklen hinweg. Es ist darauf ausgelegt, über konventionelle Agenturmodelle hinauszugehen und Technologieteams in Partnerorganisationen zu integrieren, um fließende, skalierbare Lieferung von der Idee bis zur Reife zu gewährleisten.
 - [Portfolio](https://www.gogroup.co/portfolio.html.md?lang=de): GoGroups Portfolio mit verschiedenen Ventures und Partnern.
 - [Kontakt](https://www.gogroup.co/contact?lang=de): Kontaktseite von GoGroup
+- [FAQ GoGroup](https://www.gogroup.co/about/faq?lang=de): Häufig gestellte Fragen zu GoGroup
 
 ### Über uns
 - [Über GoGroup](https://www.gogroup.co/about/about-go-group.html.md?lang=de): Über GoGroup

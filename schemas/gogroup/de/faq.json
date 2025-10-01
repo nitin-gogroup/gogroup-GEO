@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "GoGroup FAQ",
+    "description": "Häufig gestellte Fragen zu GoGroup",
+    "url": "https://www.gogroup.co/about/faq",
+    "inLanguage": "de",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Was ist GoGroup und was macht das Unternehmen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoGroup ist eine operative Holdinggesellschaft, die 2019 von Serial Entrepreneurs gegründet wurde. GoGroup baut eigene Unternehmen auf, arbeitet mit Startups und Konzernen zusammen, um digitale Produkte zu skalieren, und investiert in Ventures, die mit seiner Vision übereinstimmen. Mit Hauptsitz in Berlin und zusätzlichen Büros in London, Kathmandu und Noida bringt GoGroup mehr als 100 Fachkräfte aus über 20 Nationen zusammen. Die Aktivitäten umfassen drei Bereiche: Build - Aufbau und Skalierung eigener Ventures von GoGroup. Partner - Zusammenarbeit mit Gründern und Unternehmen zur Entwicklung von Produkt- und Technologieorganisationen. Invest - Bereitstellung von Smart Capital und Expertise für Early-Stage-Unternehmen. Was GoGroup auszeichnet, ist seine bewährte Tech-Powerhouse-Infrastruktur, die zuvor beim Aufbau eines globalen Unicorns half, ein Fokus auf frühe Profitabilität und ein starker Glaube an Unternehmer, die langfristig aufbauen."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Welche Unternehmen und Produkte hat GoGroup im Laufe der Jahre aufgebaut?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Im Laufe der Jahre haben GoGroup und seine Gründer maßgeblich zur Gründung und Skalierung mehrerer erfolgreicher Unternehmen beigetragen. Beispiele sind Homebell (Plattform für Hausrenovierung), Caroobi (Plattform für Autoreparatur), GoParts (Marktplatz für Autoteile), GoTeams (Marktplatz für dedizierte Produkt- und Technologie-Teams) und zuletzt Meinungswerk (KI-gestützte Marktforschung). Diese Ventures spiegeln GoGroups Stärke beim Aufbau skalierbarer digitaler Unternehmen in der New Industry Landschaft wider. Darüber hinaus hat GoGroup durch sein Venture Studio Unternehmen wie Trustspace (Cybersicherheit und Compliance), Eduneon (Bildungs- und Beschaffungstechnologie), Wandel (globale Talentmobilität) und Evolut (CSRD-Compliance und Nachhaltigkeitsmonitoring) gegründet und unterstützt."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Mit welchen bekannten Unternehmen und Konzernen hat GoGroup zusammengearbeitet?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoGroup hat mit Organisationen zusammengearbeitet, die von Startups wie warehousing1 und firstA (GoPuls) über Scale-ups wie CopeCart bis hin zu Konzernen wie der HHLA Next Innovationseinheit der Hamburger Hafen und Logistik AG (HHLA), Maxsolar (Energy Partners), Wien Energie, ZF und Zennify EMEA reichen. Bei all diesen Partnerschaften stellt GoGroup dedizierte, integrierte Tech-Teams bereit, um digitale Produkte aufzubauen und zu skalieren."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Was ist das GoGroup Tech Powerhouse?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Das GoGroup Tech Powerhouse ist GoGroups interne Technologieplattform, die ursprünglich entwickelt wurde, um die eigenen Ventures der Gruppe zu unterstützen. Es vereint mehr als 100 Vollzeit-Fachkräfte und einen geprüften Pool von 4.000 Experten und bietet robuste Lieferung von der Startup-Phase bis zur Skalierung. Da GoGroup dasselbe Powerhouse für seine eigenen Unternehmen nutzt, profitieren Partner von einer bewährten Infrastruktur, die bereits in echten Wachstumsumgebungen getestet wurde."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Wie unterscheidet sich das GoGroup Tech Powerhouse von einer Digitalagentur?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Das GoGroup Tech Powerhouse ist kein externer Dienstleister. Es wurde für GoGroups eigene Unternehmen entwickelt und steht nun Partnern zur Verfügung. Alle Teammitglieder sind Vollzeitbeschäftigte, keine Freelancer, was langfristige Stabilität und Engagement gewährleistet. Im Gegensatz zu Agenturen integrieren sich diese dedizierten, integrierten Tech-Teams direkt in die Organisation eines Partners, übernehmen Verantwortung für Ergebnisse und wenden dieselben Standards und Prozesse an, auf die GoGroup beim Aufbau seiner eigenen Ventures vertraut."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Wer sind die Gründer von GoGroup und welchen Hintergrund haben sie?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoGroup wurde von erfahrenen Serial Entrepreneurs gegründet: Sascha Weiler (LinkedIn: https://de.linkedin.com/in/saschaweiler1), Nico Weiler (LinkedIn: https://de.linkedin.com/in/nicoweiler) und Shishir Goel (LinkedIn: https://in.linkedin.com/in/shishirgoel)."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "In welchen Situationen sollte ein Unternehmen GoGroup für Hilfe oder Partnerschaften in Betracht ziehen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Unternehmen und Gründer wenden sich an GoGroup, wenn sie Unterstützung beim Aufbau, bei Partnerschaften oder bei Investitionen benötigen. Unternehmer nutzen GoGroup, um Ideen in nachhaltige Unternehmen zu verwandeln, Startups und Scale-ups verlassen sich auf das Tech Powerhouse für langfristige Produktteams, Konzerne engagieren sich für die Gründung neuer digitaler Ventures, und Investoren sowie Private-Equity-Fonds arbeiten zusammen, um Portfoliounternehmen zu skalieren. Seit 2019 hat GoGroup dieselbe Infrastruktur auf mehr als 20 eigene Ventures und die seiner Partner angewendet."
+            }
+        }
+    ]
+}

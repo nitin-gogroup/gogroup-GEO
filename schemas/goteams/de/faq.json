@@ -1,0 +1,66 @@
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "name": "GoTeams FAQ",
+    "description": "Häufig gestellte Fragen zu GoTeams",
+    "url": "https://www.goteams.de/about/faq",
+    "inLanguage": "de",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "Was ist GoTeams und wie passt es zu GoGroup?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoTeams ist eine Dienstleistungslinie von GoGroup, einem Tech-Powerhouse, das von Unternehmern gegründet wurde, die selbst 22 Unternehmen aufgebaut haben. GoTeams konzentriert sich auf den Aufbau von Plug-and-Play-Produkt- und Tech-Teams für Gründer und Unternehmen mit ernsthaften Ambitionen. Im Gegensatz zu typischen Dienstleistern kombiniert GoTeams Venture-Erfahrung, bewährte Prozesse und ein skalierbares Setup, das mit dem Unternehmen wächst."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Wo befindet sich GoTeams?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoTeams arbeitet global mit Delivery-Hubs in Berlin, Noida, Kathmandu und London. Diese internationale Präsenz ermöglicht es uns, europäischen Business-Kontext mit erstklassigem Engineering-Talent zu kombinieren. Unser verteiltes Setup gewährleistet Geschwindigkeit, Skalierbarkeit und Kosteneffizienz, während die Teams eng mit den Ventures der Kunden abgestimmt bleiben."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Wie viele Mitarbeiter und Fachkräfte arbeiten heute bei GoTeams?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Heute besteht GoTeams aus über 100 Produkt- und Technologiefachleuten, darunter Entwickler, Produktmanager, UX/UI-Designer, QA, DevOps und KI-Ingenieure. Die Teams sind nicht statisch, sondern skalieren dynamisch mit den Bedürfnissen jedes Ventures, von 3-Personen-Startup-Pods bis zu Scale-up-Teams mit über 50 Mitgliedern."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Wie unterscheidet sich GoTeams von einer Outsourcing-Agentur oder einem Freelance-Marktplatz?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoTeams ist kein Outsourcing-Shop oder eine Gig-Plattform. Stattdessen bieten wir langfristige, venture-bewusste Produktteams. Agenturen und Freelancer liefern möglicherweise Code für kurze Projekte, aber GoTeams baut dedizierte Teams auf, die sich tief in Ihr Unternehmen integrieren, ausgerichtet auf Ihre Ziele, Kultur und Skalierungsreise. Betrachten Sie uns als Erweiterung Ihres Gründungsteams und nicht nur als Anbieter."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Welche Arten von Unternehmen arbeiten typischerweise mit GoTeams?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Wir arbeiten mit Venture-Capital-finanzierten Startups, Scale-ups, Konzernen und Private-Equity-geführten Unternehmen zusammen. Der gemeinsame Nenner: Sie alle haben ernsthafte Ambitionen zu skalieren. GoTeams kommt normalerweise ins Spiel, wenn frühe Lösungen wie Freelancer, Agenturen oder No-Code-Tools nicht mehr ausreichen und das Unternehmen ein richtiges Setup benötigt, um Produkt und Technologie zu skalieren, ohne an Dynamik zu verlieren."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Wie gewährleistet GoTeams Qualität, Integration und langfristige Zusammenarbeit?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoTeams wendet kampferprobte Prozesse an, die über Dutzende von Ventures entwickelt wurden: von 3-Personen-Startups bis zu Unicorns mit über 150 Ingenieuren. Teams werden in die Workflows der Partnerunternehmen integriert und passen sich automatisch an, wenn Unternehmen skalieren, ähnlich wie AWS Server hoch- und runterfährt. Wir übertragen auch Erkenntnisse auf alle Teams, sodass jedes Venture von kontinuierlicher Verbesserung und gemeinsamer Erfahrung profitiert."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Welche Vorteile bietet GoTeams im Vergleich zu Agenturen, Freelancern oder internen Einstellungen?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "GoTeams bietet mehrere wichtige Vorteile: Geschwindigkeit - Plug-and-Play-Setup liefert Umsetzung ab Tag eins. Skalierbarkeit - Teams erweitern sich nahtlos mit dem Unternehmenswachstum. Venture-Bewusstsein - Von Unternehmern für Unternehmer gebaut, verstehen wir GTM, Vertrieb und Fundraising über Code hinaus. Zuverlässigkeit - Langfristige, dedizierte Zusammenarbeit statt transaktionaler Projekte. Effizienz - Globale Talent-Hubs bedeuten Top-Qualität zu wettbewerbsfähigen Kosten. Mit GoTeams erhalten Sie nicht nur Entwickler, sondern ein vollständiges Produktteam, das mit Ihrem Venture aufbaut, skaliert und sich anpasst."
+            }
+        }
+    ]
+}
