@@ -25,7 +25,6 @@ GoGroup was started in 2019 by Sascha Weiler, Nico Weiler and Shishir Goel, buil
 
 ### GoGroup Business Units
 - [GoTeams](http://goteams.de?lang=en): GoTeams helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution.
-- [GoFounder](https://gofounder.co/): GoFounder helps entrepreneurs transform ideas into successful startups with proven methodologies, resources, and hands-on expertise. It acts as a co-founder, guiding founders through idea selection, product development, and market validation to achieve product–market fit.
 
 ## German
 
