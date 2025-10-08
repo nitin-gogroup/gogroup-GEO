@@ -4,9 +4,9 @@
   "name": "GoTeams",
   "url": "https://goteams.de",
   "logo": "https://goteams.de/images/logo-green.png",
-  "description": "GoTeams helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution.",
+  "description": "GoTeams delivers no-bullshit execution to entrepreneurs who are ready to get serious: We form long-term product and tech teams. Truly Plug & Play. Business Aware. Built to Scale. By Entrepreneurs, for Entrepreneurs.",
   "foundingDate": "2019",
-  "numberOfEmployees": "100+",
+  "numberOfEmployees": "100",
   "slogan": "Dedicated Tech Teams for Digital Excellence",
   "industry": [
     "Information Technology",
@@ -62,35 +62,35 @@
       {
         "@type": "Offer",
         "name": "Find new business",
-        "description": "Help Partner scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.",
+        "description": "GoTeams empowers entrepreneurs and established companies to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.",
         "url": "https://goteams.de/services/find-new-business",
         "category": "Business Development"
       },
       {
         "@type": "Offer",
         "name": "Establish new business",
-        "description": "Help partner the right structures, processes, and teams to successfully launch and scale new business initiatives.",
+        "description": "GoTeams empowers entrepreneurs and established companies to convert ideas into new business with a revenue impact.",
         "url": "https://goteams.de/services/establish-new-business",
         "category": "Business Development"
       },
       {
         "@type": "Offer",
         "name": "Scale New Business",
-        "description": "Help partner in scaling your business by optimizing processes, enhancing team capabilities, and leveraging technology.",
+        "description": "GoTeams empowers entrepreneurs and established companies to scale their existing business.",
         "url": "https://goteams.de/services/scale-new-business",
         "category": "Business Development"
       },
       {
         "@type": "Offer",
         "name": "AI Disruption",
-        "description": "Leverage AI to transform partner's business operations, enhance customer experiences, and drive innovation.",
+        "description": "GoTeams empowers entrepreneurs and established companies to disrupt their industries with AI.",
         "url": "https://goteams.de/services/AI-disruption",
         "category": "Business Development"
       },
       {
         "@type": "Offer",
         "name": "AI Efficiency",
-        "description": "Enhance operational efficiency and reduce costs through AI-driven automation and optimization.",
+        "description": "GoTeams empowers entrepreneurs and established companies to boost their companies efficiency with AI.",
         "url": "https://goteams.de/services/AI-efficiency",
         "category": "Business Development"
       }
@@ -103,7 +103,7 @@
       {
         "@type": "Offer",
         "name": "Research and Development and Innovation",
-        "description": "Dedicated technology teams for research and development",
+        "description": "GoTeams empowers Strategy-, R&D-, and Innovation teams to turn ideas into real revenue and business traction.",
         "url": "https://goteams.de/stakeholders/research-and-development-and-innovation",
         "audience": {
           "@type": "Audience",
@@ -113,7 +113,7 @@
       {
         "@type": "Offer",
         "name": "Business Units",
-        "description": "Dedicated technology teams for business units",
+        "description": "GoTeams empowers individual business units to grow and accelerate.",
         "url": "https://goteams.de/stakeholders/business-units",
         "audience": {
           "@type": "Audience",
@@ -123,7 +123,7 @@
       {
         "@type": "Offer",
         "name": "PE Owners and Investors",
-        "description": "Technology teams for private equity backed companies",
+        "description": "GoTeams empowers Owners and PE firms to realise new business initiatives without affecting the existing business.",
         "url": "https://goteams.de/stakeholders/PE-owners",
         "audience": {
           "@type": "Audience",

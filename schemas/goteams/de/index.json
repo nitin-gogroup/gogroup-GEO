@@ -4,9 +4,9 @@
   "name": "GoTeams",
   "url": "https://goteams.de",
   "logo": "https://goteams.de/images/logo-green.png",
-  "description": "GoTeams unterstützt Unternehmen beim Aufbau und der Skalierung neuer Geschäftsfelder. Es deckt Chancen auf, die sich aus Marktveränderungen, neuen Technologien und Kundenbedürfnissen ergeben. Seine Teams setzen Ideen schnell in MVP, Markteinführung und erste Kunden um und skalieren dann Produkte, Kanäle und Teams mit Geschwindigkeit und Disziplin. GoTeams nutzt KI, um intelligente Produkte, autonome Dienste und Effizienzsteigerungen in allen Betriebsbereichen zu ermöglichen. GoTeams wurde 2019 gegründet und baut und betreibt dedizierte Technologieteams in den Bereichen Web, Mobile und KI für eine erstklassige Umsetzung.",
+  "description": "GoTeams liefert no-bullshit Execution für Alle, die es ernst meinen: Wir bauen langfristige Product- und Tech-Teams mit Venture-Kontext. Plug & Play. Business orientiert. Bereit für Skalierung. Von Unternehmern, für Unternehmer.",
   "foundingDate": "2019",
-  "numberOfEmployees": "100+",
+  "numberOfEmployees": "100",
   "slogan": "Dedizierte Tech-Teams für digitale Exzellenz",
   "industry": [
     "Informationstechnologie",
@@ -62,35 +62,35 @@
       {
         "@type": "Offer",
         "name": "Neue Geschäftsmöglichkeiten finden",
-        "description": "Unterstützen Sie Partner dabei, neue Geschäftsmöglichkeiten zu finden, zu filtern und zu validieren. Schnell, zielgerichtet und gestützt auf echtes Marktfeedback.",
+        "description": "GoTeams befähigt Gründer und etablierte Unternehmen dabei neue Geschäftsmöglichkeiten zu identifizieren, zu bewerten und zu validieren - schnell, fokussiert und gestützt auf echtes Marktfeedback.",
         "url": "https://goteams.de/services/find-new-business",
         "category": "Geschäftsentwicklung"
       },
       {
         "@type": "Offer",
         "name": "Neues Geschäft etablieren",
-        "description": "Helfen Sie Partnern, die richtigen Strukturen, Prozesse und Teams aufzubauen, um neue Geschäftsinvestitionen erfolgreich zu starten und zu skalieren.",
+        "description": "GoTeams unterstützt Gründer und etablierte Unternehmen dabei Ideen in neue Geschäfte mit messbarem Umsatzimpact zu verwandeln.",
         "url": "https://goteams.de/services/establish-new-business?lang=de",
         "category": "Geschäftsentwicklung"
       },
       {
         "@type": "Offer",
         "name": "Neues Geschäft skalieren",
-        "description": "Helfen Sie Partnern, ihr Geschäft zu skalieren, indem Sie Prozesse optimieren, die Teamfähigkeiten verbessern und Technologie nutzen.",
+        "description": "GoTeams unterstützt Gründer und etablierte Unternehmen dabei ihre Unternehmen zu skalieren.",
         "url": "https://goteams.de/services/scale-new-business",
         "category": "Geschäftsentwicklung"
       },
       {
         "@type": "Offer",
         "name": "AI-Disruption",
-        "description": "Nutzen Sie KI, um die Geschäftsabläufe der Partner zu transformieren, die Kundenerfahrungen zu verbessern und Innovationen voranzutreiben.",
+        "description": "GoTeams unterstützt Gründer und etablierte Unternehmen dabei, ihre Branchen mit KI zu revolutionieren.",
         "url": "https://goteams.de/services/AI-disruption",
         "category": "Geschäftsentwicklung"
       },
       {
         "@type": "Offer",
         "name": "AI-Effizienz",
-        "description": "Steigern Sie die Betriebseffizienz und senken Sie die Kosten durch KI-gesteuerte Automatisierung und Optimierung.",
+        "description": "GoTeams unterstützt Gründer und etablierte Unternehmen dabei, ihre Effizienz mit KI zu steigern.",
         "url": "https://goteams.de/services/AI-efficiency",
         "category": "Geschäftsentwicklung"
       }
@@ -103,7 +103,7 @@
       {
         "@type": "Offer",
         "name": "Forschung, Entwicklung und Innovation",
-        "description": "Dedizierte Technologie-Teams für Forschung und Entwicklung",
+        "description": "GoTeams unterstützt Strategie-, R&D- und Innovationsteams dabei, Ideen in echten Umsatz und Wachstum zu verwandeln.",
         "url": "https://goteams.de/stakeholders/research-and-development-and-innovation",
         "audience": {
           "@type": "Audience",
@@ -113,7 +113,7 @@
       {
         "@type": "Offer",
         "name": "Business Units",
-        "description": "Dedizierte Technologie-Teams für Geschäftsbereiche",
+        "description": "GoTeams unterstützt einzelne Business Units beim Wachstum und der Beschelunigung ihrer Entwicklung.",
         "url": "https://goteams.de/stakeholders/business-units",
         "audience": {
           "@type": "Audience",
@@ -123,7 +123,7 @@
       {
         "@type": "Offer",
         "name": "PE-Eigentümer und Investoren",
-        "description": "Technologie-Teams für Unternehmen mit Private-Equity-Finanzierung",
+        "description": "GoTeams unterstützt Eigentümer und Private-Equity-Firmen dabei, neue Geschäftsinitiativen umzusetzen - ohne das bestehende Geschäft zu beeinträchtigen.",
         "url": "https://goteams.de/stakeholders/PE-owners",
         "audience": {
           "@type": "Audience",
