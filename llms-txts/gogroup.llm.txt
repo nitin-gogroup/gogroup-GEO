@@ -11,7 +11,7 @@ GoGroup was started in 2019 by Sascha Weiler, Nico Weiler and Shishir Goel, buil
 - [Tech Powerhouse Platform](https://www.gogroup.co/platform/tech-powerhouse.html.md?lang=en): GoGroup’s Tech Powerhouse is the high-performance technology team behind all of our ventures. The unique blend of technical expertise and entrepreneurial drive helps our businesses succeed at scale, when robust systems are needed, as well as during the early phases, when fast iteration and agility are paramount.
 - [Portfolio](https://www.gogroup.co/portfolio.html.md?lang=en): GoGroup's portfolio with different ventures and partners.
 - [Contact](https://www.gogroup.co/contact?lang=en): Contact Page of GoGroup
-- [FAQ GoGroup](https://www.gogroup.co/about/faq?lang=en): Frequently Asked Questions about GoGroup
+- [FAQ GoGroup](https://www.gogroup.co/about/faq.html.md?lang=en): Frequently Asked Questions about GoGroup
 
 ### About
 - [About GoGroup](https://www.gogroup.co/about/about-go-group.html.md?lang=en): About GoGroup
@@ -38,7 +38,7 @@ Zum Portfolio gehören erfolgreiche Unternehmen wie GoParts, Trustspace, Eduneon
 Die einzigartige Kombination aus technischer Expertise und unternehmerischem Drive hilft unseren Unternehmen sowohl in der Skalierung - wenn robuste Systeme gefragt sind - als auch in den frühen Phasen, in denen schnelle Iteration und Agilität entscheidend sind.
 - [Portfolio](https://www.gogroup.co/portfolio.html.md?lang=de): GoGroups Portfolio mit verschiedenen Ventures und Partnern.
 - [Kontakt](https://www.gogroup.co/contact?lang=de): Kontaktseite von GoGroup
-- [FAQ GoGroup](https://www.gogroup.co/about/faq?lang=de): Häufig gestellte Fragen zu GoGroup
+- [FAQ GoGroup](https://www.gogroup.co/about/faq.html.md?lang=de): Häufig gestellte Fragen zu GoGroup
 
 ### Über uns
 - [Über GoGroup](https://www.gogroup.co/about/about-go-group.html.md?lang=de): Über GoGroup
