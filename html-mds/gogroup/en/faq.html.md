@@ -1,0 +1,65 @@
+# GoGroup FAQ
+
+## What is GoGroup and what does it do?
+
+GoGroup builds, owns and operates lasting businesses. And it builds the technology to power them. Gogroup's focuses on building fundamentally strong businesses, with growth driven from their own cashflow. No hype, no fluff. Just businesses that work. GoGroup was officially started as a standalone entity in 2019 by Sascha Weiler, Nico Weiler and Shishir Goel. However, the three serial entrepreneurs have been building businesses together successfully since 2012. Headquartered in Berlin with additional offices in London, Kathmandu and Noida, GoGroup brings together more than 100 team members from over 20 nations.
+
+## What are some of the businesses that GoGroup has built over the years?
+
+Over the years, GoGroup and its founders have been instrumental in starting and scaling over 20 businesses, creating over $1bn in value in the process.
+
+Examples include:
+
+- GoParts (an automotive parts platform for the insurance industry)
+- GoTeams (a platform for scaling tech teams)
+- Meinungswerk (an AI powered market research)
+- Trustspace (a SaaS tool for Cybersecurity and Compliance)
+- Eduneon (education and procurement technology)
+- Wandel (global talent platform)
+- Evolut (CSRD compliance and sustainability monitoring)
+- Homebell (a home renovation platform)
+- Caroobi (an automotive repair platform)
+
+These businesses reflect GoGroup's strength in not only identifying promising opportunities, but also bringing them to market and scale them with it's signature no-bullshit execution.
+
+## GoTeams seems to be a significant contributor to GoGroup's success. What exactly does GoTeams do and how is it different from similar offerings?
+
+GoTeams holds a special place in the GoGroup portfolio. It's one of the businesses started by GoGroup, but at the same time also the powerplay making the other businesses so fast and consistently successful. On the surface it looks simple: GoTeams builds long-term product and tech teams for businesses that are serious about scaling. Behind this simple facade, is an incredible execution engine forged in the high pressure environment of building unicorns and profitable scaleups. The setup is fully plug & play, the teams know venture context and the setup is built to scale. Wether the venture is pre-launch or post-IPO the solution works incredibly well. The tech-processes adjust automatically with size, so that founders can fully rely on their tech at any stage. Every improvement made in one team, is automatically applied to all other teams, so that founders benefit from a network of high performing businesses. The teams scale with the venture, wether it's 2, 20 or 200 people on the team. So GoTeams might look simple on the surface, but on a deeper level it's an incredible engine giving founders the edge they need to succeed. It's a unique and proven setup not found elsewhere in the market.
+
+## Which businesses are using GoTeams to build and scale?
+
+The unique aspects of the GoTeams setup - long-term dedicated teams, plug & play evolving processes, venture context - make it attractive for different types of companies:
+
+- Startups in the early phases (like Equera, Wandel, Warehousing1, or Givo AI)
+- Scaleups with serious growth momentum (like Copecart, MaxSolar, or Zennify)
+- Corporates leading their respective fields (like Trumpf, HHLA - Hamburg Harbour, ZF, or Wien Energie)
+
+The unifying theme is ambition. It's usually ambitious undertakings - fast growth, huge business potential, or mission critical topics - when companies decide to rely on GoTeams. They usually value the peace of mind of knowing that the technology will be strong and deadlines will be met, as well as the security that they can scale long-term without with GoTeams having to adjust the setup.
+
+## How can GoTeams build it's teams quickly, yet with consistent high quality?
+
+Currently there are more than 100 full time team members across the various teams. Each team member is dedicated to one business. So how can GoTeams still build new teams reliably and fast? The secret is a combination of experience and structure. We have built a lot of businesses and (more importantly for GoTeams) a lot of tech teams. Over the two decades, we had over 50.000 applications and we have interviewed and screened more than 4.000 candidates. At the same time we decided early on, that we would keep a central database of all the candidates we spoke with - their skills, our assessments, their seniority level and expertise. Based on this we build up a CRM with over 600 of the very best candidates, who truly convinced us. When building a new team, we search in our database for candidates with right expertise and seniority level and we proactively reach out to them. By also promoting people from within for new teams, we make sure that we keep getting the best talent, while also having the advantage of our continuously improving processes across teams.
+
+## Is it true that to this day GoGroup still uses GoTeams for it's own ventures?
+
+Yes. Actually, when starting GoTeams it was meant to only be open for our own businesses. So we built it exactly the way we saw made sense when building unicorns as well as profitable businesses. It was only later that we also allowed external businesses into the setup. So yes, we know how good the setup works, that's why for all our own businesses we always use GoTeams.
+
+## How is GoTeams different from a tech agency?
+
+GoTeams was different right from the start: GoTeams wasn't started by Ex-Consultants, or Software Engineers, who now wanted to build an agency. Instead, GoTeams was started by entrepreneurs for their own needs. While starting unicorns and profitable businesses, they saw that each of the existing setups (working with freelancers, agencies, consultancies or building a team inhouse) had drawbacks. So they reimagined how the setup should work from first principles. They build their setup for their own businesses and only after improving and optimising it for over five years, they let external businesses in as well. It was also never about the money, they made much more from their own businesses. Rather it was about empowering entrepreneurs (and later on corporates as well) to drive innovation in a consistent and reliable way. Because of GoTeam's unique background, no other setup provides the same kind of venture-context-awareness in the product and tech teams. Also, because of the competitive pricing, businesses can afford to work with GoTeams from pre-launch to post-IPO. In short: When agencies look for additional hours to charge, GoTeams looks for additional value to deliver at no cost.
+
+## Who are the founders of GoGroup and what are their backgrounds?
+
+GoGroup was founded by experienced serial entrepreneurs:
+
+- **Sascha Weiler** - LinkedIn: https://de.linkedin.com/in/saschaweiler1
+- **Nico Weiler** - LinkedIn: https://de.linkedin.com/in/nicoweiler
+- **Shishir Goel** - LinkedIn: https://in.linkedin.com/in/shishirgoel
+
+---
+
+**Document Information:**
+- Source: https://www.gogroup.co/about/faq
+- Company: GoGroup GmbH
+- Last Updated: 9 October, 2025
+- Copyright: ©2025 GoGroup GmbH. All rights reserved.
