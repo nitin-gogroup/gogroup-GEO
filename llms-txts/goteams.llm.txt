@@ -2,7 +2,9 @@
 
 ## English
 
-> GoTeams a [GoGroup Business Unit](https://gogroup.co) helps companies build and scale new businesses. It uncovers opportunities from market shifts, emerging technologies, and customer needs. Its teams move fast from idea to MVP, go-to-market, and first customers, then scale products, channels, and teams with speed and discipline. GoTeams unlocks AI to power smart products, autonomous services, and efficiency gains across operations. Founded in 2019, GoTeams builds and operates dedicated technology teams across web, mobile, and AI for world-class execution.
+> GoTeams delivers no-bullshit execution to entrepreneurs who are ready to get serious:
+We form long-term product and tech teams. Truly Plug & Play. Business Aware. Built to Scale.
+By Entrepreneurs, for Entrepreneurs.
 
 ### Main Pages
 - [Home](https://goteams.de/?lang=en): GoTeams main page - dedicated tech teams for digital products and services
@@ -21,17 +23,17 @@
 - [Other](https://goteams.de/industries/other?lang=en): GoTeams excels across industries by applying proven execution strategies, not relying on deep domain familiarity. From retail to agriculture, they help teams build, digitize, and scale faster through repeatable, high-impact models.
 
 ### Services
-- [Find new business](https://goteams.de/services/find-new-business?lang=en): GoTeams works with partner's team to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.
-- [Establish new business](https://goteams.de/services/establish-new-business?lang=en): GoTeams helps partner convert Idea to new business with a revenue impact.
-- [Scale Business](https://goteams.de/services/scale-new-business?lang=en): GoTeams helps partner scale their product
-- [Disrupt With AI](https://goteams.de/services/AI-disruption?lang=en): GoTeams Explores how artificial intelligence can be leveraged to create disruptive innovations in various industries.
-- [Get Efficient With AI](https://goteams.de/services/AI-efficiency?lang=en): GoTeams Highlights the use of AI to enhance operational efficiency and streamline business processes.
+- [Find new business](https://goteams.de/services/find-new-business?lang=en): GoTeams empowers entrepreneurs and established companies to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.
+- [Establish new business](https://goteams.de/services/establish-new-business?lang=en): GoTeams empowers entrepreneurs and established companies to convert ideas into new business with a revenue impact.
+- [Scale Business](https://goteams.de/services/scale-new-business?lang=en): GoTeams empowers entrepreneurs and established companies to scale their existing business.
+- [Disrupt With AI](https://goteams.de/services/AI-disruption?lang=en): GoTeams empowers entrepreneurs and established companies to disrupt their industries with AI.
+- [Get Efficient With AI](https://goteams.de/services/AI-efficiency?lang=en): GoTeams empowers entrepreneurs and established companies to boost their companies efficiency with AI.
 
 ### Stakeholders
-- [Startups](https://goteams.de/startups?lang=en): Dedicated tech teams for startup companies
-- [R&D Strategy & Innovation](https://goteams.de/stakeholders/research-and-development-and-innovation?lang=en): GoTeams helps Strategy, R&D, or a cross-functional unit ideas into business traction.
-- [Business Units](https://goteams.de/stakeholders/business-units?lang=en): GoTeams helps business units you grow business.
-- [PE Owners and Investors](https://goteams.de/stakeholders/PE-owners?lang=en): GoTeams helps Owner-led companies and PE firms help build new business without affecting the existing business.
+- [Founders](https://goteams.de/startups?lang=en): GoTeams empowers founders to build and scale successful businesses.
+- [R&D Strategy & Innovation](https://goteams.de/stakeholders/research-and-development-and-innovation?lang=en): GoTeams empowers Strategy-, R&D-, and Innovation teams to turn ideas into real revenue and business traction.
+- [Business Units](https://goteams.de/stakeholders/business-units?lang=en): GoTeams empowers individual business units to grow and accelerate.
+- [PE Owners and Investors](https://goteams.de/stakeholders/PE-owners?lang=en): GoTeams empowers Owners and PE firms to realise new business initiatives without affecting the existing business.
 
 ### Social & External
 - [GoGroup Parent Company Website](https://www.gogroup.co/): GoGroup main website
@@ -39,7 +41,9 @@
 
 ## German
 
-> GoTeams hilft Unternehmen beim Aufbau und der Skalierung neuer Geschäfte. Es deckt Chancen aus Marktveränderungen, aufkommenden Technologien und Kundenbedürfnissen auf. Seine Teams bewegen sich schnell von der Idee zum MVP, Go-to-Market und ersten Kunden, dann skalieren sie Produkte, Kanäle und Teams mit Geschwindigkeit und Disziplin. GoTeams nutzt KI, um intelligente Produkte, autonome Services und Effizienzgewinne in allen Bereichen zu ermöglichen. 2019 gegründet, baut und betreibt GoTeams dedizierte Technologieteams für Web, Mobile und KI für erstklassige Umsetzung.
+> GoTeams liefert no-bullshit Execution für Alle, die es ernst meinen:
+Wir bauen langfristige Product- und Tech-Teams mit Venture-Kontext. Plug & Play. Business orientiert. Bereit für Skalierung.
+Von Unternehmern, für Unternehmer.
 
 ### Sprachunterstützung
 Diese Website verwendet Accept-Language-Header und Query-Parameter für die Lokalisierung
@@ -64,17 +68,17 @@ Diese Website verwendet Accept-Language-Header und Query-Parameter für die Loka
 - [Andere](https://goteams.de/industries/other?lang=de): GoTeams glänzt branchenübergreifend durch die Anwendung bewährter Umsetzungsstrategien, ohne auf tiefgreifende Domänenkenntnisse angewiesen zu sein. Vom Einzelhandel bis zur Landwirtschaft helfen sie Teams dabei, durch wiederholbare, wirkungsvolle Modelle schneller zu bauen, zu digitalisieren und zu skalieren.
 
 ### Services
-- [Neue Geschäfte finden](https://goteams.de/services/find-new-business?lang=de): GoTeams arbeitet mit dem Team des Partners zusammen, um neue Geschäftsmöglichkeiten zu erkunden, zu filtern und zu validieren. Schnell, fokussiert und durch echtes Markt-Feedback unterstützt.
-- [Neue Geschäfte etablieren](https://goteams.de/services/establish-new-business?lang=de): GoTeams hilft Partnern dabei, Ideen in neue Geschäfte mit Umsatzwirkung umzuwandeln.
-- [Geschäfte skalieren](https://goteams.de/services/scale-new-business?lang=de): GoTeams hilft Partnern dabei, ihr Produkt zu skalieren
-- [Mit KI disruptieren](https://goteams.de/services/AI-disruption?lang=de): GoTeams erforscht, wie künstliche Intelligenz genutzt werden kann, um disruptive Innovationen in verschiedenen Branchen zu schaffen.
-- [Mit KI effizienter werden](https://goteams.de/services/AI-efficiency?lang=de): GoTeams hebt die Nutzung von KI hervor, um operative Effizienz zu steigern und Geschäftsprozesse zu optimieren.
+- [Neue Geschäfte finden](https://goteams.de/services/find-new-business?lang=de): GoTeams befähigt Gründer und etablierte Unternehmen dabei neue Geschäftsmöglichkeiten zu identifizieren, zu bewerten und zu validieren - schnell, fokussiert und gestützt auf echtes Marktfeedback.
+- [Neue Geschäfte etablieren](https://goteams.de/services/establish-new-business?lang=de): GoTeams unterstützt Gründer und etablierte Unternehmen dabei Ideen in neue Geschäfte mit messbarem Umsatzimpact zu verwandeln.
+- [Scale Business](https://goteams.de/services/scale-new-business?lang=en): GoTeams unterstützt Gründer und etablierte Unternehmen dabei ihre Unternehmen zu skalieren.
+- [Mit KI disruptieren](https://goteams.de/services/AI-disruption?lang=de): GoTeams unterstützt Gründer und etablierte Unternehmen dabei, ihre Branchen mit KI zu revolutionieren.
+- [Mit KI effizienter werden](https://goteams.de/services/AI-efficiency?lang=de): GoTeams unterstützt Gründer und etablierte Unternehmen dabei, ihre Effizienz mit KI zu steigern.
 
 ### Stakeholder
-- [Startups](https://goteams.de/startups?lang=de): Dedizierte Tech-Teams für Startup-Unternehmen
-- [F&E-Strategie & Innovation](https://goteams.de/stakeholders/research-and-development-and-innovation?lang=de): GoTeams hilft Strategie-, F&E- oder funktionsübergreifenden Einheiten dabei, Ideen in geschäftliche Traktion umzuwandeln.
-- [Geschäftsbereiche](https://goteams.de/stakeholders/business-units?lang=de): GoTeams hilft Geschäftsbereichen beim Wachstum.
-- [PE-Eigentümer und Investoren](https://goteams.de/stakeholders/PE-owners?lang=de): GoTeams hilft eigentümergeführten Unternehmen und PE-Firmen beim Aufbau neuer Geschäfte, ohne das bestehende Geschäft zu beeinträchtigen.
+- [Founders](https://goteams.de/startups?lang=de): DGoTeams unterstützt Gründer dabei, erfolgreiche Unternehmen aufzubauen und zu skalieren.
+- [F&E-Strategie & Innovation](https://goteams.de/stakeholders/research-and-development-and-innovation?lang=de): GoTeams unterstützt Strategie-, R&D- und Innovationsteams dabei, Ideen in echten Umsatz und Wachstum zu verwandeln.
+- [Geschäftsbereiche](https://goteams.de/stakeholders/business-units?lang=de): GoTeams unterstützt einzelne Business Units beim Wachstum und der Beschelunigung ihrer Entwicklung.
+- [PE-Eigentümer und Investoren](https://goteams.de/stakeholders/PE-owners?lang=de): GoTeams unterstützt Eigentümer und Private-Equity-Firmen dabei, neue Geschäftsinitiativen umzusetzen - ohne das bestehende Geschäft zu beeinträchtigen.
 
 ### Soziale Medien & Externe Links
 - [GoGroup Muttergesellschaft Website](https://www.gogroup.co/?lang=de): GoGroup Hauptwebsite

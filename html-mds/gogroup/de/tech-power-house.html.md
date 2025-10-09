@@ -2,13 +2,14 @@
 # GoGroup Tech Powerhouse
 
 ## Überblick
-Das Tech Powerhouse von GoGroup ist die zentrale Technologieabteilung des Unternehmens und sorgt für reibungslose Tech-Umsetzung vom Start bis zum Scale-up. Dieses leistungsstarke Technologie-Team ist darauf ausgelegt, den intensiven Anforderungen schnell wachsender Unternehmen gerecht zu werden und bildet das Fundament aller GoGroup-Aktivitäten.
+GoGroups Tech Powerhouse ist das High-Performance-Tech-Team hinter all unseren Ventures.
+Die einzigartige Kombination aus technischer Expertise und unternehmerischem Drive hilft unseren Unternehmen sowohl in der Skalierung - wenn robuste Systeme gefragt sind - als auch in den frühen Phasen, in denen schnelle Iteration und Agilität entscheidend sind.
 
 ## Hauptmerkmale
 
 ### Festanstellungsmodell
 - Alle Teammitglieder sind fest bei GoGroup-Gesellschaften angestellt
-- Bietet Jobsicherheit unabhängig vom Ausgang einzelner Projekte  
+- Bietet Jobsicherheit unabhängig vom Ausgang einzelner Projekte
 - Zieht Top-Talente durch Stabilität und langfristige Bindung an
 - Beseitigt Zuverlässigkeitsprobleme, die bei Freelancern oder klassischen Agenturen häufig auftreten
 

@@ -3,7 +3,7 @@
   "@type": "AboutPage",
   "name": "About GoGroup",
   "url": "https://www.gogroup.co/about/about-go-group",
-  "description": "GoGroup is an operational holding company focused on building its own businesses and partnering with others to create outstanding digital products. Founded in 2019 by serial entrepreneurs from Fab.com.",
+  "description": "GoGroup builds, owns and operates lasting businesses. And it builds the technology to power them. GoGroup was started in 2019 by Sascha Weiler, Nico Weiler and Shishir Goel, building on many years of experience as serial entrepreneurs.",
   "mainEntity": {
     "@type": "Organization",
     "name": "GoGroup GmbH",
@@ -17,7 +17,7 @@
     "legalName": "GoGroup GmbH",
     "numberOfEmployees": {
       "@type": "QuantitativeValue",
-      "value": "100+",
+      "value": "100",
       "description": "Over 100 professionals from 5 nations"
     },
     "areaServed": "Global",
@@ -53,7 +53,7 @@
     "owns": {
       "@type": "Service",
       "name": "Tech Powerhouse",
-      "description": "A tech powerhouse that grew a global unicorn and built for scale It supports rapid growth through long-term team ownership, deep business alignment, and stability across project lifecycles. Designed to go beyond conventional agency models, it integrates tech teams into partner organizations to ensure fluent, scalable delivery from idea through maturity"
+      "description": "GoGroup’s Tech Powerhouse is the high-performance technology team behind all of our ventures. The unique blend of technical expertise and entrepreneurial drive helps our businesses succeed at scale, when robust systems are needed, as well as during the early phases, when fast iteration and agility are paramount."
     },
     "slogan": "Building outstanding digital products",
     "additionalProperty": [

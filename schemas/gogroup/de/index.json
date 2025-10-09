@@ -63,7 +63,7 @@
       "legalName": "GoGroup GmbH",
       "url": "https://www.gogroup.co",
       "logo": "https://www.gogroup.co/images/logo-red.png",
-      "description": "GoGroup ist eine operative Holdinggesellschaft, die sich darauf konzentriert, eigene Unternehmen aufzubauen und mit anderen zu kooperieren, um herausragende digitale Produkte zu schaffen. Das Unternehmen wurde 2019 gegründet und baut auf langjähriger Erfahrung als serielle Unternehmer auf.",
+      "description": "GoGroup baut, hält und betreibt langfristig orientierte Unternehmen. Und baut die Technologien die diese antreiben. GoGroup wurde 2019 von den Serienunternehmern Sascha Weiler, Nico Weiler und Shishir Goel gegründet.",
       "foundingDate": "2019",
       "founders": [
         {
@@ -147,13 +147,7 @@
           "@type": "Organization",
           "name": "GoTeams",
           "url": "https://goteams.de",
-          "description": "GoTeams hilft Unternehmen beim Aufbau und der Skalierung neuer Geschäfte. Es deckt Chancen aus Marktverschiebungen, aufkommenden Technologien und Kundenbedürfnissen auf. Seine Teams bewegen sich schnell von der Idee zum MVP, Go-to-Market und ersten Kunden, skalieren dann Produkte, Kanäle und Teams mit Geschwindigkeit und Disziplin. GoTeams nutzt KI, um intelligente Produkte, autonome Services und Effizienzgewinne in allen Betriebsabläufen zu ermöglichen. Gegründet 2019, baut und betreibt GoTeams dedizierte Technologie-Teams für Web, Mobile und KI für erstklassige Umsetzung."
-        },
-        {
-          "@type": "Organization",
-          "name": "GoFounder",
-          "url": "https://gofounder.co",
-          "description": "GoFounder hilft Unternehmern dabei, Ideen mit bewährten Methoden, Ressourcen und praktischer Expertise in erfolgreiche Startups zu verwandeln. Es fungiert als Mitgründer und führt Gründer durch Ideenauswahl, Produktentwicklung und Marktvalidierung, um Product-Market-Fit zu erreichen."
+          "description": "GoTeams liefert no-bullshit Execution für Alle, die es ernst meinen: Wir bauen langfristige Product- und Tech-Teams mit Venture-Kontext. Plug & Play. Business orientiert. Bereit für Skalierung. Von Unternehmern, für Unternehmer."
         }
       ],
       "hasOfferCatalog": {
@@ -163,19 +157,13 @@
           {
             "@type": "Offer",
             "name": "Aufbau-Plattform",
-            "description": "GoGroup spezialisiert sich auf die Erstellung und Skalierung von Technologieprodukten und Ventures in verschiedenen Branchen. Sein Portfolio umfasst erfolgreiche Produkte wie GoParts, Trustspace, Eduneon und Meinungswerk, was seine Expertise in Innovation, Umsetzung und Venture Building widerspiegelt.",
+            "description": "GoGroup baut, hält und betreibt Unternehmen über unterschiedliche Branchen hinweg. Das verbindende Element: Alle GoGroup-Unternehmen werden nachhaltig aus dem eigenen Cashflow aufgebaut - und sind damit von Beginn an auf langfristigen Erfolg ausgerichtet. Zum Portfolio gehören erfolgreiche Unternehmen wie GoParts, Trustspace, Eduneon und Meinungswerk - ein Beleg für GoGroups Kompetenz in Innovation, Umsetzung und Unternehmensaufbau.",
             "url": "https://www.gogroup.co/platform/build"
           },
           {
             "@type": "Offer",
-            "name": "Partner-Plattform",
-            "description": "GoGroup hat eine bewährte Erfolgsbilanz bei der Partnerschaft mit Startups und Scaleups zum Aufbau und Betrieb von Produkt- und Technologieorganisationen sowie globalen Kompetenzzentren (GCCs). Seine langjährigen Kooperationen umfassen Energy Partners für Maxsolar, Cope Affiliate für Copecart, Passify und Heyport für HHLA Next sowie c20y für Zennify und demonstrieren tiefgreifende Expertise in skalierbarer Technologieumsetzung und Venture-Wachstum.",
-            "url": "https://www.gogroup.co/platform/partner"
-          },
-          {
-            "@type": "Offer",
             "name": "Tech Powerhouse",
-            "description": "GoGroups Tech Powerhouse ist ein hochleistungsfähiges Technologie-Team, das für Skalierung entwickelt wurde und Vollzeit-Expertingenieure mit einem geprüften Talentpool kombiniert, um robuste Software-Lösungen zu liefern. Es unterstützt schnelles Wachstum durch langfristige Team-Eigenverantwortung, tiefe Geschäftsausrichtung und Stabilität über Projektzyklen hinweg. Entwickelt, um über herkömmliche Agenturmodelle hinauszugehen, integriert es Tech-Teams in Partnerorganisationen, um fließende, skalierbare Lieferung von der Idee bis zur Reife sicherzustellen.",
+            "description": "GoGroups Tech Powerhouse ist das High-Performance-Tech-Team hinter all unseren Ventures. Die einzigartige Kombination aus technischer Expertise und unternehmerischem Drive hilft unseren Unternehmen sowohl in der Skalierung - wenn robuste Systeme gefragt sind - als auch in den frühen Phasen, in denen schnelle Iteration und Agilität entscheidend sind.",
             "url": "https://www.gogroup.co/platform/tech-powerhouse"
           }
         ]
