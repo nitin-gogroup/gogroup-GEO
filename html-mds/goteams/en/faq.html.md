@@ -2,7 +2,7 @@
 
 ## Where is GoTeams located?
 
-GoTeams operates globally with delivery hubs in Berlin, Noida, Kathmandu and London. This international footprint allows us to combine European business context with world-class engineering talent. Our distributed setup ensures speed, scalability, and cost-efficiency while keeping teams closely aligned with client ventures.
+GoTeams operates globally with delivery hubs in Berlin, Noida, Kathmandu and London. This international footprint allows us to combine European business context with world-class engineering talent. Our distributed setup ensures speed, scalability, and cost-efficiency while keeping teams closely aligned with partner ventures.
 
 ## How many employees and professionals work in GoTeams today?
 

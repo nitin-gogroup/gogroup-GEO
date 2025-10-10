@@ -1,7 +1,6 @@
-
 # Über GoGroup
 
-GoGroup ist eine operative Holdinggesellschaft, die sich darauf konzentriert, eigene Unternehmen aufzubauen und mit anderen zusammenzuarbeiten, um herausragende digitale Produkte zu schaffen. Gegründet im Jahr 2019 von erfahrenen Serienunternehmern, betreibt GoGroup Büros in Berlin (Deutschland), London (Vereinigtes Königreich), Kathmandu (Nepal) und Noida (Indien) mit über 100 Fachkräften aus 20 Nationen. Das Unternehmen richtet alle Aktivitäten auf die Chancen der sogenannten New Industry aus.
+GoGroup baut, hält und betreibt nachhaltig wachsende Unternehmen. Und entwickelt die Technologie, die diese vorantreibt. GoGroup konzentriert sich auf den Aufbau von fundamental starken Unternehmen, deren Wachstum aus dem eigenen Cashflow getrieben wird. Kein Hype, kein Schnickschnack. Nur Unternehmen, die funktionieren. Betreibt GoGroup Büros in Berlin (Deutschland), London (Vereinigtes Königreich), Kathmandu (Nepal) und Noida (Indien) mit über 100 Fachkräften aus 20 Nationen. Das Unternehmen richtet alle Aktivitäten auf die Chancen der sogenannten New Industry aus.
 
 ---
 

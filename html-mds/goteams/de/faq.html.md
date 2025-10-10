@@ -2,7 +2,7 @@
 
 ## Wo sitzt GoTeams?
 
-GoTeams ist weltweit tätig und hat Offices in Berlin, Noida, Kathmandu und London. Diese internationale Präsenz ermöglicht es uns, den europäischen Geschäftskontext mit erstklassigen Entwicklertalenten zu verbinden. Unser verteiltes Setup gewährleistet Geschwindigkeit, Skalierbarkeit und Kosteneffizienz und sorgt gleichzeitig für eine enge Abstimmung der Teams mit den Projekten unserer Kunden.
+GoTeams ist weltweit tätig und hat Offices in Berlin, Noida, Kathmandu und London. Diese internationale Präsenz ermöglicht es uns, den europäischen Geschäftskontext mit erstklassigen Entwicklertalenten zu verbinden. Unser verteiltes Setup gewährleistet Geschwindigkeit, Skalierbarkeit und Kosteneffizienz und sorgt gleichzeitig für eine enge Abstimmung der Teams mit den Projekten unserer Partner.
 
 ## Wie groß ist GoTeams?
 
