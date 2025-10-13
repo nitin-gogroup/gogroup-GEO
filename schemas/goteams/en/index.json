@@ -1,179 +1,210 @@
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "GoTeams",
-  "url": "https://goteams.de",
-  "logo": "https://goteams.de/images/logo-green.png",
-  "description": "GoTeams delivers no-bullshit execution to entrepreneurs who are ready to get serious: We form long-term product and tech teams. Truly Plug & Play. Business Aware. Built to Scale. By Entrepreneurs, for Entrepreneurs.",
-  "foundingDate": "2019",
-  "numberOfEmployees": "100",
-  "slogan": "Dedicated Tech Teams for Digital Excellence",
-  "industry": [
-    "Information Technology",
-    "Software Development",
-    "Technology Services",
-    "Digital Products",
-    "Product Management"
-  ],
-  "keywords": "dedicated tech teams, software development, web development, mobile development, backend development, devops, quality assurance, full-stack development, technology consulting, disrupt with AI, product management, project management, startup tech teams, corporate technology solutions",
-  "parentOrganization": {
-    "@type": "Organization",
-    "name": "GoGroup GmbH",
-    "url": "https://www.gogroup.co"
-  },
-  "address": [
+  "@graph": [
     {
-      "@type": "PostalAddress",
-      "addressLocality": "Berlin",
-      "addressCountry": "Germany",
-      "name": "Berlin Office"
-    },
-    {
-      "@type": "PostalAddress",
-      "addressLocality": "Noida",
-      "addressRegion": "Delhi/NCR",
-      "addressCountry": "India",
-      "name": "Noida Office"
-    },
-    {
-      "@type": "PostalAddress",
-      "addressLocality": "London",
-      "addressCountry": "United Kingdom",
-      "name": "London Office"
-    },
-    {
-      "@type": "PostalAddress",
-      "addressLocality": "Kathmandu",
-      "addressCountry": "Nepal",
-      "name": "Kathmandu Office"
-    }
-  ],
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "url": "https://goteams.de/contact",
-    "email": "mailto:hello@gogroup.co",
-    "contactType": "Customer Service",
-    "availableLanguage": ["German", "English"]
-  },
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "GoTeams Services",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "name": "Find new business",
-        "description": "GoTeams empowers entrepreneurs and established companies to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.",
-        "url": "https://goteams.de/services/find-new-business",
-        "category": "Business Development"
+      "@type": "Organization",
+      "name": "GoTeams",
+      "url": "https://goteams.de",
+      "logo": "https://www.gogroup.co/api/media/file/GoTeamsLogo.png",
+      "description": "GoTeams delivers no-bullshit execution to entrepreneurs who are ready to get serious: We form long-term product and tech teams. Truly Plug & Play. Business Aware. Built to Scale. By Entrepreneurs, for Entrepreneurs.",
+      "foundingDate": "2019",
+      "numberOfEmployees": "100",
+      "slogan": "Dedicated Tech Teams for Digital Excellence",
+      "industry": [
+        "Information Technology",
+        "Software Development",
+        "Technology Services",
+        "Digital Products",
+        "Product Management"
+      ],
+      "keywords": "dedicated tech teams, software development, web development, mobile development, backend development, devops, quality assurance, full-stack development, technology consulting, disrupt with AI, product management, project management, startup tech teams, corporate technology solutions",
+      "sameAs": [
+        "https://www.crunchbase.com/organization/goteams",
+        "https://www.linkedin.com/showcase/go-teams/"
+      ],
+      "parentOrganization": {
+        "@type": "Organization",
+        "name": "GoGroup GmbH",
+        "url": "https://www.gogroup.co"
       },
-      {
-        "@type": "Offer",
-        "name": "Establish new business",
-        "description": "GoTeams empowers entrepreneurs and established companies to convert ideas into new business with a revenue impact.",
-        "url": "https://goteams.de/services/establish-new-business",
-        "category": "Business Development"
-      },
-      {
-        "@type": "Offer",
-        "name": "Scale New Business",
-        "description": "GoTeams empowers entrepreneurs and established companies to scale their existing business.",
-        "url": "https://goteams.de/services/scale-new-business",
-        "category": "Business Development"
-      },
-      {
-        "@type": "Offer",
-        "name": "AI Disruption",
-        "description": "GoTeams empowers entrepreneurs and established companies to disrupt their industries with AI.",
-        "url": "https://goteams.de/services/AI-disruption",
-        "category": "Business Development"
-      },
-      {
-        "@type": "Offer",
-        "name": "AI Efficiency",
-        "description": "GoTeams empowers entrepreneurs and established companies to boost their companies efficiency with AI.",
-        "url": "https://goteams.de/services/AI-efficiency",
-        "category": "Business Development"
-      }
-    ]
-  },
-  "serviceArea": {
-    "@type": "ItemList",
-    "name": "Target Markets",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "name": "Research and Development and Innovation",
-        "description": "GoTeams empowers Strategy-, R&D-, and Innovation teams to turn ideas into real revenue and business traction.",
-        "url": "https://goteams.de/stakeholders/research-and-development-and-innovation",
-        "audience": {
-          "@type": "Audience",
-          "audienceType": "Ventures"
+      "address": [
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Berlin",
+          "addressCountry": "Germany",
+          "name": "Berlin Office"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Noida",
+          "addressRegion": "Delhi/NCR",
+          "addressCountry": "India",
+          "name": "Noida Office"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "London",
+          "addressCountry": "United Kingdom",
+          "name": "London Office"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Kathmandu",
+          "addressCountry": "Nepal",
+          "name": "Kathmandu Office"
         }
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "url": "https://goteams.de/contact",
+        "email": "mailto:hello@gogroup.co",
+        "contactType": "Customer Service",
+        "availableLanguage": ["German", "English"]
       },
-      {
-        "@type": "Offer",
-        "name": "Business Units",
-        "description": "GoTeams empowers individual business units to grow and accelerate.",
-        "url": "https://goteams.de/stakeholders/business-units",
-        "audience": {
-          "@type": "Audience",
-          "audienceType": "Business units"
-        }
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "GoTeams Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Find new business",
+            "description": "GoTeams empowers entrepreneurs and established companies to scout, filter, and validate new business opportunities. Fast, focused, and backed by real market feedback.",
+            "url": "https://goteams.de/services/find-new-business",
+            "category": "Business Development"
+          },
+          {
+            "@type": "Offer",
+            "name": "Establish new business",
+            "description": "GoTeams empowers entrepreneurs and established companies to convert ideas into new business with a revenue impact.",
+            "url": "https://goteams.de/services/establish-new-business",
+            "category": "Business Development"
+          },
+          {
+            "@type": "Offer",
+            "name": "Scale New Business",
+            "description": "GoTeams empowers entrepreneurs and established companies to scale their existing business.",
+            "url": "https://goteams.de/services/scale-new-business",
+            "category": "Business Development"
+          },
+          {
+            "@type": "Offer",
+            "name": "AI Disruption",
+            "description": "GoTeams empowers entrepreneurs and established companies to disrupt their industries with AI.",
+            "url": "https://goteams.de/services/AI-disruption",
+            "category": "Business Development"
+          },
+          {
+            "@type": "Offer",
+            "name": "AI Efficiency",
+            "description": "GoTeams empowers entrepreneurs and established companies to boost their companies efficiency with AI.",
+            "url": "https://goteams.de/services/AI-efficiency",
+            "category": "Business Development"
+          }
+        ]
       },
-      {
-        "@type": "Offer",
-        "name": "PE Owners and Investors",
-        "description": "GoTeams empowers Owners and PE firms to realise new business initiatives without affecting the existing business.",
-        "url": "https://goteams.de/stakeholders/PE-owners",
-        "audience": {
-          "@type": "Audience",
-          "audienceType": "Private Equity Portfolio Companies"
+      "serviceArea": {
+        "@type": "ItemList",
+        "name": "Target Markets",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Research and Development and Innovation",
+            "description": "GoTeams empowers Strategy-, R&D-, and Innovation teams to turn ideas into real revenue and business traction.",
+            "url": "https://goteams.de/stakeholders/research-and-development-and-innovation",
+            "audience": {
+              "@type": "Audience",
+              "audienceType": "Ventures"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "Business Units",
+            "description": "GoTeams empowers individual business units to grow and accelerate.",
+            "url": "https://goteams.de/stakeholders/business-units",
+            "audience": {
+              "@type": "Audience",
+              "audienceType": "Business units"
+            }
+          },
+          {
+            "@type": "Offer",
+            "name": "PE Owners and Investors",
+            "description": "GoTeams empowers Owners and PE firms to realise new business initiatives without affecting the existing business.",
+            "url": "https://goteams.de/stakeholders/PE-owners",
+            "audience": {
+              "@type": "Audience",
+              "audienceType": "Private Equity Portfolio Companies"
+            }
+          }
+        ]
+      },
+      "knowsAbout": [
+        "Ideation",
+        "Idea Validation",
+        "Market Research",
+        "Market Analysis",
+        "Rapid Prototyping",
+        "Roadmapping",
+        "MVP Development",
+        "Business Modeling",
+        "User Testing",
+        "AI Integration",
+        "AI Development",
+        "JavaScript",
+        "Python",
+        "React",
+        "Node.js",
+        "Mobile App Development",
+        "Cloud Computing",
+        "DevOps",
+        "Agile Development",
+        "Full-Stack Development",
+        "API Development"
+      ],
+      "areaServed": ["Germany", "Europe", "Asia"],
+      "employmentType": "FULL_TIME",
+      "inLanguage": ["de", "en"],
+      "businessFunction": "Technology Development",
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Employment Model",
+          "value": "Full-time employees only, no freelancers"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Approach",
+          "value": "Entrepreneurial ownership mindset beyond traditional agency models"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Team Integration",
+          "value": "Deep integration into partner's businesses with full project ownership"
         }
-      }
-    ]
-  },
-  "knowsAbout": [
-    "Ideation",
-    "Idea Validation",
-    "Market Research",
-    "Market Analysis",
-    "Rapid Prototyping",
-    "Roadmapping",
-    "MVP Development",
-    "Business Modeling",
-    "User Testing",
-    "AI Integration",
-    "AI Development",
-    "JavaScript",
-    "Python",
-    "React",
-    "Node.js",
-    "Mobile App Development",
-    "Cloud Computing",
-    "DevOps",
-    "Agile Development",
-    "Full-Stack Development",
-    "API Development"
-  ],
-  "areaServed": ["Germany", "Europe", "Asia"],
-  "employmentType": "FULL_TIME",
-  "inLanguage": ["de", "en"],
-  "businessFunction": "Technology Development",
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "Employment Model",
-      "value": "Full-time employees only, no freelancers"
+      ]
     },
     {
-      "@type": "PropertyValue",
-      "name": "Approach",
-      "value": "Entrepreneurial ownership mindset beyond traditional agency models"
+      "@type": "WebSite",
+      "@id": "https://goteams.de/#website",
+      "url": "https://goteams.de",
+      "name": "GoTeams",
+      "description": "GoTeams forms long-term product and tech teams. Truly Plug & Play. Venture Aware. Built to Scale. By Entrepreneurs, for Entrepreneurs.",
+      "publisher": {
+        "@id": "https://gogroup.co/#organization"
+      },
+      "inLanguage": "en"
     },
     {
-      "@type": "PropertyValue",
-      "name": "Team Integration",
-      "value": "Deep integration into partner's businesses with full project ownership"
+      "@type": "BreadcrumbList",
+      "@id": "https://goteams.de/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://goteams.de"
+        }
+      ]
     }
   ]
 }
