@@ -1,0 +1,161 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gogroup.co/#home-breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.gogroup.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Über uns",
+          "item": "https://www.gogroup.co/about"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Team",
+          "item": "https://www.gogroup.co/about/team"
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://gogroup.co/#organization",
+      "name": "GoGroup",
+      "legalName": "GoGroup GmbH",
+      "url": "https://www.gogroup.co",
+      "logo": "https://www.gogroup.co/images/logo-red.png",
+      "description": "GoGroup baut, hält und betreibt langfristig orientierte Unternehmen. Und baut die Technologien die diese antreiben. GoGroup wurde 2019 von den Serienunternehmern Sascha Weiler, Nico Weiler und Shishir Goel gegründet.",
+      "foundingDate": "2019",
+      "founders": [
+        {
+          "@type": "Person",
+          "name": "Sascha Weiler",
+          "email": "mailto:sascha.weiler@gogroup.co",
+          "jobTitle": "Gründungspartner",
+          "image": "https://www.gogroup.co/api/media/file/Sascha%20neu.jpeg",
+          "sameAs": [
+            "https://de.linkedin.com/in/saschaweiler1",
+            "https://www.crunchbase.com/person/sascha-weiler"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Nico Weiler",
+          "email": "mailto:nico.weiler@gogroup.co",
+          "jobTitle": "Gründungspartner",
+          "image": "https://www.gogroup.co/api/media/file/Nico%20neu.jpeg",
+          "sameAs": [
+            "https://de.linkedin.com/in/nicoweiler",
+            "https://www.crunchbase.com/person/nico-weiler"
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Shishir Goel",
+          "email": "mailto:shishir.goel@gogroup.co",
+          "jobTitle": "Gründungspartner",
+          "image": "https://www.gogroup.co/api/media/file/shishirgoel.jpg",
+          "sameAs": [
+            "https://www.crunchbase.com/person/shishir-goel",
+            "https://in.linkedin.com/in/shishirgoel"
+          ]
+        }
+      ],
+      "numberOfEmployees": 100,
+      "keywords": "operative Holdinggesellschaft, digitale Produkte, Risikokapital, Startup-Studio, Tech-Kraftwerk, Softwareentwicklung, Tech-Teams",
+      "address": [
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Berlin",
+          "addressCountry": "Deutschland",
+          "name": "Berliner Büro"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Noida",
+          "addressRegion": "Delhi/NCR",
+          "addressCountry": "Indien",
+          "name": "Noida Büro"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "London",
+          "addressCountry": "Vereinigtes Königreich",
+          "name": "Londoner Büro"
+        },
+        {
+          "@type": "PostalAddress",
+          "addressLocality": "Kathmandu",
+          "addressCountry": "Nepal",
+          "name": "Kathmandu Büro"
+        }
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "url": "https://www.gogroup.co/contact",
+        "email": "mailto:hello@gogroup.co",
+        "contactType": "Vertriebskontakt",
+        "availableLanguage": ["Deutsch", "Englisch"]
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/gogroup",
+        "https://pitchbook.com/profiles/investor/545950-90",
+        "https://www.crunchbase.com/organization/gogroup",
+        "https://www.glassdoor.co.in/Overview/Working-at-GoGroup-EI_IE4575111.11,18.htm"
+      ],
+      "subOrganization": [
+        {
+          "@type": "Organization",
+          "name": "GoTeams",
+          "url": "https://goteams.de",
+          "description": "GoTeams liefert no-bullshit Execution für Alle, die es ernst meinen: Wir bauen langfristige Product- und Tech-Teams mit Venture-Kontext. Plug & Play. Business orientiert. Bereit für Skalierung. Von Unternehmern, für Unternehmer."
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "GoGroup Dienstleistungen",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "name": "Aufbau-Plattform",
+            "description": "GoGroup baut, hält und betreibt Unternehmen über unterschiedliche Branchen hinweg. Das verbindende Element: Alle GoGroup-Unternehmen werden nachhaltig aus dem eigenen Cashflow aufgebaut - und sind damit von Beginn an auf langfristigen Erfolg ausgerichtet. Zum Portfolio gehören erfolgreiche Unternehmen wie GoParts, Trustspace, Eduneon und Meinungswerk - ein Beleg für GoGroups Kompetenz in Innovation, Umsetzung und Unternehmensaufbau.",
+            "url": "https://www.gogroup.co/platform/build"
+          },
+          {
+            "@type": "Offer",
+            "name": "Tech Powerhouse",
+            "description": "GoGroups Tech Powerhouse ist das High-Performance-Tech-Team hinter all unseren Ventures. Die einzigartige Kombination aus technischer Expertise und unternehmerischem Drive hilft unseren Unternehmen sowohl in der Skalierung - wenn robuste Systeme gefragt sind - als auch in den frühen Phasen, in denen schnelle Iteration und Agilität entscheidend sind.",
+            "url": "https://www.gogroup.co/platform/tech-powerhouse"
+          }
+        ]
+      },
+      "knowsAbout": [
+        "Technische Produktentwicklung",
+        "Investitionen",
+        "Risikokapital",
+        "Startup-Studio",
+        "Venture Builder",
+        "Venture Studio",
+        "Tech Powerhouse",
+        "Digitale Geschäftsmodelle"
+      ],
+      "areaServed": ["Deutschland", "Vereinigtes Königreich", "Europa"],
+      "makesOffer": {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Softwareentwicklungsdienstleistungen",
+          "description": "Tech-Team-Bereitstellung und Softwareentwicklung für Partnerunternehmen"
+        }
+      }
+    }
+  ]
+}
