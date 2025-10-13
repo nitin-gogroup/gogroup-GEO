@@ -90,7 +90,7 @@ Profile URL: https://www.gogroup.co/about/profile/shishir-goel
 ---
 
 **Document Information:**
-- Source: https://www.gogroup.co/about/about-team
+- Source: https://www.gogroup.co/about/team
 - Company: GoGroup GmbH
 - Last Updated: 13 October, 2025
 - Copyright: ©2025 GoGroup GmbH. All rights reserved.

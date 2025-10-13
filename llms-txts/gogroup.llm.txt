@@ -15,7 +15,7 @@ GoGroup was started in 2019 by Sascha Weiler, Nico Weiler and Shishir Goel, buil
 
 ### About
 - [About GoGroup](https://www.gogroup.co/about/about-go-group.html.md?lang=en): About GoGroup
-- [About GoGroup Team](https://www.gogroup.co/about/team?lang=en): About the team at GoGroup including the leadership, engneering and partner's leadership.
+- [About GoGroup Team](https://www.gogroup.co/about/team.html.md?lang=en): About the team at GoGroup including the leadership, engneering and partner's leadership.
 - [About Company Values](https://www.gogroup.co/about/culture-and-values?lang=en): About GoGroup core culure and values
 
 ### Social & External
@@ -42,7 +42,7 @@ Die einzigartige Kombination aus technischer Expertise und unternehmerischem Dri
 
 ### Über uns
 - [Über GoGroup](https://www.gogroup.co/about/about-go-group.html.md?lang=de): Über GoGroup
-- [Über das GoGroup-Team](https://www.gogroup.co/about/team): Über das Team von GoGroup, einschließlich der Führungskräfte, Ingenieure und Partner.
+- [Über das GoGroup-Team](https://www.gogroup.co/about/team.html.md): Über das Team von GoGroup, einschließlich der Führungskräfte, Ingenieure und Partner.
 - [Über die Werte des Unternehmens](https://www.gogroup.co/about/culture-and-values): Über die Kernkultur und Werte von GoGroup.
 
 ### Soziale Medien & Externe Links
