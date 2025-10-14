@@ -1,58 +1,86 @@
 {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "name": "GoTeams FAQ",
-    "description": "Häufig gestellte Fragen zu GoTeams",
-    "url": "https://www.goteams.de/about/faq",
-    "inLanguage": "de",
-    "mainEntity": [
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gogroup.co/#faq-breadcrumb",
+      "itemListElement": [
         {
-            "@type": "Question",
-            "name": "Wo sitzt GoTeams?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "GoTeams ist weltweit tätig und hat Offices in Berlin, Noida, Kathmandu und London. Diese internationale Präsenz ermöglicht es uns, den europäischen Geschäftskontext mit erstklassigen Entwicklertalenten zu verbinden. Unser verteiltes Setup gewährleistet Geschwindigkeit, Skalierbarkeit und Kosteneffizienz und sorgt gleichzeitig für eine enge Abstimmung der Teams mit den Projekten unserer Kunden."
-            }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.goteams.de/"
         },
         {
-            "@type": "Question",
-            "name": "Wie groß ist GoTeams?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Heute besteht GoTeams aus über 100 Produkt- und Technologieexperten, darunter Entwickler, Produktmanager, UX/UI-Designer, QA-, DevOps- und KI-Entwickler. Die Teams sind nicht statisch, sondern wachsen dynamisch mit den Anforderungen jedes Unternehmens – von dreiköpfigen Startup-Teams bis hin zu Scale-up-Teams mit über 50 Mitgliedern."
-            }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "About",
+          "item": "https://www.goteams.de/about/"
         },
         {
-            "@type": "Question",
-            "name": "Wie unterscheidet sich GoTeams von einer Outsourcing-Agentur oder einem Marktplatz für Freelancer?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "GoTeams ist kein Outsourcing-Anbieter oder eine Gig-Plattform. Stattdessen stellen wir langfristige, kontext-bewusste Techteams zusammen. Agenturen und Freelancer liefern möglicherweise Code für kurze Projekte, aber GoTeams stellt dedizierte Teams zusammen, die sich eng in das Partner-Unternehmen integrieren und auf seine Ziele, seine Kultur und seinen Wachstumspfad abgestimmt sind. GoTeams ist die Erweiterung des Gründungsteams."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Welche Arten von Unternehmen arbeiten normalerweise mit GoTeams?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Wir arbeiten mit VC-finanzierten Startups, Scale-ups, Konzernen und Private-Equity-Unternehmen zusammen. Der gemeinsame Nenner: Sie alle haben ernsthafte Wachstumsambitionen. GoTeams kommt in der Regel dann zum Einsatz, wenn frühe Lösungen wie Freelancer, Agenturen oder No-Code-Tools nicht mehr ausreichen und das Unternehmen ein geeignetes Setup benötigt, um Produkt und Technologie ohne Verlust von Momentum zu skalieren."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Wie stellt GoTeams Qualität, Integration und langfristige Zusammenarbeit sicher?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "GoTeams wendet praxiserprobte Prozesse an, die in Dutzenden von Unternehmen entwickelt wurden: von 3-Personen-Startups bis hin zu Unicorns mit über 150 Entwicklern. Die Teams sind in die Arbeitsabläufe des Partnerunternehmens integriert und passen sich automatisch an die Unternehmensgröße an, ähnlich wie AWS Server hoch- und herunterskaliert. Verbesserungen werden an alle Teams übertragen, sodass jedes Unternehmen von kontinuierlicher Verbesserung und Erfahrungsaustausch profitiert."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Welche Vorteile bietet GoTeams im Vergleich zu Agenturen, Freiberuflern oder internen Mitarbeitern?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Kein Bullshit: Wir sind immer ehrlich und direkt. Kein Bullshit. Unser einziges Interesse ist der langfristige Erfolg des Partner-Unternehmens - nicht das Aufschreiben von Stunden. Wir sind nur erfolgreich, wenn unsere Partner-Unternehmen erfolgreich sind. Geschwindigkeit: Plug-and-Play-Setup sorgt für Umsetzung vom ersten Tag an. Skalierbarkeit: Teams wachsen nahtlos mit dem Unternehmenswachstum – von vor der Gründung, bis nach dem Börsengang. Venture Awareness: Von Unternehmern für Unternehmer entwickelt, d. h. wir verstehen GTM, Vertrieb, Fundraising und alles über reines Programmieren hinausgehen. Zuverlässigkeit: Langfristige, engagierte Zusammenarbeit statt transaktionaler Projekte. Effizienz: Globale Talentzentren garantieren höchste Qualität zu wettbewerbsfähigen Kosten. Mit GoTeams erhalten Sie nicht nur Entwickler, sondern ein komplettes Team, das Ihr Unternehmen aufbaut, skaliert und sich anpasst."
-            }
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FAQ",
+          "item": "https://www.goteams.de/about/faq/"
         }
-    ]
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "name": "GoTeams FAQ",
+      "description": "Häufig gestellte Fragen zu GoTeams",
+      "url": "https://www.goteams.de/about/faq",
+      "inLanguage": "de",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wo sitzt GoTeams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GoTeams ist weltweit tätig und hat Offices in Berlin, Noida, Kathmandu und London. Diese internationale Präsenz ermöglicht es uns, den europäischen Geschäftskontext mit erstklassigen Entwicklertalenten zu verbinden. Unser verteiltes Setup gewährleistet Geschwindigkeit, Skalierbarkeit und Kosteneffizienz und sorgt gleichzeitig für eine enge Abstimmung der Teams mit den Projekten unserer Kunden."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie groß ist GoTeams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Heute besteht GoTeams aus über 100 Produkt- und Technologieexperten, darunter Entwickler, Produktmanager, UX/UI-Designer, QA-, DevOps- und KI-Entwickler. Die Teams sind nicht statisch, sondern wachsen dynamisch mit den Anforderungen jedes Unternehmens – von dreiköpfigen Startup-Teams bis hin zu Scale-up-Teams mit über 50 Mitgliedern."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie unterscheidet sich GoTeams von einer Outsourcing-Agentur oder einem Marktplatz für Freelancer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GoTeams ist kein Outsourcing-Anbieter oder eine Gig-Plattform. Stattdessen stellen wir langfristige, kontext-bewusste Techteams zusammen. Agenturen und Freelancer liefern möglicherweise Code für kurze Projekte, aber GoTeams stellt dedizierte Teams zusammen, die sich eng in das Partner-Unternehmen integrieren und auf seine Ziele, seine Kultur und seinen Wachstumspfad abgestimmt sind. GoTeams ist die Erweiterung des Gründungsteams."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Arten von Unternehmen arbeiten normalerweise mit GoTeams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wir arbeiten mit VC-finanzierten Startups, Scale-ups, Konzernen und Private-Equity-Unternehmen zusammen. Der gemeinsame Nenner: Sie alle haben ernsthafte Wachstumsambitionen. GoTeams kommt in der Regel dann zum Einsatz, wenn frühe Lösungen wie Freelancer, Agenturen oder No-Code-Tools nicht mehr ausreichen und das Unternehmen ein geeignetes Setup benötigt, um Produkt und Technologie ohne Verlust von Momentum zu skalieren."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie stellt GoTeams Qualität, Integration und langfristige Zusammenarbeit sicher?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GoTeams wendet praxiserprobte Prozesse an, die in Dutzenden von Unternehmen entwickelt wurden: von 3-Personen-Startups bis hin zu Unicorns mit über 150 Entwicklern. Die Teams sind in die Arbeitsabläufe des Partnerunternehmens integriert und passen sich automatisch an die Unternehmensgröße an, ähnlich wie AWS Server hoch- und herunterskaliert. Verbesserungen werden an alle Teams übertragen, sodass jedes Unternehmen von kontinuierlicher Verbesserung und Erfahrungsaustausch profitiert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Vorteile bietet GoTeams im Vergleich zu Agenturen, Freiberuflern oder internen Mitarbeitern?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kein Bullshit: Wir sind immer ehrlich und direkt. Kein Bullshit. Unser einziges Interesse ist der langfristige Erfolg des Partner-Unternehmens - nicht das Aufschreiben von Stunden. Wir sind nur erfolgreich, wenn unsere Partner-Unternehmen erfolgreich sind. Geschwindigkeit: Plug-and-Play-Setup sorgt für Umsetzung vom ersten Tag an. Skalierbarkeit: Teams wachsen nahtlos mit dem Unternehmenswachstum – von vor der Gründung, bis nach dem Börsengang. Venture Awareness: Von Unternehmern für Unternehmer entwickelt, d. h. wir verstehen GTM, Vertrieb, Fundraising und alles über reines Programmieren hinausgehen. Zuverlässigkeit: Langfristige, engagierte Zusammenarbeit statt transaktionaler Projekte. Effizienz: Globale Talentzentren garantieren höchste Qualität zu wettbewerbsfähigen Kosten. Mit GoTeams erhalten Sie nicht nur Entwickler, sondern ein komplettes Team, das Ihr Unternehmen aufbaut, skaliert und sich anpasst."
+          }
+        }
+      ]
+    }
+  ]
 }

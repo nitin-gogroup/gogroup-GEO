@@ -1,118 +1,144 @@
 {
   "@context": "https://schema.org",
-  "@type": "AboutPage",
-  "name": "About GoGroup",
-  "url": "https://www.gogroup.co/about/about-go-group",
-  "description": "GoGroup builds, owns and operates lasting businesses. And it builds the technology to power them. GoGroup was started in 2019 by Sascha Weiler, Nico Weiler and Shishir Goel, building on many years of experience as serial entrepreneurs.",
-  "mainEntity": {
-    "@type": "Organization",
-    "name": "GoGroup GmbH",
-    "@id": "https://www.gogroup.co",
-    "url": "https://www.gogroup.co",
-    "foundingDate": "2019",
-    "foundingLocation": {
-      "@type": "Place",
-      "name": "Germany"
-    },
-    "legalName": "GoGroup GmbH",
-    "numberOfEmployees": {
-      "@type": "QuantitativeValue",
-      "value": "100",
-      "description": "Over 100 professionals from 5 nations"
-    },
-    "areaServed": "Global",
-    "knowsAbout": [
-      "New Industry",
-      "Digital Business Scaling",
-      "Startup Investment",
-      "Technology Development",
-      "Entrepreneurship"
-    ],
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "GoGroup Services",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gogroup.co/#about-gg-breadcrumb",
       "itemListElement": [
         {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Third-Party Partnership",
-            "description": "Teaming up with third-parties to scale their digital businesses"
-          }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.gogroup.co/"
         },
         {
-          "@type": "Offer",
-          "itemOffered": {
-            "@type": "Service",
-            "name": "Smart Money Investment",
-            "description": "Investing smart money in startups supporting theses around the New Industry"
-          }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "About Us",
+          "item": "https://www.gogroup.co/about"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Team",
+          "item": "https://www.gogroup.co/about/about-go-group"
         }
       ]
     },
-    "owns": {
-      "@type": "Service",
-      "name": "Tech Powerhouse",
-      "description": "GoGroup’s Tech Powerhouse is the high-performance technology team behind all of our ventures. The unique blend of technical expertise and entrepreneurial drive helps our businesses succeed at scale, when robust systems are needed, as well as during the early phases, when fast iteration and agility are paramount."
-    },
-    "slogan": "Building outstanding digital products",
-    "additionalProperty": [
-      {
-        "@type": "PropertyValue",
-        "name": "Focus Area",
-        "value": "New Industry"
+    {
+      "@type": "AboutPage",
+      "name": "About GoGroup",
+      "url": "https://www.gogroup.co/about/about-go-group",
+      "description": "GoGroup builds, owns and operates lasting businesses. And it builds the technology to power them. GoGroup was started in 2019 by Sascha Weiler, Nico Weiler and Shishir Goel, building on many years of experience as serial entrepreneurs.",
+      "mainEntity": {
+        "@type": "Organization",
+        "name": "GoGroup GmbH",
+        "@id": "https://www.gogroup.co",
+        "url": "https://www.gogroup.co",
+        "foundingDate": "2019",
+        "foundingLocation": {
+          "@type": "Place",
+          "name": "Germany"
+        },
+        "legalName": "GoGroup GmbH",
+        "numberOfEmployees": {
+          "@type": "QuantitativeValue",
+          "value": "100",
+          "description": "Over 100 professionals from 5 nations"
+        },
+        "areaServed": "Global",
+        "knowsAbout": [
+          "New Industry",
+          "Digital Business Scaling",
+          "Startup Investment",
+          "Technology Development",
+          "Entrepreneurship"
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "GoGroup Services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Third-Party Partnership",
+                "description": "Teaming up with third-parties to scale their digital businesses"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Smart Money Investment",
+                "description": "Investing smart money in startups supporting theses around the New Industry"
+              }
+            }
+          ]
+        },
+        "owns": {
+          "@type": "Service",
+          "name": "Tech Powerhouse",
+          "description": "GoGroup’s Tech Powerhouse is the high-performance technology team behind all of our ventures. The unique blend of technical expertise and entrepreneurial drive helps our businesses succeed at scale, when robust systems are needed, as well as during the early phases, when fast iteration and agility are paramount."
+        },
+        "slogan": "Building outstanding digital products",
+        "additionalProperty": [
+          {
+            "@type": "PropertyValue",
+            "name": "Focus Area",
+            "value": "New Industry"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Approach",
+            "value": "Early profitability focused"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Philosophy",
+            "value": "Imperturbable believe in entrepreneurs who build for the long term"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Heritage",
+            "value": "Founded by entrepreneurs from Fab.com unicorn"
+          },
+          {
+            "@type": "PropertyValue",
+            "name": "Team Diversity",
+            "value": "100+ professionals from 5 nations"
+          }
+        ]
       },
-      {
-        "@type": "PropertyValue",
-        "name": "Approach",
-        "value": "Early profitability focused"
+      "about": {
+        "@type": "Organization",
+        "name": "GoGroup GmbH",
+        "@id": "https://www.gogroup.co"
       },
-      {
-        "@type": "PropertyValue",
-        "name": "Philosophy",
-        "value": "Imperturbable believe in entrepreneurs who build for the long term"
+      "mainContentOfPage": {
+        "@type": "WebPageElement",
+        "description": "Information about GoGroup's founding, mission, global presence, and three core business activities: creating own businesses, partnering with third-parties, and smart money investment."
       },
-      {
-        "@type": "PropertyValue",
-        "name": "Heritage",
-        "value": "Founded by entrepreneurs from Fab.com unicorn"
-      },
-      {
-        "@type": "PropertyValue",
-        "name": "Team Diversity",
-        "value": "100+ professionals from 5 nations"
-      }
-    ]
-  },
-  "about": {
-    "@type": "Organization",
-    "name": "GoGroup GmbH",
-    "@id": "https://www.gogroup.co"
-  },
-  "mainContentOfPage": {
-    "@type": "WebPageElement",
-    "description": "Information about GoGroup's founding, mission, global presence, and three core business activities: creating own businesses, partnering with third-parties, and smart money investment."
-  },
-  "significantLink": [
-    "https://www.gogroup.co/platform/tech-powerhouse"
-  ],
-  "relatedLink": [
-    "https://www.gogroup.co/platform",
-    "https://www.gogroup.co/about/team",
-    "https://www.gogroup.co/about/culture-and-values"
-  ],
-  "keywords": [
-    "operational holding company",
-    "digital products",
-    "new industry",
-    "venture building",
-    "startup investment",
-    "serial entrepreneurs",
-    "technical product building",
-    "unicorn",
-    "early profitability",
-    "global team"
-  ],
-  "dateModified": "2025",
-  "inLanguage": "en"
+      "significantLink": ["https://www.gogroup.co/platform/tech-powerhouse"],
+      "relatedLink": [
+        "https://www.gogroup.co/platform",
+        "https://www.gogroup.co/about/team",
+        "https://www.gogroup.co/about/culture-and-values"
+      ],
+      "keywords": [
+        "operational holding company",
+        "digital products",
+        "new industry",
+        "venture building",
+        "startup investment",
+        "serial entrepreneurs",
+        "technical product building",
+        "unicorn",
+        "early profitability",
+        "global team"
+      ],
+      "dateModified": "2025",
+      "inLanguage": "en"
+    }
+  ]
 }

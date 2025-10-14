@@ -1,100 +1,128 @@
 {
   "@context": "https://schema.org",
-  "@type": "Service",
-  "name": "Tech Powerhouse",
-  "provider": {
-    "@type": "Organization",
-    "name": "GoGroup GmbH",
-    "url": "https://www.gogroup.co"
-  },
-  "url": "https://www.gogroup.co/platform/tech-powerhouse",
-  "description": "GoGroup’s Tech Powerhouse is the high-performance technology team behind all of our ventures. The unique blend of technical expertise and entrepreneurial drive helps our businesses succeed at scale, when robust systems are needed, as well as during the early phases, when fast iteration and agility are paramount.",
-  "serviceType": "Technology Development Services",
-  "category": "Software Development",
-  "audience": {
-    "@type": "BusinessAudience",
-    "audienceType": "Businesses seeking technology development services"
-  },
-  "areaServed": {
-    "@type": "Place",
-    "name": "Global"
-  },
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Tech Powerhouse Services",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Full-time Technology Team",
-          "description": "Dedicated full-time technology professionals employed by GoGroup entities with job security regardless of project outcomes"
-        }
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Scalable Technology Solutions",
-          "description": "Robust, scalable technology solutions designed to handle the demands of fast-growing companies"
-        }
-      },
-      {
-        "@type": "Offer",
-        "itemOffered": {
-          "@type": "Service",
-          "name": "Business-Integrated Development",
-          "description": "Technology teams deeply integrated into partner businesses, taking full ownership of project success and aligning with strategic goals"
-        }
-      }
-    ]
-  },
-  "serviceOutput": [
+  "@graph": [
     {
-      "@type": "SoftwareApplication",
-      "name": "Scalable Technology Solutions"
-    }
-  ],
-  "offers": {
-    "@type": "Offer",
-    "name": "Tech Powerhouse Service",
-    "description": "Comprehensive technology development service with full-time dedicated teams",
-    "seller": {
-      "@type": "Organization",
-      "name": "GoGroup GmbH"
-    }
-  },
-  "brand": {
-    "@type": "Brand",
-    "name": "GoGroup"
-  },
-  "slogan": "Smooth tech delivery from start to scale",
-  "keywords": [
-    "technology development",
-    "software development",
-    "dedicated tech teams",
-    "full-time tech teams",
-    "scalable solutions",
-    "startup technology",
-    "unicorn tech support",
-    "entrepreneurial technology",
-    "business integration"
-  ],
-  "additionalProperty": [
-    {
-      "@type": "PropertyValue",
-      "name": "Employment Model",
-      "value": "Full-time employees"
+      "@type": "BreadcrumbList",
+      "@id": "https://gogroup.co/#tech-powerhouse-breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.gogroup.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Platform",
+          "item": "https://www.gogroup.co/platform"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Tech Powerhouse",
+          "item": "https://www.gogroup.co/platform/tech-powerhouse"
+        }
+      ]
     },
     {
-      "@type": "PropertyValue",
-      "name": "Approach",
-      "value": "Ownership-based technology development beyond conventional agency model"
-    },
-    {
-      "@type": "PropertyValue",
-      "name": "Team Characteristic",
-      "value": "Entrepreneurial mindset with deep business understanding"
+      "@type": "Service",
+      "name": "Tech Powerhouse",
+      "provider": {
+        "@type": "Organization",
+        "name": "GoGroup GmbH",
+        "url": "https://www.gogroup.co"
+      },
+      "url": "https://www.gogroup.co/platform/tech-powerhouse",
+      "description": "GoGroup’s Tech Powerhouse is the high-performance technology team behind all of our ventures. The unique blend of technical expertise and entrepreneurial drive helps our businesses succeed at scale, when robust systems are needed, as well as during the early phases, when fast iteration and agility are paramount.",
+      "serviceType": "Technology Development Services",
+      "category": "Software Development",
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Businesses seeking technology development services"
+      },
+      "areaServed": {
+        "@type": "Place",
+        "name": "Global"
+      },
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Tech Powerhouse Services",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Full-time Technology Team",
+              "description": "Dedicated full-time technology professionals employed by GoGroup entities with job security regardless of project outcomes"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Scalable Technology Solutions",
+              "description": "Robust, scalable technology solutions designed to handle the demands of fast-growing companies"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Business-Integrated Development",
+              "description": "Technology teams deeply integrated into partner businesses, taking full ownership of project success and aligning with strategic goals"
+            }
+          }
+        ]
+      },
+      "serviceOutput": [
+        {
+          "@type": "SoftwareApplication",
+          "name": "Scalable Technology Solutions"
+        }
+      ],
+      "offers": {
+        "@type": "Offer",
+        "name": "Tech Powerhouse Service",
+        "description": "Comprehensive technology development service with full-time dedicated teams",
+        "seller": {
+          "@type": "Organization",
+          "name": "GoGroup GmbH"
+        }
+      },
+      "brand": {
+        "@type": "Brand",
+        "name": "GoGroup"
+      },
+      "slogan": "Smooth tech delivery from start to scale",
+      "keywords": [
+        "technology development",
+        "software development",
+        "dedicated tech teams",
+        "full-time tech teams",
+        "scalable solutions",
+        "startup technology",
+        "unicorn tech support",
+        "entrepreneurial technology",
+        "business integration"
+      ],
+      "additionalProperty": [
+        {
+          "@type": "PropertyValue",
+          "name": "Employment Model",
+          "value": "Full-time employees"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Approach",
+          "value": "Ownership-based technology development beyond conventional agency model"
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Team Characteristic",
+          "value": "Entrepreneurial mindset with deep business understanding"
+        }
+      ]
     }
   ]
 }

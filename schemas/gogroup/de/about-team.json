@@ -3,7 +3,7 @@
   "@graph": [
     {
       "@type": "BreadcrumbList",
-      "@id": "https://gogroup.co/#home-breadcrumb",
+      "@id": "https://gogroup.co/#about-team-breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",

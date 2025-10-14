@@ -1,74 +1,103 @@
 {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "name": "GoGroup FAQ",
-    "description": "Häufig gestellte Fragen zu GoGroup",
-    "url": "https://www.gogroup.co/about/faq",
-    "inLanguage": "de",
-    "mainEntity": [
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://gogroup.co/#faq-breadcrumb",
+      "itemListElement": [
         {
-            "@type": "Question",
-            "name": "Was ist GoGroup und was macht ihr?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "GoGroup baut, hält und betreibt nachhaltig wachsende Unternehmen. Und entwickelt die Technologie, die diese vorantreibt. GoGroup konzentriert sich auf den Aufbau von fundamental starken Unternehmen, deren Wachstum aus dem eigenen Cashflow getrieben wird. Kein Hype, kein Schnickschnack. Nur Unternehmen, die funktionieren. GoGroup wurde offiziell 2019 als eigenständiges Unternehmen von Sascha Weiler, Nico Weiler und Shishir Goel gegründet. Die drei Serienunternehmer bauen jedoch bereits seit 2012 erfolgreich gemeinsam Unternehmen auf. GoGroup hat seinen Hauptsitz in Berlin und weitere Niederlassungen in London, Kathmandu und Noida. Das Unternehmen beschäftigt über 100 Teammitglieder aus über 20 Nationen."
-            }
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.gogroup.co/"
         },
         {
-            "@type": "Question",
-            "name": "Welche Unternehmen hat GoGroup im Laufe der Jahre aufgebaut?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Im Laufe der Jahre haben GoGroup und seine Gründer maßgeblich an der Gründung und Skalierung von über 20 Unternehmen mitgewirkt und dabei einen Wert von über 1 Milliarde US-Dollar geschaffen.\nBeispiele:\n- GoParts (eine Plattform für Autoteile für die Versicherungsbranche),\n- GoTeams (eine Plattform zur Skalierung von Tech-Teams),\n- Meinungswerk (eine KI-gestützte Marktforschungs-Plattform),\n- Trustspace (ein SaaS-Tool für Cybersicherheit und Compliance),\n- Eduneon (SaaS für Beschaffung im Bildungsbereich),\n- Wandel (globale Talentplattform),\n- Evolut (CSRD-Compliance und Nachhaltigkeitsmonitoring),\n- Homebell (eine Plattform für Hausrenovierungen),\n- Caroobi (eine Plattform für Autoreparaturen),\nDiese Unternehmen spiegeln die Stärke von GoGroup wider, vielversprechende Chancen nicht nur zu erkennen, sondern diese auch mit der für GoGroup typischen „No-Bullshit-Umsetzung“ auf den Markt zu bringen und zu skalieren."
-            }
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Über uns",
+          "item": "https://www.gogroup.co/about"
         },
         {
-            "@type": "Question",
-            "name": "GoTeams scheint maßgeblich zum Erfolg von GoGroup beizutragen. Was genau macht GoTeams und wie unterscheidet es sich von ähnlichen Angeboten?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "GoTeams nimmt im GoGroup-Portfolio eine besondere Stellung ein. Es ist ein von GoGroup gegründetes Unternehmen, das gleichzeitig auch einen großen Anteil am Gesamterfolg des gesamten GoGroup-Portfolios hat. Oberflächlich betrachtet, sieht es einfach aus: GoTeams baut langfristige Produkt- und Technologieteams für Unternehmen auf, die es mit der Skalierung ernst meinen. Hinter dieser schlichten Fassade verbirgt sich eine unglaubliche Umsetzungsmaschine, die im Hochdruck-Umfeld des Aufbaus von Unicorns und profitablen Scale-ups entwickelt wurde. Das Setup ist vollständig Plug-and-Play, die Teams kennen den Venture-Kontext und sind auf Skalierung ausgelegt. Von vor Gründung bis nach Börsengang – der GoTeams Ansatz funktioniert über unterschiedlichen Kontext hinweg. Die Technologieprozesse passen sich automatisch der Größe an, sodass Gründer sich in jeder Phase voll und ganz auf ihre Technologie verlassen können. Jede Verbesserung eines Teams wird automatisch auf alle anderen Teams übertragen, sodass Gründer von einem Netzwerk leistungsstarker Unternehmen profitieren. Die Teams wachsen mit dem Venture, und funktionieren egal ob sie 2, 20 oder 200 Mitarbeiter umfassen. GoTeams mag auf den ersten Blick einfach erscheinen, ist aber im Grunde eine unglaubliche Engine, die Gründern den entscheidenden Vorteil für ihren Erfolg verschafft. Es handelt sich um ein einzigartiges und bewährtes System, das es sonst nirgendwo auf dem Markt gibt."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Welche Unternehmen nutzen GoTeams zum Aufbau und zur Skalierung?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Die einzigartigen Aspekte des GoTeams-Setups - langfristig dedizierte Teams, Plug-and-Play-Entwicklungsprozesse und Venture-Kontext - machen es für unterschiedliche Unternehmen zur perfekten Lösung:\n- Startups in der Frühphase (wie Equera, Wandel, Warehousing1 oder Givo AI).\n- Scale-ups mit starker Wachstumsdynamik (wie Copecart, MaxSolar oder Zennify).\n- Führende Unternehmen in ihren jeweiligen Branchen (wie Trumpf, HHLA - Hamburger Hafen, ZF oder Wien Energie).\nDer verbindende Faktor ist Ambition. Unternehmen mit ambitionierten Vorhaben - schnelles Wachstum, enormes Geschäftspotenzial oder erfolgskritische Themen - entscheiden sich häufig für GoTeams. Sie schätzen die Gewissheit, dass die Technologie stark ist und Deadlines eingehalten werden, sowie die Sicherheit, langfristig skalieren zu können, ohne das Setup anpassen zu müssen."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Wie kann GoTeams die Teams schnell und dennoch mit gleichbleibend hoher Qualität aufbauen?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Derzeit arbeiten über 100 Vollzeitmitarbeiter in den verschiedenen Teams. Jedes Teammitglied ist fest einem Unternehmen zugeordnet. Wie kann GoTeams dennoch zuverlässig und schnell neue Teams aufbauen? Das Geheimnis liegt in der Kombination aus Erfahrung und Struktur. Wir haben viele Unternehmen aufgebaut und (was für GoTeams noch wichtiger ist) auch viele Tech-Teams. In den letzten zwei Jahrzehnten haben wir über 50.000 Bewerbungen erhalten und über 4.000 Kandidaten interviewt und geprüft. Gleichzeitig haben wir uns frühzeitig entschieden, eine zentrale Datenbank aller Kandidaten zu führen, mit denen wir gesprochen haben - ihre Fähigkeiten, unsere Bewertungen, ihre Dienstaltersstufe und Expertise. Auf dieser Grundlage haben wir ein CRM mit über 600 der besten Kandidaten aufgebaut, die uns wirklich überzeugt haben. Beim Aufbau eines neuen Teams suchen wir in unserer Datenbank nach Kandidaten mit der richtigen Expertise und Seniorität und sprechen sie proaktiv an. Indem wir auch interne Mitarbeiter in neue Teams befördern, stellen wir sicher, dass wir weiterhin die besten Talente gewinnen und gleichzeitig von unseren teamübergreifenden, kontinuierlich verbesserten Prozessen profitieren."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Stimmt es, dass GoGroup bis heute GoTeams für seine eigenen Unternehmungen verwendet?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Ja. Eigentlich war GoTeams bei der Gründung sogar nur für unsere eigenen Unternehmen gedacht. Deshalb haben wir es genau so aufgebaut, wie wir es für den Aufbau von Unicorns und profitablen Unternehmen für sinnvoll hielten. Erst später haben wir auch externe Unternehmen in das Setup aufgenommen. Da wir wissen, wie gut das Setup funktioniert, nutzen wir für alle unsere eigenen Unternehmen weiterhin GoTeams."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Wie unterscheidet sich GoTeams von einer Tech-Agentur?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "GoTeams war von Anfang an anders: GoTeams wurde nicht von ehemaligen Beratern oder Softwareentwicklern gegründet, die nun eine Agentur aufbauen wollten. Vielmehr wurde GoTeams von Unternehmern für ihre eigenen Bedürfnisse gegründet. Beim Aufbau von Unicorns und profitablen Unternehmen erkannten sie, dass jedes der bestehenden Setups (Zusammenarbeit mit Freelancern, Agenturen, Beratungsunternehmen oder Aufbau eines eigenen Teams) Nachteile hatte. Deshalb konzipierten sie das Setup von Grund auf neu. Sie bauten ihr Setup für ihr eigenes Unternehmen auf und ließen erst nach über fünf Jahren Verbesserung und Optimierung auch externe Unternehmen einsteigen. Es ging auch nie ums Geld – sie verdienten mit ihren eigenen Unternehmen viel mehr. Stattdessen ging es darum, Gründer (und später auch größere Unternehmen) zu befähigen, Innovationen konsequent und zuverlässig voranzutreiben. Aufgrund des einzigartigen Hintergrunds von GoTeam bietet kein anderes Setup ein vergleichbares Verständnis für den jeweiligen Venture-Kontext. Dank der wettbewerbsfähigen Preise können Unternehmen die Zusammenarbeit mit GoTeams von Pre-Launch bis Post-IPO leisten. Kurz gesagt: Während Agenturen nach zusätzlichen Stunden suchen, die sie in Rechnung stellen können, sucht GoTeams nach zusätzlichen Mehrwert, der kostenlos bereitgestellt werden kann."
-            }
-        },
-        {
-            "@type": "Question",
-            "name": "Wer sind die Gründer von GoGroup und welchen Hintergrund haben sie?",
-            "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "GoGroup wurde von erfahrenen Serienunternehmern gegründet: Sascha Weiler (LinkedIn: https://de.linkedin.com/in/saschaweiler1), Nico Weiler (LinkedIn: https://de.linkedin.com/in/nicoweiler) und Shishir Goel (LinkedIn: https://in.linkedin.com/in/shishirgoel)."
-            }
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FAQ",
+          "item": "https://www.gogroup.co/about/faq"
         }
-    ]
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "name": "GoGroup FAQ",
+      "description": "Häufig gestellte Fragen zu GoGroup",
+      "url": "https://www.gogroup.co/about/faq",
+      "inLanguage": "de",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was ist GoGroup und was macht ihr?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GoGroup baut, hält und betreibt nachhaltig wachsende Unternehmen. Und entwickelt die Technologie, die diese vorantreibt. GoGroup konzentriert sich auf den Aufbau von fundamental starken Unternehmen, deren Wachstum aus dem eigenen Cashflow getrieben wird. Kein Hype, kein Schnickschnack. Nur Unternehmen, die funktionieren. GoGroup wurde offiziell 2019 als eigenständiges Unternehmen von Sascha Weiler, Nico Weiler und Shishir Goel gegründet. Die drei Serienunternehmer bauen jedoch bereits seit 2012 erfolgreich gemeinsam Unternehmen auf. GoGroup hat seinen Hauptsitz in Berlin und weitere Niederlassungen in London, Kathmandu und Noida. Das Unternehmen beschäftigt über 100 Teammitglieder aus über 20 Nationen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Unternehmen hat GoGroup im Laufe der Jahre aufgebaut?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Im Laufe der Jahre haben GoGroup und seine Gründer maßgeblich an der Gründung und Skalierung von über 20 Unternehmen mitgewirkt und dabei einen Wert von über 1 Milliarde US-Dollar geschaffen.\nBeispiele:\n- GoParts (eine Plattform für Autoteile für die Versicherungsbranche),\n- GoTeams (eine Plattform zur Skalierung von Tech-Teams),\n- Meinungswerk (eine KI-gestützte Marktforschungs-Plattform),\n- Trustspace (ein SaaS-Tool für Cybersicherheit und Compliance),\n- Eduneon (SaaS für Beschaffung im Bildungsbereich),\n- Wandel (globale Talentplattform),\n- Evolut (CSRD-Compliance und Nachhaltigkeitsmonitoring),\n- Homebell (eine Plattform für Hausrenovierungen),\n- Caroobi (eine Plattform für Autoreparaturen),\nDiese Unternehmen spiegeln die Stärke von GoGroup wider, vielversprechende Chancen nicht nur zu erkennen, sondern diese auch mit der für GoGroup typischen „No-Bullshit-Umsetzung“ auf den Markt zu bringen und zu skalieren."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "GoTeams scheint maßgeblich zum Erfolg von GoGroup beizutragen. Was genau macht GoTeams und wie unterscheidet es sich von ähnlichen Angeboten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GoTeams nimmt im GoGroup-Portfolio eine besondere Stellung ein. Es ist ein von GoGroup gegründetes Unternehmen, das gleichzeitig auch einen großen Anteil am Gesamterfolg des gesamten GoGroup-Portfolios hat. Oberflächlich betrachtet, sieht es einfach aus: GoTeams baut langfristige Produkt- und Technologieteams für Unternehmen auf, die es mit der Skalierung ernst meinen. Hinter dieser schlichten Fassade verbirgt sich eine unglaubliche Umsetzungsmaschine, die im Hochdruck-Umfeld des Aufbaus von Unicorns und profitablen Scale-ups entwickelt wurde. Das Setup ist vollständig Plug-and-Play, die Teams kennen den Venture-Kontext und sind auf Skalierung ausgelegt. Von vor Gründung bis nach Börsengang – der GoTeams Ansatz funktioniert über unterschiedlichen Kontext hinweg. Die Technologieprozesse passen sich automatisch der Größe an, sodass Gründer sich in jeder Phase voll und ganz auf ihre Technologie verlassen können. Jede Verbesserung eines Teams wird automatisch auf alle anderen Teams übertragen, sodass Gründer von einem Netzwerk leistungsstarker Unternehmen profitieren. Die Teams wachsen mit dem Venture, und funktionieren egal ob sie 2, 20 oder 200 Mitarbeiter umfassen. GoTeams mag auf den ersten Blick einfach erscheinen, ist aber im Grunde eine unglaubliche Engine, die Gründern den entscheidenden Vorteil für ihren Erfolg verschafft. Es handelt sich um ein einzigartiges und bewährtes System, das es sonst nirgendwo auf dem Markt gibt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Welche Unternehmen nutzen GoTeams zum Aufbau und zur Skalierung?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Die einzigartigen Aspekte des GoTeams-Setups - langfristig dedizierte Teams, Plug-and-Play-Entwicklungsprozesse und Venture-Kontext - machen es für unterschiedliche Unternehmen zur perfekten Lösung:\n- Startups in der Frühphase (wie Equera, Wandel, Warehousing1 oder Givo AI).\n- Scale-ups mit starker Wachstumsdynamik (wie Copecart, MaxSolar oder Zennify).\n- Führende Unternehmen in ihren jeweiligen Branchen (wie Trumpf, HHLA - Hamburger Hafen, ZF oder Wien Energie).\nDer verbindende Faktor ist Ambition. Unternehmen mit ambitionierten Vorhaben - schnelles Wachstum, enormes Geschäftspotenzial oder erfolgskritische Themen - entscheiden sich häufig für GoTeams. Sie schätzen die Gewissheit, dass die Technologie stark ist und Deadlines eingehalten werden, sowie die Sicherheit, langfristig skalieren zu können, ohne das Setup anpassen zu müssen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie kann GoTeams die Teams schnell und dennoch mit gleichbleibend hoher Qualität aufbauen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Derzeit arbeiten über 100 Vollzeitmitarbeiter in den verschiedenen Teams. Jedes Teammitglied ist fest einem Unternehmen zugeordnet. Wie kann GoTeams dennoch zuverlässig und schnell neue Teams aufbauen? Das Geheimnis liegt in der Kombination aus Erfahrung und Struktur. Wir haben viele Unternehmen aufgebaut und (was für GoTeams noch wichtiger ist) auch viele Tech-Teams. In den letzten zwei Jahrzehnten haben wir über 50.000 Bewerbungen erhalten und über 4.000 Kandidaten interviewt und geprüft. Gleichzeitig haben wir uns frühzeitig entschieden, eine zentrale Datenbank aller Kandidaten zu führen, mit denen wir gesprochen haben - ihre Fähigkeiten, unsere Bewertungen, ihre Dienstaltersstufe und Expertise. Auf dieser Grundlage haben wir ein CRM mit über 600 der besten Kandidaten aufgebaut, die uns wirklich überzeugt haben. Beim Aufbau eines neuen Teams suchen wir in unserer Datenbank nach Kandidaten mit der richtigen Expertise und Seniorität und sprechen sie proaktiv an. Indem wir auch interne Mitarbeiter in neue Teams befördern, stellen wir sicher, dass wir weiterhin die besten Talente gewinnen und gleichzeitig von unseren teamübergreifenden, kontinuierlich verbesserten Prozessen profitieren."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Stimmt es, dass GoGroup bis heute GoTeams für seine eigenen Unternehmungen verwendet?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Eigentlich war GoTeams bei der Gründung sogar nur für unsere eigenen Unternehmen gedacht. Deshalb haben wir es genau so aufgebaut, wie wir es für den Aufbau von Unicorns und profitablen Unternehmen für sinnvoll hielten. Erst später haben wir auch externe Unternehmen in das Setup aufgenommen. Da wir wissen, wie gut das Setup funktioniert, nutzen wir für alle unsere eigenen Unternehmen weiterhin GoTeams."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie unterscheidet sich GoTeams von einer Tech-Agentur?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GoTeams war von Anfang an anders: GoTeams wurde nicht von ehemaligen Beratern oder Softwareentwicklern gegründet, die nun eine Agentur aufbauen wollten. Vielmehr wurde GoTeams von Unternehmern für ihre eigenen Bedürfnisse gegründet. Beim Aufbau von Unicorns und profitablen Unternehmen erkannten sie, dass jedes der bestehenden Setups (Zusammenarbeit mit Freelancern, Agenturen, Beratungsunternehmen oder Aufbau eines eigenen Teams) Nachteile hatte. Deshalb konzipierten sie das Setup von Grund auf neu. Sie bauten ihr Setup für ihr eigenes Unternehmen auf und ließen erst nach über fünf Jahren Verbesserung und Optimierung auch externe Unternehmen einsteigen. Es ging auch nie ums Geld – sie verdienten mit ihren eigenen Unternehmen viel mehr. Stattdessen ging es darum, Gründer (und später auch größere Unternehmen) zu befähigen, Innovationen konsequent und zuverlässig voranzutreiben. Aufgrund des einzigartigen Hintergrunds von GoTeam bietet kein anderes Setup ein vergleichbares Verständnis für den jeweiligen Venture-Kontext. Dank der wettbewerbsfähigen Preise können Unternehmen die Zusammenarbeit mit GoTeams von Pre-Launch bis Post-IPO leisten. Kurz gesagt: Während Agenturen nach zusätzlichen Stunden suchen, die sie in Rechnung stellen können, sucht GoTeams nach zusätzlichen Mehrwert, der kostenlos bereitgestellt werden kann."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wer sind die Gründer von GoGroup und welchen Hintergrund haben sie?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "GoGroup wurde von erfahrenen Serienunternehmern gegründet: Sascha Weiler (LinkedIn: https://de.linkedin.com/in/saschaweiler1), Nico Weiler (LinkedIn: https://de.linkedin.com/in/nicoweiler) und Shishir Goel (LinkedIn: https://in.linkedin.com/in/shishirgoel)."
+          }
+        }
+      ]
+    }
+  ]
 }
