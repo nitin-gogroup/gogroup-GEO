@@ -26,6 +26,11 @@
       ]
     },
     {
+      "@type": "Table",
+      "name": "Why Choose GoTeams?",
+      "description": "Most founders ask how GoTeams differs from agencies or freelancers. Here’s a simple comparison that shows where we fit"
+    },
+    {
       "@type": "FAQPage",
       "name": "GoTeams FAQ",
       "description": "Frequently Asked Questions about GoTeams",

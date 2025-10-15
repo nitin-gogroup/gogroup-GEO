@@ -26,6 +26,11 @@
       ]
     },
     {
+      "@type": "Table",
+      "name": "Warum GoTeams wählen?",
+      "description": "Die meisten Gründer fragen, wie sich GoTeams von Agenturen oder Freiberuflern unterscheidet. Hier ist ein einfacher Vergleich, der zeigt, wo wir hingehören"
+    },
+    {
       "@type": "FAQPage",
       "name": "GoTeams FAQ",
       "description": "Häufig gestellte Fragen zu GoTeams",
