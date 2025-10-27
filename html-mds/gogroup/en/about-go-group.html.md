@@ -55,7 +55,7 @@ GoGroup is established as a standalone entity, bringing together the team's expe
 
 Under the GoTeams brand, GoGroup begins offering 40-strong team of developers to external customers and partners in the German Startup Ecosystem which spanned across automotive, home services, market research, cybersecurity, and education sectors.
 
-**Businesses Launched/Partnered with:**
+**Businesses Launched**
 - GoParts (automotive parts platform)
 - GoTeams (tech team platform)
 - Meinungswerk (AI-powered market research)
@@ -94,9 +94,6 @@ GoGroup continues to build and scale businesses aligned with the New Industry vi
 - An unwavering belief in entrepreneurs who build for the long term
 
 Our founders came together at Fab.com, the fastest growing tech unicorn of its time.
-
-## Our Mission
-We are the home for building enduring businesses. Following this guiding principle, we continue to support and empower entrepreneurs in building excellent digital products and scaling them for the long run.
 
 ---
 
