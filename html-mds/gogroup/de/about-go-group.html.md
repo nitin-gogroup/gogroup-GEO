@@ -58,7 +58,7 @@ GoGroup wird als eigenständige Einheit gegründet und vereint die Erfahrung und
 
 Unter der Marke GoTeams bietet GoGroup ein 40-köpfiges Entwicklerteam für externe Kunden und Partner im deutschen Startup-Ökosystem an, das sich über die Bereiche Automotive, Home Services, Marktforschung, Cybersecurity und Bildung erstreckt.
 
-**Gegründete/Partner-Unternehmen:**
+**Gegründete:**
 - GoParts (Plattform für Autoteile)
 - GoTeams (Tech-Team-Plattform)
 - Meinungswerk (KI-gestützte Marktforschung)
@@ -98,9 +98,6 @@ GoGroup baut und skaliert weiterhin Unternehmen, die mit der Vision der New Indu
 - Ein unerschütterlicher Glaube an Unternehmer, die für die Langfristigkeit bauen
 
 Unsere Gründer kamen bei Fab.com zusammen, dem damals am schnellsten wachsenden Tech-Unicorn.
-
-## Unsere Mission
-Wir sind die Heimat für den Aufbau nachhaltiger Unternehmen. Nach diesem Leitprinzip unterstützen und stärken wir weiterhin Unternehmer beim Aufbau exzellenter digitaler Produkte und deren langfristiger Skalierung.
 
 ---
 
