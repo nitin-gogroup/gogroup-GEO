@@ -205,6 +205,104 @@
           "item": "https://goteams.de"
         }
       ]
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "@id": "https://goteams.de/#navigation",
+      "name": "GoTeams Navigation",
+      "url": "https://www.goteams.de",
+      "hasPart": [
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Find New Business",
+          "url": "https://www.goteams.de/services/find-new-business"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Establish New Business",
+          "url": "https://www.goteams.de/services/establish-new-business"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Scale New Business",
+          "url": "https://www.goteams.de/services/scale-new-business"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "AI Disruption",
+          "url": "https://www.goteams.de/services/AI-disruption"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "AI Efficiency",
+          "url": "https://www.goteams.de/services/AI-efficiency"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Research&development And Innovation",
+          "url": "https://www.goteams.de/stakeholders/research-and-development-and-innovation"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Business Units",
+          "url": "https://www.goteams.de/stakeholders/business-units"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "PE Owners",
+          "url": "https://www.goteams.de/stakeholders/PE-owners"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Logistics",
+          "url": "https://www.goteams.de/industries/logistics"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Energy",
+          "url": "https://www.goteams.de/industries/energy"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Insurance",
+          "url": "https://www.goteams.de/industries/insurance"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Automotive",
+          "url": "https://www.goteams.de/industries/automotive"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Business Services",
+          "url": "https://www.goteams.de/industries/business-services"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Cybersecurity",
+          "url": "https://www.goteams.de/industries/cybersecurity"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Success Stories",
+          "url": "https://www.goteams.de/success-stories"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Profile And History",
+          "url": "https://www.goteams.de/about/profile-and-history"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "Jobs",
+          "url": "https://www.goteams.de/about/jobs"
+        },
+        {
+          "@type": "SiteNavigationElement",
+          "name": "FAQ",
+          "url": "https://www.goteams.de/about/faq"
+        }
+      ]
     }
   ]
 }
