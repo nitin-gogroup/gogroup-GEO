@@ -3,7 +3,7 @@
     "@graph": [
       {
         "@type": "BreadcrumbList",
-        "@id": "https://www.goteams.de/#faq-breadcrumb",
+        "@id": "https://www.goteams.de/#compare-goteams-breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
