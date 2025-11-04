@@ -97,7 +97,7 @@ Our founders came together at Fab.com, the fastest growing tech unicorn of its t
 
 ---
 
-**Dokumentinformationen:**
+**Document Information:**
 - Quelle: https://www.gogroup.co/about/about-go-group
 - Unternehmen: GoGroup GmbH
 - Zuletzt aktualisiert: 13 Oktober 2025
