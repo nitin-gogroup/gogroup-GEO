@@ -93,5 +93,5 @@ Dieses Modell gewährleistet engagierte, skalierbare Teams, die als Erweiterung 
 ## Dokumentinformationen:
 - Quelle: https://www.goteams.de/about/profile-and-history
 - Unternehmen: GoGroup GmbH
-- Letzte Aktualisierung: 31. Oktober 2025
+- Letzte Aktualisierung: 04. November 2025
 - Copyright: ©2025 GoGroup GmbH. Alle Rechte vorbehalten.
