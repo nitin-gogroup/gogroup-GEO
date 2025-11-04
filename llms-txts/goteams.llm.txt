@@ -8,8 +8,8 @@ By Entrepreneurs, for Entrepreneurs.
 
 ### Main Pages
 - [Home](https://goteams.de/?lang=en): GoTeams main page - dedicated tech teams for digital products and services
-- [Success Stories](https://goteams.de/success-stories?lang=en): Success stories of GoGroup partners
-- [About](https://goteams.de/about/profile-and-history?lang=en): About GoTeams and company information
+- [Success Stories](https://goteams.de/success-stories.html.md?lang=en): Success stories of GoGroup partners
+- [About](https://goteams.de/about/profile-and-history.html.md?lang=en): About GoTeams and company information
 - [Contact](https://goteams.de/contact?lang=en): Contact information and inquiries
 - [FAQ GoTeams](https://www.goteams.de/about/faq.html.md?lang=en): Frequently Asked Questions about GoTeams
 - [Compare GoTeams](https://goteams.de/compare-goteams?lang=en): Compare GoTeams with tech agencies, freelancers, staffing companies and in-house teams. See why dedicated teams deliver better quality, speed, and long-term value.
@@ -54,8 +54,8 @@ Diese Website verwendet Accept-Language-Header und Query-Parameter für die Loka
 
 ### Hauptseiten
 - [Startseite](https://goteams.de/?lang=de): GoTeams Hauptseite - dedizierte Tech-Teams für digitale Produkte und Services
-- [Erfolgsgeschichten](https://goteams.de/success-stories?lang=de): Erfolgsgeschichten von GoGroup-Partnern
-- [Über uns](https://goteams.de/about/profile-and-history?lang=de): Über GoTeams und Unternehmensinformationen
+- [Erfolgsgeschichten](https://goteams.de/success-stories.html.md?lang=de): Erfolgsgeschichten von GoGroup-Partnern
+- [Über uns](https://goteams.de/about/profile-and-history.html.md?lang=de): Über GoTeams und Unternehmensinformationen
 - [Kontakt](https://goteams.de/contact?lang=de): Kontaktinformationen und Anfragen
 - [FAQ GoTeams](https://www.goteams.de/about/faq.html.md?lang=de): Häufig gestellte Fragen zu GoTeams
 - [Compare GoTeams](https://goteams.de/compare-goteams?lang=de): Vergleichen Sie GoTeams mit Technologieagenturen, Freiberuflern, Personalvermittlungsagenturen und internen Teams. Erfahren Sie, warum engagierte Teams eine bessere Qualität, Geschwindigkeit und langfristigen Mehrwert bieten.
